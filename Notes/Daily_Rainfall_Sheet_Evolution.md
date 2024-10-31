@@ -15,7 +15,7 @@ This is a monthly form, but includes columns for details of which day of the mon
 
 ## Early British Rainfall Daily Rainfall Forms
 
-Most of daily rainfall records in the Online Archive recording rainfall before 1870 are either handrawn/adhoc forms or later transcriptions of an original source using a form from the later period.
+Most of daily rainfall records in the Online Archive recording rainfall before 1870 are either hand-drawn/adhoc forms or later transcriptions of an original source using a form from the later period.
 
 The earliest printed Daily Rainfall forms in the Online Archive which mention 'British Rainfall' are some of those which provide rainfall figures for 1869. 
 There are two versions of this form, using different return addresses for Symons:
@@ -24,6 +24,13 @@ actually 129, Camden Road Villas until a renumbering in 1864).
 * sometime between June 1868 and February 1869, Symons moved to 62, Camden Square. 
 
 Neither version has a form 'edition number' printed on it, but one was soon added to the '62, Camden Square' version of the form.
+
+|Edition|Notes|
+|:------|:----|
+|['136&nbsp;Camden&nbsp;Road'](page_images/DRain_1861-1870_Leicestershire_p0006.jpg)|First *British Rainfall* form|
+|['62&nbsp;Camden&nbsp;Square'](page_images/DRain_1861-1870_Lancashire_p0003.jpg)|Symons' address changed to 62 Camden Square|
+|[K-1000/12/70](page_images/DRain_1861-1870_Yorkshire_p0017.jpg)|Edition number added bottom-left. Vertical text on the left adds details of where to obtain forms form.|
+
 
 ### '136 Camden Road' Form
 
@@ -37,10 +44,6 @@ Neither version has a form 'edition number' printed on it, but one was soon adde
 
 
 ### '62 Camden Square' Form
-
-<a href="page_images/DRain_1861-1870_Lancashire_p0003.jpg">
-	<img src="page_images/DRain_1861-1870_Lancashire_p0003.jpg" style="width:400px">
-</a>
 
 * the vertical text on the left of the form gives Symons' address as *62, Camden Square*
 * and says that British Rainfall covers more than 1500 stations
@@ -135,3 +138,59 @@ doesn't seem to have a digitised version of the stand-alone pamphlet.)
 <a href="page_images/DRain_1871-1880_Cambridgeshire_p0006.jpg">
 	<img src="page_images/DRain_1871-1880_Cambridgeshire_p0006.jpg" style="width:400px">
 </a>
+
+## 1881-1890 Daily Rainfall Forms
+
+The table below lists the Edition numbers in use in the 1881-1890 period, as determined from the rainfall records in 
+the [DRain_1881-1890_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_7a328b70-3567-42de-b581-138b3b2c0bc4). 
+
+|Edition|Notes|
+|:------|:----|
+|[K/3,000/12/79](page_images/DRain_1871-1880_Cambridgeshire_p0006.jpg)|Final form from the 1870s, for reference.|
+|???? 12/80|[No form located with a late 1880 edition number]|
+|[K/3,000/12/81](page_images/DRain_1881-1890_Cambridgeshire_p0066.jpg)||
+|[K/3,000/12/82](page_images/DRain_1881-1890_Cambridgeshire_p0003.jpg)||
+|[K/3,000/12/83](page_images/DRain_1881-1890_Cambridgeshire_p0004.jpg)|Vertical text on the left of the form removed; Stanford's name and address and the price of the form moved to the footer. 'Date' columns narrower; 'Total from Jan. 1' row label split over two lines. The 'Note' about the full instructions pamphlet has been re-worded, with a slight change to the pamphlet name. 'Height of Receiver' changed to 'Height of top' in the metadata section.|
+|[K/3,000/11/84](page_images/DRain_1881-1890_Cambridgeshire_p0092.jpg)||
+|[K/3,000/12/85](page_images/DRain_1881-1890_Cambridgeshire_p0070.jpg)||
+|[K/3,000/11/86](page_images/DRain_1881-1890_Cambridgeshire_p0053.jpg)||
+|[K/3,000/11/87](page_images/DRain_1881-1890_Cambridgeshire_p0062.jpg)||
+|[K/3,000/11/88](page_images/DRain_1881-1890_Cambridgeshire_p0031.jpg)|No red grid lines, just black. Prominent dotted grid lines between each row. Date columns thinner, heading in italics. Grid line added at the bottom of the Totals section. 'Total from Jan. 1' row label split over three lines. Street name added to Stanford's address.|
+|[K/3,000/1/90](page_images/DRain_1881-1890_Cambridgeshire_p0048.jpg)|Less prominent grid lines between each row.|
+|[K/3,000/12/90](page_images/DRain_1881-1890_Cambridgeshire_p0064.jpg)||
+
+### Vertical text
+
+Editions up to K/3,000/12/82 had vertical text on the left of the form asking observers to send returns to Symons, and explaining where to obtains forms from.
+
+<img src="page_images/K_3000_12_82.vertical_text.jpg" style="width:800px">
+
+After that, the vertical text is no longer present, allowing the full page width to be used for the table of rainfall readings. Stanford's address and form price move to the bottom of the form.
+
+<img src="page_images/K_3000_11_84_footer.jpg" style="width:600px">
+
+
+### Grid lines
+
+Editions before K/3,000/11/88 used dark red for the main grid lines. After that all the grid lines are black, and extend to the bottom of the Totals section.
+
+<table border="0">
+<tr><td>
+<a href="page_images/DRain_1881-1890_Cambridgeshire_p0062.jpg">
+	<img src="page_images/DRain_1881-1890_Cambridgeshire_p0062.jpg" style="width:300px">
+</a>
+</td>
+<td>
+<a href="page_images/DRain_1881-1890_Cambridgeshire_p0031.jpg">
+	<img src="page_images/DRain_1881-1890_Cambridgeshire_p0031.jpg" style="width:300px">
+</a>
+</td>
+</tr>
+</table>
+
+### End of the 1880s form - K/3,000/12/90
+
+<a href="page_images/DRain_1881-1890_Cambridgeshire_p0064.jpg">
+	<img src="page_images/DRain_1881-1890_Cambridgeshire_p0064.jpg" style="width:400px">
+</a>
+
