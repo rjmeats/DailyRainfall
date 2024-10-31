@@ -13,7 +13,15 @@ In [British Rainfall 1868](https://digital.nmla.metoffice.gov.uk/IO_00c7c826-c47
 He says his 'year of rainfall work' begins in December with the posting of blank forms to his 1300 observers. On page 8 he shows a [specimen filled-in form](page_images/British_Rainfall_1868_p8_specimen_monthly_form.jpg). 
 This is a monthly form, but includes columns for details of which day of the month was wettest, and the number of days of rain.
 
-## Early British Rainfall Daily Rainfall Forms
+## Contents
+
+* [Early British Rainfall Daily Rainfall Forms](#early)
+* [1871-1880 Daily Rainfall Forms](#1871-1880)
+* [1881-1890 Daily Rainfall Forms](#1881-1890)
+* [1891-1900 Daily Rainfall Forms](#1891-1900)
+
+<a id="early"></a>
+## Early British Rainfall Daily Rainfall Forms 
 
 Most of daily rainfall records in the Online Archive recording rainfall before 1870 are either hand-drawn/adhoc forms or later transcriptions of an original source using a form from the later period.
 
@@ -68,9 +76,10 @@ Subsequent forms for the next few decades have a similar Edition number:
 As well as adding the Edition number, the 'K-1000/12/70' version of the form adds an extra line of vertical text on the left-hand side saying 
 that additional copies of the form can be bought for 3d each from Mr [Edward] Stanford, and from all the leading opticians.
 
+<a id="1871-1880"></a>
 ## 1871-1880 Daily Rainfall Forms
 
-The table below lists the Edition numbers in use in the 1871-1880 period, as determined from the rainfall records in 
+The table below lists Edition numbers in use in the 1871-1880 period, as determined from the rainfall records in 
 the [DRain_1871-1880_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_7c542050-4993-43f8-876a-2b7bd81590fc). The table also outlines 
 notable changes to the form layout over time, with some of these changes covered in more detail following the table. 
 
@@ -139,9 +148,10 @@ doesn't seem to have a digitised version of the stand-alone pamphlet.)
 	<img src="page_images/DRain_1871-1880_Cambridgeshire_p0006.jpg" style="width:400px">
 </a>
 
+<a id="1881-1890"></a>
 ## 1881-1890 Daily Rainfall Forms
 
-The table below lists the Edition numbers in use in the 1881-1890 period, as determined from the rainfall records in 
+The table below lists Edition numbers in use in the 1881-1890 period, as determined from a sample of the rainfall records in 
 the [DRain_1881-1890_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_7a328b70-3567-42de-b581-138b3b2c0bc4). 
 
 |Edition|Notes|
@@ -194,3 +204,44 @@ Editions before K/3,000/11/88 used dark red for the main grid lines. After that 
 	<img src="page_images/DRain_1881-1890_Cambridgeshire_p0064.jpg" style="width:400px">
 </a>
 
+<a id="1891-1900"></a>
+## 1891-1900 Daily Rainfall Forms
+
+The table below lists Edition numbers in use in the 1891-1900 period, as determined from a sample of the rainfall records in 
+the [DRain_1891-1900_RainNos_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_163110c6-3e00-4a68-a834-04f56e55f2a0). 
+
+|Edition|Notes|
+|:------|:----|
+|[K/3,000/12/90](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0016.jpg)||
+|[K/3,000/11/91](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0054.jpg)||
+|[K/3,000/10/92](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0033.jpg)|Positional rearrangements of the station metadata items. 'Latitude' and 'Longitude' labels shortened to 'Lat.' and 'Lon.'|
+|[K/3,000/10/93](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0043.jpg)||
+|[K/3,000/12/94](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0072.jpg)||
+|[K/4,000/9/95](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0086.jpg)||
+|[K/4,000/12/96](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0021.jpg)|'Sea Level' label moved further to the left|
+|[K/4,000/10/97](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0044.jpg)||
+|[K/4,000/12/98](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0088.jpg)|Positional rearrangements of the station metadata items.|
+|[K/4,000/1/99](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0049.jpg)||
+|[K/3,000/12/00](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0090.jpg)|'Mr. G.J.Symons' reference replaced by 'Mr. Sowerby Wallis or Dr. H.R.Mill' in the Note about obtaining the instructions pamphlet. The name of the pamphlet has been slightly shortened.|
+
+### Change of leadership at British Rainfall
+
+Geroge Symons died in March 1900, with H. Sowerby Wallis and Hugh Robert Mill taking over the running of British Rainfall Organization. 
+
+The K/4,000/1/99 edition of the rainfall sheet is the last to refer to Symons:
+
+<a href="page_images/K_4000_1_99.Symons.jpg">
+	<img src="page_images/K_4000_1_99.Symons.jpg" style="width:800px">
+</a>
+
+In K/3,000/12/00, this reference changes to 'Mr. Sowerby Wallis or Dr H.R.Mill':
+
+<a href="page_images/K_4000_1_99.Symons.jpg">
+	<img src="page_images/K_3000_12_00.Wallis_or_Mill.jpg" style="width:800px">
+</a>
+
+### End of the 1890s form - K/3,000/12/00
+
+<a href="page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0090.jpg">
+	<img src="page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0090.jpg" style="width:400px">
+</a>
