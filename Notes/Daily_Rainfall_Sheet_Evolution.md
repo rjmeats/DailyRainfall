@@ -427,15 +427,23 @@ The 1906 form had no edition number, but added details of the printer (Waterlow 
 	<img src="page_images/1906_no_edition_no.footer.jpg" style="width:800px">
 </a>
 
-The next version of the form restored the edition number, "6,000 XI '07" in this case, but in a modified format:
-* no leading 'K' 
-* Roman numerals used for month numbers
-* an apostrophe before the year number
-* a space instead of '/' to separate the parts of the number
+The next version of the form restored the edition number:
 
 <a href="page_images/6000_XI_07.footer.jpg">
 	<img src="page_images/6000_XI_07.footer.jpg" style="width:800px">
 </a>
+
+The format of the edition number, "6,000 XI '07" in this case, has been modified:
+
+<a href="page_images/6000_XI_07.edition_no.jpg">
+	<img src="page_images/6000_XI_07.edition_no.jpg" style="width:200px">
+</a>
+
+* there is no leading 'K' 
+* the number assumed to be the size of the print-run is retained
+* Roman numerals are used for month numbers
+* an apostrophe appears before the year number
+* the different parts are separated by a space instead of '/'
 
 The form footer changed again for the "6,000 V '09" edition - only the edition number was retained, with no Stanford's or printer reference, or price:
 
