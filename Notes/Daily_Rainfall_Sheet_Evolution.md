@@ -16,6 +16,7 @@ Online Archive, supplemented by some material in British Rainfall annuals and si
 * [1881-1890 Daily Rainfall Forms](#1881-1890)
 * [1891-1900 Daily Rainfall Forms](#1891-1900)
 * [1901-1910 Daily Rainfall Forms](#1901-1910)
+* [1911-1918 Daily Rainfall Forms](#1911-1918)
 * tbc ...
 
 <hr/>
@@ -272,11 +273,11 @@ the [DRain_1901-1910_RainNos_Cambridgeshire Daily Rainfall volume](https://digit
 |[K/4000/12/04](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0046.jpg)||
 |[K/5000/11/05](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0028.jpg)|Vertical divider added between the left- and right-hand sides of the metadata section|
 |[1906&nbsp;-&nbsp; no edition&nbsp;number](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0086.jpg)|'Rain Gauge' and bracket grouping removed from metadata section; 'Rain Gauge'/'Gauge' added to Diameter and Height metadata labels. Added a sentence to the instructions Note about taking measurements at 9am and assigning them to the previous day. 'respecting' changed to 'for' in the Note. Month name column headings put back to mixed case. Monthly totals row label changed to 'Total' rather than 'Totals', with 'Total for year' added as a heading to cell on the right of the row. Purpose and labelling changed for the row beneath the monthly totals : 'No. of Rain Days' rather than 'Total from Jan. 1'. Footer changes: no edition number shown; printer's name (Waterlow and Sons Limited) and address added under the Stanford text; price shown as 2d rather than 3d, reference to 'extra tough paper' removed.|
-|[6,000 XI '07](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0105.jpg)|Edition number restored to the footer, but in a modified format.|
-|[6,000 XI '08](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0023.jpg)||
-|[6,000 V '09](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0017.jpg)|Right-hand side of metadata section reorganised. 'Rain Gauge' and bracket re-introduced, Height and Diameter labelling modified, 'Pattern' field introduced. 'Lat' and 'Long' fields removed, 'Nearest Railway Station' split into three: Name, Distance and Direction. 'Note' relabelled as 'Important Note' in larger text, and with 'entered to the previous day' underlined. New sentence added to the note regarding observers not confirming to the previous day rule, with an extra 'Jan 1, following' box for them to fill in. Description of 'Rules' document expanded. Footer removed except for the edition number - no Stanfords or Waterlow reference, or price.|
-|[7,000 X '09](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0076.jpg)|Form name in diagonal banner in the top-right corner modified to 'A2'.|
-|[9,000 IX '10](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0090.jpg)||
+|[6,000&nbsp;XI&nbsp;'07](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0105.jpg)|Edition number restored to the footer, but in a modified format.|
+|[6,000&nbsp;XI&nbsp;'08](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0023.jpg)||
+|[6,000&nbsp;V&nbsp;'09](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0017.jpg)|Right-hand side of metadata section reorganised. 'Rain Gauge' and bracket re-introduced, Height and Diameter labelling modified, 'Pattern' field introduced. 'Lat' and 'Long' fields removed, 'Nearest Railway Station' split into three: Name, Distance and Direction. 'Note' relabelled as 'Important Note' in larger text, and with 'entered to the previous day' underlined. New sentence added to the note regarding observers not confirming to the previous day rule, with an extra 'Jan 1, following' box for them to fill in. Description of 'Rules' document expanded. Footer removed except for the edition number - no Stanfords or Waterlow reference, or price.|
+|[7,000&nbsp;X&nbsp;'09](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0076.jpg)|Form name in diagonal banner in the top-right corner modified to 'A2'.|
+|[9,000&nbsp;IX&nbsp;'10](page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0090.jpg)||
 
 
 ### Form name and date-stamp
@@ -411,7 +412,6 @@ From the 1906 'no edition number' Daily Rainfall form onwards, the cumulative to
 	<img src="page_images/1906_no_edition_no.totals.jpg" style="width:800px">
 </a>
 
-
 ### Edition numbering and footer changes
 
 For the first few years of the 1900s decade, Daily Rainfall form 'edition numbers' continued the 'K-style' format used for the previous decades, with the rest of the footer giving Stanford's
@@ -462,6 +462,101 @@ This may just be down to a small sample size.
 
 <a href="page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0090.jpg">
 	<img src="page_images/DRain_1901-1910_RainNos_Cambridgeshire_p0090.jpg" style="width:400px">
+</a>
+
+<hr/>
+
+<a id="1911-1918"></a>
+## 1911-1918 Daily Rainfall Forms
+
+The table below lists Edition numbers in use in the 1911-1918 period, as determined from a sample of the rainfall records in 
+the [DRain_1911-1920_RainNos_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_981e1297-fcd9-48b4-8d2a-e929d41064f6).
+
+|Edition|Notes|
+|:------|:----|
+|[9,000&nbsp;IX&nbsp;'10](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0049.jpg)||
+|[W&nbsp;8,000&nbsp;X&nbsp;'11](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0077.jpg)|'in' unit indicators at the top of each monthly column removed. 'W' added to the start of the edition number|
+|[1,000&nbsp;I&nbsp;'12](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0011.jpg)|[Anomaly - reverts to the 1907/1908 form layout]|
+|[W&nbsp;7,500&nbsp;XI&nbsp;12](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0105.jpg)|Form name changed to 'A' from 'A2' in top-right corner. Right-hand side metadata re-organised, 'Pattern' field removed, 'Nearest Railway Station' simplified, Lat/Long fields restored. Adjustments to some headings in the Totals section: "Total for year" cell heading changed to "Year's Total" and "No. of Rain Days" row heading changed to "Rain Days"|
+|[W&nbsp;7,000&nbsp;XI&nbsp;13](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0046.jpg)||
+|[W&nbsp;8,000&nbsp;X&nbsp;14](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0009.jpg)|Pre-printed crosses placed in non-day cells February 30th, 31st, April 31st, etc.|
+|[W&nbsp;8,000&nbsp;X&nbsp;15](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0038.jpg)|'Diameter of Rain Gauge' metadata field relabelled 'Diameter of Funnel of Rain Gauge'|
+|[W&nbsp;1,000&nbsp;X&nbsp;15](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0109.jpg)|[Footer anomaly - reverts to an earlier form with Stanfords/Waterlow references and price.]|
+|[W&nbsp;8,000&nbsp;VIII&nbsp;16](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0082.jpg)||
+|[W&nbsp;8,000&nbsp;IX&nbsp;17](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0016.jpg)||
+|[W&nbsp;6,500&nbsp;VII&nbsp;18](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0057.jpg)|Reference to 'Dr H.R.Mill' changed to 'The Director, British Rainfall Organization'. 'W W C' added to footer.|
+
+### Inches unit indicators removed
+
+Up to the "9,000&nbsp;IX&nbsp;'10" edition of the Daily Rainfall form, the monthly column headings all had 'in' at the top to indicate 'inches':
+
+<a href="page_images/9000_IX_10.inch_unit_headings.jpg">
+	<img src="page_images/9000_IX_10.inch_unit_headings.jpg" style="width:800px">
+</a>
+
+From the "W&nbsp;8,000&nbsp;X&nbsp;'11" edition for the next few years, these 'in' unit indicators are absent.
+
+<a href="page_images/W_8000_X_11.no_inch_unit_headings.jpg">
+	<img src="page_images/W_8000_X_11.no_inch_unit_headings.jpg" style="width:800px">
+</a>
+
+This change may be related to an expectation that some stations might start reporting in millimetres rather than inches ?
+
+### Metadata section
+
+Several recent changes to the right-hand side of the metadata section were permanently undone between the "W&nbsp;8,000&nbsp;X&nbsp;'11" and "W&nbsp;7,500&nbsp;XI&nbsp;12" form editions.
+* the Latitude/Longitude fields were restored
+* the rain gauge 'Pattern' field was removed
+* the 'Nearest Railway Station' fields were simplified
+
+<table border="0">
+<tr><td>
+<a href="page_images/W_8000_X_11.right_hand_metadata.jpg">
+	<img src="page_images/W_8000_X_11.right_hand_metadata.jpg" style="width:400px">
+</a>
+</td>
+<td>
+<a href="page_images/W_7500_XI_12.right_hand_metadata.jpg">
+	<img src="page_images/W_7500_XI_12.right_hand_metadata.jpg" style="width:400px">
+</a>
+</td>
+</tr>
+</table>
+
+### Non-day cells
+
+From the "W&nbsp;8,000&nbsp;X&nbsp;14" edition onwards, cells in the main table which represent invalid dates (e.g. 30th February, 31st April) were filled with a pre-printed cross mark:
+
+<a href="page_images/W_8000_X_14.non_day_crosses.jpg">
+	<img src="page_images/W_8000_X_14.non_day_crosses.jpg" style="width:800px">
+</a>
+
+### The "1,000&nbsp;I&nbsp;'12" Edition
+
+The "1,000&nbsp;I&nbsp;'12" edition rainfall form reverted to the layout used for the 1907 and 1908 forms, just for this edition. The small (presumed) print-run number of 1,000 and the unusual January date perhaps 
+indicate some sort of special print-run, perhaps accidentally using the older layout ?
+
+### Retirement of Hugh Robert Mill
+
+Hugh Robert Mill retired in 1919, at the point when the British Rainfall Organization was amalgamated into the Met Office. 
+
+The "W&nbsp;8,000&nbsp;IX&nbsp;17" edition is the last to refer to Mill: 
+
+<a href="page_images/W_8000_IX_17.last_Mill.jpg">
+	<img src="page_images/W_8000_IX_17.last_Mill.jpg" style="width:800px">
+</a>
+
+The "W&nbsp;6,500&nbsp;VII&nbsp;18" edition was the final one produced by the British Rainfall Organization as an independent body, and
+changed the Mill reference to 'The Director, British Rainfall Organization': 
+
+<a href="page_images/W_6500_VII_18.the_director.jpg">
+	<img src="page_images/W_6500_VII_18.the_director.jpg" style="width:800px">
+</a>
+
+### Final pre-Met-Office form - "W&nbsp;6,500&nbsp;VII&nbsp;18"
+
+<a href="page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0057.jpg">
+	<img src="page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0057.jpg" style="width:400px">
 </a>
 
 <hr/>
