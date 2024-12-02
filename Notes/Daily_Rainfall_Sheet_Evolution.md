@@ -1,4 +1,4 @@
-# Evolution of the British Rainfall Organisation's Daily Rainfall Form
+# Evolution of the British Rainfall Organization's Daily Rainfall Form
 
 Notes on how British Rainfall Organization's Daily Rainfall form has evolved over time. The basic form layout is 
 * a main grid of 12 monthly columns x 31 daily rows + one or more rows for monthly aggregates
