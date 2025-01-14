@@ -1,8 +1,8 @@
 # 'No rainfall' Indicators on Daily Rainfall Forms
 
 The standard Daily Rainfall Form has a 12x31 grid for recording daily rainfall amounts for each day of the year. This note looks at the ways observers have
-recorded 'no rain' on the form for dry days, based on samples from a few of the ['DRain' PDF volumes](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_9903efdf-7f99-4cae-a723-8b3f426eea20) of scanned rainfall 
-sheets recently added to the Met Office Online Archive.
+recorded 'no rain' on the form for dry days, based on samples from a few of the ['DRain' PDF volumes](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_9903efdf-7f99-4cae-a723-8b3f426eea20) scanned rainfall 
+sheets in the Met Office Online Archive. These cover the period up to the early 1960s.
 
 ## Contents
 
@@ -53,6 +53,14 @@ In this old usage, the word *'cypher'* means a zero digit, so the instruction is
 
 <img src="no_rain_images/OH1926.no_rain_instruction.jpg" style="width:400px">
 
+### Daily Rainfall Sheet 1985
+
+This is beyond the period of the DRain volumes, but this text from the rear of a rainfall sheet from 1991 shows how the basic instruction still applied,
+now with a little more discussion:
+
+> *It has been a long-standing convention that days of no rainfall are shown with a 'dash' rather than leave the space blank or with an amount of 0.0 &hellip;*
+
+<img src="no_rain_images/1991.no_rain_instruction.jpg" style="width:400px">
 
 <hr/>
 
