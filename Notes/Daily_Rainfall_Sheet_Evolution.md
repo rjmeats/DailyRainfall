@@ -591,6 +591,8 @@ The name of the Daily Rainfall form changed a couple of times during the period:
 * from 'Form A' to 'Form A.1' for recording rainfall in inches and 'Form A.2' for millimetres
 * and then from 'Form A.1' to 'Form 1090' ('Form A.2' to 'Form 1091' for millimetres), presumably to fit in with a wider Met Office/Government naming scheme
 
+The 'Form 1090' name (and 'Form 1091' for millimetres) is retained for the Daily Rainfall form the rest of DRain volumes period (1962) and beyond.
+
 <table border="0">
 <tr><td>
 <a href="page_images/W_6500_VII_18.form_name.jpg">
@@ -643,10 +645,11 @@ and [British Rainfall 1919](https://digital.nmla.metoffice.gov.uk/IO_cd34fd90-2c
 
 The form variants were identical except for a few particular details:
 
+* the millimetre variants of the Daily Rainfall form were usually printed on blue/grey paper to make them easily distinguishable
 * the name of the form (as described earlier):
 	* for inches, Form A.1 and then later Form 1090
 	* for millimetres, Form A.2 and then later Form 1091
-* slightly different Printing codes at the bottom of the page
+* slightly different Printing codes at the bottom of the page (which give much smaller print-run sizes for the millimetre variants compared to the inches variants)
 * an instruction just above the main grid about what units *not* to use the form for 
 * 'in.' or 'mm.' units inidicators in the monthly column headings
 * different but roughly equivalent rainfall amounts in the 'Days with ...' row titles in the Totals section of the form
@@ -704,5 +707,3 @@ A couple of the changes to the Instructions text relate to items discussed in th
 Rainfall Organization mailing address on the form (to the Air Ministry, Kingsway).
 
 ... tbc ...
-<hr/>
-
