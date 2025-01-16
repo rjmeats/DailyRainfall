@@ -11,12 +11,18 @@ Online Archive, supplemented by some material in British Rainfall annuals and si
 
 ## Contents
 
+British Rainfall Organization as an independent body:
+
 * [Early British Rainfall Daily Rainfall Forms](#early)
 * [1871-1880 Daily Rainfall Forms](#1871-1880)
 * [1881-1890 Daily Rainfall Forms](#1881-1890)
 * [1891-1900 Daily Rainfall Forms](#1891-1900)
 * [1901-1910 Daily Rainfall Forms](#1901-1910)
 * [1911-1918 Daily Rainfall Forms](#1911-1918)
+
+British Rainfall Organization as part of the Met Office:
+
+* [1919-1923 Daily Rainfall Forms](#1919-1923)  work in progress ...
 * tbc ...
 
 <hr/>
@@ -469,7 +475,7 @@ This may just be down to a small sample size.
 <a id="1911-1918"></a>
 ## 1911-1918 Daily Rainfall Forms
 
-The table below lists versions of the form in use in the 1911-1918 period, as determined from a sample of the rainfall records in 
+The table below lists versions of the form in use in the 1911-1918 period (to the point where the British Rainfall Organization became part of the Met Office) as determined from a sample of the rainfall records in 
 the [DRain_1911-1920_RainNos_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_981e1297-fcd9-48b4-8d2a-e929d41064f6).
 
 |Version|Notes|
@@ -561,3 +567,92 @@ changed the Mill reference to 'The Director, British Rainfall Organization':
 
 <hr/>
 
+<a id="1919-1923"></a>
+## 1919-1923 Daily Rainfall Forms
+
+The table below lists versions of the form in use in the 1919-1923 period as determined from a sample of the rainfall records in 
+the volumes [DRain_1911-1920_RainNos_Cambridgeshire Daily Rainfall](https://digital.nmla.metoffice.gov.uk/IO_981e1297-fcd9-48b4-8d2a-e929d41064f6) and
+[DRain_1921-1930_RainNos_Cambridgeshire](https://digital.nmla.metoffice.gov.uk/download/file/IO_c6b2d109-e142-41f7-a353-72cdf3158957). 
+
+This is the short period from the point where the British Rainfall Organization became part of the Met Office (itself newly incorpoated into the Air Ministry) to the final single-sided daily rainfall forms. During the period, 
+form variants were introduced for use when rainfall measurements were made in millimetres rather than inches.
+
+|Version (inches)|Version (mm)|Notes (inches version)|
+|:------|:----|:----|
+|[7500&nbsp;10/19](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0195.jpg)|[500&nbsp;10/19](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0098.jpg)|Top banner changed to include Met Office. Form name changed to A.1 from A. Instructions refer to 'Superintendent' rather than 'Director' of BRO. Line added under instructions saying not to use the form for records taken in millimetres. 'August' spelt out in full. No full stops after complete month names. 'in.' units indicator restored to top of each monthly column. Horizontal daily grid lines much fainter. Total row heading now capitalised. 'Rain Days' row heading changed to 'Days with &middot;01 in. or more'. Horizontal grid line under Total row removed. Printing code more complex.|
+|[10,000&nbsp;7/20](page_images/DRain_1911-1920_RainNos_Cambridgeshire_p0018.jpg)|[1000 7/20](page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0037.jpg)|Additional summary line added at bottom for 'Days with &middot;04 in. or more'. Printing code especially complex for this version.|
+|[7000&nbsp;11/21](page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0065.jpg)|[750&nbsp;11/21](page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0039.jpg)|'Air Ministry' added to top banner. Form name changed to 1090 instead of A.1, with former name also referenced. Edinburgh address option added for obtaining 'Rules' instructions.|
+|[8,000&nbsp;9/22](page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0025.jpg)|?|Reference to former A.1 form name removed. 'Greenwich Time' time zone indication added to instructions. Address of BRO changed to Kingsway from Camden Square. Version of form to use for millimeter records made explicit as Form 1091.|
+|[9,000&nbsp;8/23](page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0066.jpg)|[375&nbsp;8/23](page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0043.jpg)|'Important Note' removed from start of instructions. 'Previous day' instructions re-worded. Instructions presented as two paragraphs. Thick horizontal grid lines added after day 10 and day 20.|
+
+### Organisation names in the page banner
+
+Before the British Rainfall Organization was incorporated into the Met Office in 1919, the banner at the top of the daily rainfall form was mainly a title giving the purpose of the form, with a small diagonal corner section
+giving the name of the organisation and the form name. On joining the Met Office, the organisational identification part of the banner was expanded to give much greater prominence to two and then three levels of 
+organisation names: 
+* British Rainfall Organisation
+* Meteorological Office
+* (from 1921) Air Ministry
+
+Version W&nbsp;6,500&nbsp;VII&nbsp;18 before incorporation:
+<a href="page_images/W_6500_VII_18.banner.jpg">
+	<img src="page_images/W_6500_VII_18.banner.jpg" style="width:800px">
+</a>
+
+Version 7500&nbsp;10/19:
+<a href="page_images/7500_10_19.banner.jpg">
+	<img src="page_images/7500_10_19.banner.jpg" style="width:800px">
+</a>
+
+Version 7000&nbsp;11/21:
+<a href="page_images/7000_11_21.banner.jpg">
+	<img src="page_images/7000_11_21.banner.jpg" style="width:800px">
+</a>
+
+### Form name changes
+
+The name of the daily rainfall form changed a couple of times during the period:
+* from 'Form A' to 'Form A.1' ('Form A.2' for recording rainfall in millimetres) to allow for a separate form variant using millimetres rather than inches
+* and then from 'Form A.1' to 'Form 1090' ('Form A.2' to 'Form 1091' for millimetres) presumably to fit in with a wider Met Office/Government naming scheme
+
+<table border="0">
+<tr><td>
+<a href="page_images/W_6500_VII_18.form_name.jpg">
+	<img src="page_images/W_6500_VII_18.form_name.jpg" style="width:100px">
+</a>
+</td>
+<td>
+<a href="page_images/7500_10_19.form_name.jpg">
+	<img src="page_images/7500_10_19.form_name.jpg" style="width:150px">
+</a>
+</td>
+<td>
+<a href="page_images/7000_11_21.form_name.jpg">
+	<img src="page_images/7000_11_21.form_name.jpg" style="width:200px">
+</a>
+</td>
+<td>
+<a href="page_images/8000_9_22.form_name.jpg">
+	<img src="page_images/8000_9_22.form_name.jpg" style="width:150px">
+</a>
+</td>
+</tr>
+<tr><td>
+</td>
+<td>
+<a href="page_images/500_10_19.form_name.jpg">
+	<img src="page_images/500_10_19.form_name.jpg" style="width:150px">
+</a>
+<td>
+<a href="page_images/750_11_21.form_name.jpg">
+	<img src="page_images/750_11_21.form_name.jpg" style="width:200px">
+</a>
+</td>
+<td>
+<a href="page_images/375_8_23.form_name.jpg">
+	<img src="page_images/375_8_23.form_name.jpg" style="width:150px">
+</a>
+</td>
+</table>
+
+... tbc ...
