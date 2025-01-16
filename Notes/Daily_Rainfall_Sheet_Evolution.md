@@ -594,17 +594,20 @@ organisation names:
 * Meteorological Office
 * (from 1921) Air Ministry
 
-Version W&nbsp;6,500&nbsp;VII&nbsp;18 before incorporation:
+Version W&nbsp;6,500&nbsp;VII&nbsp;18 before incorporation into the Met Office:
+
 <a href="page_images/W_6500_VII_18.banner.jpg">
 	<img src="page_images/W_6500_VII_18.banner.jpg" style="width:800px">
 </a>
 
 Version 7500&nbsp;10/19:
+
 <a href="page_images/7500_10_19.banner.jpg">
 	<img src="page_images/7500_10_19.banner.jpg" style="width:800px">
 </a>
 
 Version 7000&nbsp;11/21:
+
 <a href="page_images/7000_11_21.banner.jpg">
 	<img src="page_images/7000_11_21.banner.jpg" style="width:800px">
 </a>
