@@ -22,7 +22,7 @@ British Rainfall Organization as an independent body:
 
 British Rainfall Organization as part of the Met Office:
 
-* [1919-1923 Daily Rainfall Forms](#1919-1923)  work in progress ...
+* [1919-1923 Daily Rainfall Forms](#1919-1923)
 * tbc ...
 
 <hr/>
@@ -106,7 +106,7 @@ notable changes to the form layout over time, with some of these changes covered
 |[K/3000/11/74](page_images/DRain_1871-1880_Cambridgeshire_p0119.jpg)||
 |[K/3000/12/75](page_images/DRain_1871-1880_Cambridgeshire_p0067.jpg)|Rain gauge diameter field added. Different snow-handling instructions. Extra space at the bottom of the form. Slight adjustment to vertical text wording.|
 |[K/3000/12/76](page_images/DRain_1871-1880_Cambridgeshire_p0100.jpg)|Diameter field absent. County name field added. Reverts to the original snow-handling instructions. Second 'Date' column added, on the right of the grid. Space at the bottom of the form removed. The vertical text refers to '*Accurate observers of rainfall*' rather than just '*Observers*'. Update to Stanford's address.|
-|[K/3000/1/78](page_images/DRain_1871-1880_Cambridgeshire_p0129.jpg)|Diameter field restored. The 'Totals' row heading shifts from under the vertical text to under the day numbers. The number of BR stations in the vertical text is updated from 1500 to 2000.|
+|[K/3000/1/78](page_images/DRain_1871-1880_Cambridgeshire_p0129.jpg)|Diameter field restored. The Totals row heading shifts from under the vertical text to under the day numbers. The number of BR stations in the vertical text is updated from 1500 to 2000.|
 |[K/3,000/12/78](page_images/DRain_1871-1880_Cambridgeshire_p0093.jpg)||
 |[K/3,000/12/79](page_images/DRain_1871-1880_Cambridgeshire_p0006.jpg)|The 'Condensed Instructions' section is replaced by a 'Note' saying that full instructions are available in a free pamphlet.|
 
@@ -574,8 +574,8 @@ The table below lists versions of the form in use in the 1919-1923 period as det
 the volumes [DRain_1911-1920_RainNos_Cambridgeshire Daily Rainfall](https://digital.nmla.metoffice.gov.uk/IO_981e1297-fcd9-48b4-8d2a-e929d41064f6) and
 [DRain_1921-1930_RainNos_Cambridgeshire](https://digital.nmla.metoffice.gov.uk/download/file/IO_c6b2d109-e142-41f7-a353-72cdf3158957). 
 
-This is the short period from the point where the British Rainfall Organization became part of the Met Office (itself newly incorpoated into the Air Ministry) to the final single-sided daily rainfall forms. During the period, 
-form variants were introduced for use when rainfall measurements were made in millimetres rather than inches.
+These versions cover the short period from the point where the British Rainfall Organization became part of the Met Office (itself newly incorpoated into the Air Ministry) to the final 
+single-sided Daily Rainfall forms. During the period, form variants were introduced for use when rainfall measurements were made in millimetres rather than inches.
 
 |Version (inches)|Version (mm)|Notes (inches version)|
 |:------|:----|:----|
@@ -585,38 +585,11 @@ form variants were introduced for use when rainfall measurements were made in mi
 |[8,000&nbsp;9/22](page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0025.jpg)|?|Reference to former A.1 form name removed. 'Greenwich Time' time zone indication added to instructions. Address of BRO changed to Kingsway from Camden Square. Version of form to use for millimeter records made explicit as Form 1091.|
 |[9,000&nbsp;8/23](page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0066.jpg)|[375&nbsp;8/23](page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0043.jpg)|'Important Note' removed from start of instructions. 'Previous day' instructions re-worded. Instructions presented as two paragraphs. Thick horizontal grid lines added after day 10 and day 20.|
 
-### Organisation names in the page banner
-
-Before the British Rainfall Organization was incorporated into the Met Office in 1919, the banner at the top of the daily rainfall form was mainly a title giving the purpose of the form, with a small diagonal corner section
-giving the name of the organisation and the form name. On joining the Met Office, the organisational identification part of the banner was expanded to give much greater prominence to two and then three levels of 
-organisation names: 
-* British Rainfall Organisation
-* Meteorological Office
-* (from 1921) Air Ministry
-
-Version W&nbsp;6,500&nbsp;VII&nbsp;18 before incorporation into the Met Office:
-
-<a href="page_images/W_6500_VII_18.banner.jpg">
-	<img src="page_images/W_6500_VII_18.banner.jpg" style="width:800px">
-</a>
-
-Version 7500&nbsp;10/19:
-
-<a href="page_images/7500_10_19.banner.jpg">
-	<img src="page_images/7500_10_19.banner.jpg" style="width:800px">
-</a>
-
-Version 7000&nbsp;11/21:
-
-<a href="page_images/7000_11_21.banner.jpg">
-	<img src="page_images/7000_11_21.banner.jpg" style="width:800px">
-</a>
-
 ### Form name changes
 
-The name of the daily rainfall form changed a couple of times during the period:
-* from 'Form A' to 'Form A.1' ('Form A.2' for recording rainfall in millimetres) to allow for a separate form variant using millimetres rather than inches
-* and then from 'Form A.1' to 'Form 1090' ('Form A.2' to 'Form 1091' for millimetres) presumably to fit in with a wider Met Office/Government naming scheme
+The name of the Daily Rainfall form changed a couple of times during the period:
+* from 'Form A' to 'Form A.1' for recording rainfall in inches and 'Form A.2' for millimetres
+* and then from 'Form A.1' to 'Form 1090' ('Form A.2' to 'Form 1091' for millimetres), presumably to fit in with a wider Met Office/Government naming scheme
 
 <table border="0">
 <tr><td>
@@ -656,6 +629,80 @@ The name of the daily rainfall form changed a couple of times during the period:
 	<img src="page_images/375_8_23.form_name.jpg" style="width:150px">
 </a>
 </td>
+</tr>
 </table>
 
+### Separate form variants for recording rainfall in inches and millimetres
+
+The Daily Rainfall form was originally designed for recording rainfall measured in inches, and up to 1910 had an 'in.' unit indicator at the top of each monthly column. To allow for 
+potential use of millimetres rather than inches, the 'in.' column heading was removed from version W&nbsp;8,000&nbsp;X&nbsp;'11 onwards. From 1919, two variants of the form were produced,
+one for recording in inches and the other for recording in millimetres. 
+
+[British Rainfall 1918](https://digital.nmla.metoffice.gov.uk/IO_fdc21815-593c-48b9-9fb5-3a23bb871531/) p29 discusses use of metric units 
+and [British Rainfall 1919](https://digital.nmla.metoffice.gov.uk/IO_cd34fd90-2c3e-42a8-b896-0cd08678689e/) preface page ix mentions the introduction of new forms.
+
+The form variants were identical except for a few particular details:
+
+* the name of the form (as described earlier):
+	* for inches, Form A.1 and then later Form 1090
+	* for millimetres, Form A.2 and then later Form 1091
+* slightly different Printing codes at the bottom of the page
+* an instruction just above the main grid about what units *not* to use the form for 
+* 'in.' or 'mm.' units inidicators in the monthly column headings
+* different but roughly equivalent rainfall amounts in the 'Days with ...' row titles in the Totals section of the form
+  
+<table border="0">
+<tr><td>
+<a href="page_images/9000_8_23.days_with.jpg">
+	<img src="page_images/9000_8_23.days_with.jpg" style="width:75px">
+</a>
+</td>
+<td>
+<a href="page_images/375_8_23.days_with.jpg">
+	<img src="page_images/375_8_23.days_with.jpg" style="width:75px">
+</a>
+</td>
+</tr>
+</table>
+
+Metadata fields (e.g. the diameter of the rain gauge funnel) on both form variants used inches/feet, not metric units.
+
+### Organisation names in the page banner
+
+Before the British Rainfall Organization was incorporated into the Met Office in 1919, the banner at the top of the Daily Rainfall form was mainly a title giving the purpose of the form, with a small diagonal corner section
+giving the name of the organisation and the form name. On joining the Met Office, the organisation identification part of the banner was expanded to give much greater prominence to two, and then three, levels of 
+organisation names: 
+* British Rainfall Organisation
+* Meteorological Office
+* (from 1921) Air Ministry
+
+Version W&nbsp;6,500&nbsp;VII&nbsp;18 before incorporation into the Met Office:
+
+<a href="page_images/W_6500_VII_18.banner.jpg">
+	<img src="page_images/W_6500_VII_18.banner.jpg" style="width:800px">
+</a>
+
+Version 7500&nbsp;10/19:
+
+<a href="page_images/7500_10_19.banner.jpg">
+	<img src="page_images/7500_10_19.banner.jpg" style="width:800px">
+</a>
+
+Version 7000&nbsp;11/21:
+
+<a href="page_images/7000_11_21.banner.jpg">
+	<img src="page_images/7000_11_21.banner.jpg" style="width:800px">
+</a>
+
+
+### Instructions changes
+
+A couple of the changes to the Instructions text relate to items discussed in the Preface of [British Rainfall 1921](https://digital.nmla.metoffice.gov.uk/IO_cab95e89-1ced-41f3-ad7d-d588798c774d/):
+
+* page x discusses collection of rainfall records in Scotland, and ties in with the addition of the Edinburgh address option for obtaining the "Rules for Rainfall Observers" publication.
+* page vii describes the move of the British Rainfall Organization out of its 62 Camden Square base to the Met Office premises in South Kensington, and ties in with the change of the British 
+Rainfall Organization mailing address on the form (to the Air Ministry, Kingsway).
+
 ... tbc ...
+<hr/>
+
