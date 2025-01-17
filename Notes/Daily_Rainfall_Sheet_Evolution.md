@@ -780,6 +780,12 @@ showing the same month/year but with a much smaller print-run size of 500, and a
 For the purposes of this note, Printing codes have been used as a label for versions of the Daily Rainfall form over time. For the Met Office period, this continues, but just using the print-run, year and month aspects, so 
 the two examples above are referred to as '7500&nbsp;10/19' and '500&nbsp;10/19'.
 
+### Final single-sided form - "9,000&nbsp;8/23"
+
+<a href="page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0066.jpg">
+	<img src="page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0066.jpg" style="width:400px">
+</a>
+
 <hr/>
 
 
