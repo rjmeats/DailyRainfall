@@ -749,7 +749,7 @@ There were similar changes to the millimetre variants of the forms.
 
 [British Rainfall 1919](https://digital.nmla.metoffice.gov.uk/IO_cd34fd90-2c3e-42a8-b896-0cd08678689e/) and other editions of the period include a 'The Distribution of Rainfall in Time' section 
 which discuss the definition of 'Rain Days' in terms of the amount of rainfall recorded, and whether it would be more practical and useful to use a different rainfall amount, with an additional consideration
-being how to make the definition work consistently in both inches and millimetres. The introduction of a 'Wet Day' concept based on 0.04 in / 1.0 mm of rainfall to address this was being evaluated.
+being how to make the definition work consistently in both inches and millimetres. To address this, a 'Wet Day' concept based on 0.04 in / 1.0 mm of rainfall was being evaluated.
 
 ### Printing code changes
 
