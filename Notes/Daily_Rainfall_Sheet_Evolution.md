@@ -645,14 +645,14 @@ and [British Rainfall 1919](https://digital.nmla.metoffice.gov.uk/IO_cd34fd90-2c
 
 The form variants were identical except for a few particular details:
 
-* the millimetre variants of the Daily Rainfall form were usually printed on blue/grey paper to make them easily distinguishable
-* the name of the form (as described earlier):
+* colour of paper: the millimetre variants of the Daily Rainfall form were usually printed on blue/grey paper to make them easily distinguishable
+* form names:
 	* for inches, Form A.1 and then later Form 1090
 	* for millimetres, Form A.2 and then later Form 1091
 * slightly different Printing codes at the bottom of the page (which give much smaller print-run sizes for the millimetre variants compared to the inches variants)
 * an instruction just above the main grid about what units *not* to use the form for 
-* 'in.' or 'mm.' units inidicators in the monthly column headings
-* different but roughly equivalent rainfall amounts in the 'Days with ...' row titles in the Totals section of the form
+* units inidicators ('in.' or 'mm.') in the monthly column headings
+* rainfall amounts specified in the 'Days with ...' row titles in the Totals section of the form
   
 <table border="0">
 <tr><td>
@@ -668,7 +668,7 @@ The form variants were identical except for a few particular details:
 </tr>
 </table>
 
-Metadata fields (e.g. the diameter of the rain gauge funnel) on both form variants used inches/feet, not metric units.
+However metadata fields (e.g. the diameter of the rain gauge funnel) on both used inches/feet, not metric units, on both variants of the form.
 
 ### Organisation names in the page banner
 
@@ -706,4 +706,80 @@ A couple of the changes to the Instructions text relate to items discussed in th
 * page vii describes the move of the British Rainfall Organization out of its 62 Camden Square base to the Met Office premises in South Kensington, and ties in with the change of the British 
 Rainfall Organization mailing address on the form (to the Air Ministry, Kingsway).
 
-... tbc ...
+### Totals section - Rain Days evolution
+
+The second row of the Totals section of the form changed from showing a 'Rain Days' count to a more explicit 'Days with &middot;01 in. or more' count, and then a third row was added to hold a 'Days with &middot;04 in. or more' count.
+There were similar changes to the millimetre variants of the forms. 
+
+<table border="0">
+<tr>
+<td>
+<a href="page_images/W_6500_VII_18.rain_days.jpg">
+	<img src="page_images/W_6500_VII_18.rain_days.jpg" style="width:200px">
+</a>
+</td>
+<td/>
+</tr>
+<tr>
+<td>
+<a href="page_images/7500_10_19.days_with.jpg">
+	<img src="page_images/7500_10_19.days_with.jpg" style="width:200px">
+</a>
+</td>
+<td>
+
+<a href="page_images/500_10_19.days_with.jpg">
+	<img src="page_images/500_10_19.days_with.jpg" style="width:200px">
+</a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="page_images/10000_7_20.days_with.jpg">
+	<img src="page_images/10000_7_20.days_with.jpg" style="width:200px">
+</a>
+</td>
+<td>
+<a href="page_images/1000_7_20.days_with.jpg">
+	<img src="page_images/1000_7_20.days_with.jpg" style="width:200px">
+</a>
+</td>
+</tr>
+</table>
+
+[British Rainfall 1919](https://digital.nmla.metoffice.gov.uk/IO_cd34fd90-2c3e-42a8-b896-0cd08678689e/) and other editions of the period include a 'The Distribution of Rainfall in Time' section 
+which discuss the definition of 'Rain Days' in terms of the amount of rainfall recorded, and whether it would be more practical and useful to use a different rainfall amount, with an additional consideration
+being how to make the definition work consistently in both inches and millimetres. The introduction of a 'Wet Day' concept based on 0.04 in / 1.0 mm of rainfall to address this was being evaluated.
+
+### Printing code changes
+
+When the British Rainfall Organization was an independent organisation, the Printing codes on its Daily Rainfall forms were relatively simple, mostly comprising a print-run size, year and month, with 
+the final form having a Printing code of 'W 6,500 VII 18', with an unexplained 'WWC'. 
+
+<a href="page_images/W_6500_VII_18.printing_code.jpg">
+	<img src="page_images/W_6500_VII_18.printing_code.jpg" style="width:200px">
+</a>
+
+As part of the Met Office, British Rainfall Organization Printing codes became quite a lot more complex; they retain identifiable print-run, year and month indicators, but 
+have several additional fields, whose meaning is often not clear. The first Met Office period printing code is:
+
+<a href="page_images/7500_10_19.printing_code.jpg">
+	<img src="page_images/7500_10_19.printing_code.jpg" style="width:400px">
+</a>
+
+which shows 7,500 as the print-run size, and 10/19 as the month/year. 
+
+The millimeter variant of this form has a slightly different Printing code:
+
+<a href="page_images/500_10_19.printing_code.jpg">
+	<img src="page_images/500_10_19.printing_code.jpg" style="width:400px">
+</a>
+
+showing the same month/year but with a much smaller print-run size of 500, and a different value for the first number of the code.
+
+For the purposes of this note, Printing codes have been used as a label for versions of the Daily Rainfall form over time. For the Met Office period, this continues, but just using the print-run, year and month aspects, so 
+the two examples above are referred to as '7500&nbsp;10/19' and '500&nbsp;10/19'.
+
+<hr/>
+
+
