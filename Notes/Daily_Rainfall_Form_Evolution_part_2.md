@@ -4,6 +4,46 @@
 * [Part 1](Daily_Rainfall_Form_Evolution_part_1.md) covers the period up to 1923, when the daily rainfall form changed from single-sided to double-sided
 * **Part 2** - this note - covers the period from 1924 onwards 
 
+## Use of both sides of the Daily Rainfall form
+Up to 1923, British Rainfall Organization's Daily Rainfall form was single-sided, with the back of the form left blank. From 1924 onwards, the form became two-sided, with the front side continuing
+to be used for the main 12x31 daily grid. For 1924 and early 1925, the back was used just for an expanded set of instructions and an area for observer notes, and information about the printer, including the Printing code. 
+From late 1925 onwards, the form was divided into 4 sections A-D, with the front being section A, the main daily form, and the back used for section B (monthly figures), section C (metadata) and section D (instructions), as
+well as the printer information and Printing code.
+
+### Practicalities of following double-sided form evolution
+
+The use of both sides of the form has a few implications for the process used here for following and recording the evolution of the daily rainfall form over time, particularly as only the online scanned 
+forms are being used (rather than direct inspection of the actual forms in person):
+
+* the front and back of the form both evolve over time, and so are both covered in the sections which follow below
+* as the Printing code for the forms is only given on the back of the form, this makes assigning a version number to the front reliant on making a pairing to its back
+* often the online archive just contains an image for either the front or the back of a particular sheet, not both, so determining a matching front and back pair for each version of the form takes some trawling of the archive volumes
+* for some reason, the Scottish volumes of the archive more often have paired front and back images of the same sheet, so many of the examples to follow are from Scottish sites
+* finding front and back pairings for the less common millimetre-based form variants is particularly tricky; these are mostly ignored in the rest of this note
+
 ## Contents
 
-* tbc
+* [1924-1930 Daily Rainfall Forms](#1924-1930)
+* tbc ...
+
+<hr/>
+
+<a id="1924-1930"></a>
+## 1924-1930 Daily Rainfall Forms
+
+The table below lists versions of the form in use in the 1924-1930 period, as determined from the rainfall records in various Daily Rainfall volumes in the Met Office archive.
+The table also outlines notable changes to the form layout over time, with some of these changes covered in more detail following the table. 
+
+|Version|Links|Notes|
+|:------|:----|:----|
+|10000&nbsp;12/24|[Front](page_images/DRain_1924_All_Counties_Part1_p0141.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1924_All_Counties_Part1_p0142.jpg)|The first double-sided form. 'For Official Use' added to the top of the page (but not always?). Extra metadata fields in top right for 'County No.', 'River Dist.' and 'Station No.'. 'Previous Day' instructions simplified and highlighting changed and 'Rules for Rainfall Observers' section removed, leading to a reduced size Instructions section at the top. No page footer content. Back of the form contains extensive instructions and an area for Observer notes. Detailed HMSO purchasing info on the back, and the name and address of the printer. Printing code is at the bottom of the back of the form.|
+|1000&nbsp;2/25|[Front](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0004.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0005.jpg)|Second line added to the Printing code on the back of the form. This version seems to be just a small print-run extension of "10000&nbsp;12/24".|
+|11,500&nbsp;12/25|[Front](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0071.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0072.jpg)|First ABCD form; tbc|
+|13000&nbsp;9-26|[Front](page_images/DRain_1927_Clackmannan_To_Shetland_Part2_p0058.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1927_Clackmannan_To_Shetland_Part2_p0059.jpg)|tbc|
+|13000&nbsp;9-27|[Front](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0017.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0018.jpg)|tbc|
+|13,000&nbsp;2/28|[Front](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0041.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0042.jpg)|tbc|
+|14,000&nbsp;5/29|[Front](page_images/DRain_1929_Clackmannan_To_Shetland_Part2_p0014.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1929_Clackmannan_To_Shetland_Part2_p0015.jpg)|tbc|
+|14,000&nbsp;6/30|[Front](page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0040.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0041.jpg)|tbc|
+
+
+
