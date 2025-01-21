@@ -18,7 +18,6 @@ British Rainfall Organization as an independent body:
 British Rainfall Organization as part of the Met Office:
 
 * [1919-1923 Daily Rainfall Forms](#1919-1923)
-* tbc ...
 
 <hr/>
 
