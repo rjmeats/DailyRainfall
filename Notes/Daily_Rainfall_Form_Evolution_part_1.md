@@ -777,9 +777,22 @@ the two examples above are referred to as '7500&nbsp;10/19' and '500&nbsp;10/19'
 
 ### Final single-sided form - "9,000&nbsp;8/23"
 
+.. and its millimetre equivalent "375&nbsp;8/23"
+
+<table border="0">
+<tr><td>
 <a href="page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0066.jpg">
 	<img src="page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0066.jpg" style="width:400px">
 </a>
+</td>
+<td>
+<a href="page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0043.jpg">
+	<img src="page_images/DRain_1921-1930_RainNos_Cambridgeshire_p0043.jpg" style="width:415px">
+</a>
+</td>
+</tr>
+</table>
+
 
 <hr/>
 
