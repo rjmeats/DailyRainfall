@@ -1,7 +1,7 @@
 # Evolution of the British Rainfall Organization's Daily Rainfall Form - Part 1
 
 * [Overview](Daily_Rainfall_Form_Evolution.md) 
-* Part 1 - this note - covers the period up to 1923, when the daily rainfall form changed from single-sided to double-sided
+* **Part 1** - this note - covers the period up to 1923, when the daily rainfall form changed from single-sided to double-sided
 * [Part 2](Daily_Rainfall_Form_Evolution_part_2.md) covers the period from 1924 onwards 
 
 ## Contents
