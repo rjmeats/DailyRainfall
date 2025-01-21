@@ -1,4 +1,4 @@
-# Evolution of the British Rainfall Organisation's Daily Rainfall Form
+# Evolution of the British Rainfall Organization's Daily Rainfall Form
 
 Notes on how British Rainfall Organization's Daily Rainfall form has evolved over time. The basic form layout is 
 * a main grid of 12 monthly columns x 31 daily rows + one or more rows for monthly aggregates
@@ -675,7 +675,7 @@ However metadata fields (e.g. the diameter of the rain gauge funnel) on both use
 Before the British Rainfall Organization was incorporated into the Met Office in 1919, the banner at the top of the Daily Rainfall form was mainly a title giving the purpose of the form, with a small diagonal corner section
 giving the name of the organisation and the form name. On joining the Met Office, the organisation identification part of the banner was expanded to give much greater prominence to two, and then three, levels of 
 organisation names: 
-* British Rainfall Organisation
+* British Rainfall Organization
 * Meteorological Office
 * (from 1921) Air Ministry
 
