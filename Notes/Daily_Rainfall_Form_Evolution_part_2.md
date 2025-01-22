@@ -37,13 +37,61 @@ The table also outlines notable changes to the form layout over time, with some 
 |Version|Links|Notes|
 |:------|:----|:----|
 |10000&nbsp;12/24|[Front](page_images/DRain_1924_All_Counties_Part1_p0141.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1924_All_Counties_Part1_p0142.jpg)|The first double-sided form. 'For Official Use' added to the top of the page (but not always?). Extra metadata fields in top right for 'County No.', 'River Dist.' and 'Station No.'. 'Previous Day' instructions simplified and highlighting changed and 'Rules for Rainfall Observers' section removed, leading to a reduced size Instructions section at the top. No page footer content. Back of the form contains extensive instructions and an area for Observer notes. Detailed HMSO purchasing info on the back, and the name and address of the printer. Printing code is at the bottom of the back of the form.|
-|1000&nbsp;2/25|[Front](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0004.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0005.jpg)|Second line added to the Printing code on the back of the form. This version seems to be just a small print-run extension of "10000&nbsp;12/24".|
-|11,500&nbsp;12/25|[Front](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0071.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0072.jpg)|First ABCD form; tbc|
+|1000&nbsp;2/25|[Front](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0004.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0005.jpg)|Second line added to the Printing code on the back of the form. This version seems to be just a small print run repeat of "10000&nbsp;12/24".|
+|11,500&nbsp;12/25|[Front](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0071.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0072.jpg)|The first form to be divided into sections A (front), and B, C, D (back), with sections identified by a large boxed capital letter. Section [A] is the normal daily 12x31 form with a few minor changes. [A] Metadata fields moved to the left of the header and reduced in number. [A] right of the header used to point Observers at rear of the form. [A] "Year's Total" cell heading spread over two lines. [A] Signature section added to footer, and 'PTO'. Section[B] 'Monthly Summary' is a new section, with its own grid of monthly values. New section [C] 'Particulars of Station' has station metadata, some of which used to be on the front of the old form, but mostly is new information. [C] also has a space for recording 'exceptional rainfall for the year', replacing the 'Notes' area on the back of the previous form. New Section [D] provides detailed instructions for observers; the instructions themselves are very similar to those provided in the previous version of the form, but are presented in two columns. The HMSO and printer information is presented beneath section [D], using less space than previously, followed by the Printing code. The price quoted is now '1d' rather than '2d'.
 |13000&nbsp;9-26|[Front](page_images/DRain_1927_Clackmannan_To_Shetland_Part2_p0058.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1927_Clackmannan_To_Shetland_Part2_p0059.jpg)|tbc|
 |13000&nbsp;9-27|[Front](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0017.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0018.jpg)|tbc|
 |13,000&nbsp;2/28|[Front](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0041.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0042.jpg)|tbc|
 |14,000&nbsp;5/29|[Front](page_images/DRain_1929_Clackmannan_To_Shetland_Part2_p0014.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1929_Clackmannan_To_Shetland_Part2_p0015.jpg)|tbc|
 |14,000&nbsp;6/30|[Front](page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0040.jpg)&nbsp;:&nbsp;[Back](page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0041.jpg)|tbc|
 
+### First two-sided form - "10000&nbsp;12/24"
+
+The "10000&nbsp;12/24" version of the form makes use of the back of the form for the first time. The back of the form is used for:
+
+* expanded instructions, replacing the need for Observers to refer to the separate 'Rules for Rainfall Observers' publication
+* a 'Notes' area for the Observer to record details of exceptional rainfall or to pass on details of potential new Observers.
+* details of HMSO addresses where the form could be purchased, and price
+* name and address of the printer
+* the Printing code
+
+A couple of changes to the front of the form tie in with this:
+* the instructions in the header of the front of the form are reduced to just the 'previous day' aspect, with this now given extra emphasis
+* the footer is blank, the Printing code only appears on the back of the form
+
+<table border="0">
+<tr><td>
+<a href="page_images/DRain_1924_All_Counties_Part1_p0141.jpg">
+	<img src="page_images/DRain_1924_All_Counties_Part1_p0141.jpg" style="width:400px">
+</a>
+</td>
+<td>
+<a href="page_images/DRain_1924_All_Counties_Part1_p0142.jpg">
+	<img src="page_images/DRain_1924_All_Counties_Part1_p0142.jpg" style="width:400px">
+</a>
+</td>
+</tr>
+</table>
+
+
+### A-D section labelling introduced - "11,500&nbsp;12/25"
+
+tbc ...
+
+### End of the 1920s form - "14,000&nbsp;6/30"
+
+<table border="0">
+<tr><td>
+<a href="page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0040.jpg">
+	<img src="page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0040.jpg" style="width:400px">
+</a>
+</td>
+<td>
+<a href="page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0041.jpg">
+	<img src="page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0041.jpg" style="width:400px">
+</a>
+</td>
+</tr>
+</table>
 
 
