@@ -138,6 +138,24 @@ to indicate that it applies to both Section A and Section B.
 	<img src="page_images/11500_12_25.Section_D.jpg" style="width:800px">
 </a>
 
+### Front and Back of form "11,500&nbsp;12/25"
+
+The images below shows how section A covered the front of the form, with sections B, C and D set out on the back of the form, along with footer information about HMSO addresses, published details and the Printing code.
+
+<table border="0">
+<tr><td>
+<a href="page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0071.jpg">
+	<img src="page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0071.jpg" style="width:400px">
+</a>
+</td>
+<td>
+<a href="page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0072.jpg">
+	<img src="page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0072.jpg" style="width:400px">
+</a>
+</td>
+</tr>
+</table>
+
 ### TBC ...
 
 
