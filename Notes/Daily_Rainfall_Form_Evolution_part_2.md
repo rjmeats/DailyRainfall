@@ -10,6 +10,8 @@ to be used for the main 12x31 daily grid. For 1924 and early 1925, the back was 
 From late 1925 onwards, the form was divided into 4 sections A, B, C, and D, with the front being section A, the main daily form, and the back used for section B (monthly figures), section C (metadata) and section D (instructions), as
 well as the printer information and Printing code.
 
+In the tables below which summarise changes between versions of the form, [A], [B], [C], and [D] are used to identify the section of the form related to a particular change.
+
 ### Practicalities of following double-sided form evolution
 
 The use of both sides of the form has a few implications for the process used here for following and recording the evolution of the daily rainfall form over time, particularly as only the online scanned 
@@ -87,7 +89,7 @@ Section A forms the front of the Daily Rainfall form, and presents the standard 
 	<img src="page_images/11500_12_25.Section_A.jpg" style="width:800px">
 </a>
 
-#### B - Monthly Summary
+#### Section B - Monthly Summary
 
 Section B appears as a long thin area in the top-left part of the back of the form. It allows monthly rainfall data to be recorded for stations which do not report daily rainfall. There is a 
 separate monthly rainfall form *Form 1093* which this section is modelled on. Generally, an Observer was expected to fill in Section A or Section B, although some did both.
@@ -106,7 +108,7 @@ separate monthly rainfall form *Form 1093* which this section is modelled on. Ge
 </tr>
 </table>
 
-#### C - Particulars of Station
+#### Section C - Particulars of Station
 
 Section C is used for recording various station and rain gauge metadata, going beyond what used to be recorded on the front of the form. Additional items recorded include:
 * the correspondence name and address of observer
@@ -127,7 +129,7 @@ Section C also includes an area for recording details of exceptional rainfall du
 	<img src="page_images/11500_12_25.Section_C.jpg" style="width:400px">
 </a>
 
-#### D - Instructions
+#### Section D - Instructions
 
 Section D contains instructions for Observers, very similar to the instructions provided on the back of the previous version of the form, except formatted into two columns, and with some text in italics
 to indicate that it applies to both Section A and Section B. 
