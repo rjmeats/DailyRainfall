@@ -634,8 +634,8 @@ The Daily Rainfall form was originally designed for recording rainfall measured 
 potential use of millimetres rather than inches, the 'in.' column heading was removed from version W&nbsp;8,000&nbsp;X&nbsp;'11 onwards. From 1919, two variants of the form were produced,
 one for recording in inches and the other for recording in millimetres. 
 
-[British Rainfall 1918](https://digital.nmla.metoffice.gov.uk/IO_fdc21815-593c-48b9-9fb5-3a23bb871531/) p29 discusses use of metric units 
-and [British Rainfall 1919](https://digital.nmla.metoffice.gov.uk/IO_cd34fd90-2c3e-42a8-b896-0cd08678689e/) preface page ix mentions the introduction of new forms.
+[British Rainfall 1914](https://digital.nmla.metoffice.gov.uk/IO_74166526-e75f-452a-ae6f-449f6ee5a25c/) p12 and [British Rainfall 1918](https://digital.nmla.metoffice.gov.uk/IO_fdc21815-593c-48b9-9fb5-3a23bb871531/) p29 
+discuss use of metric units, and [British Rainfall 1919](https://digital.nmla.metoffice.gov.uk/IO_cd34fd90-2c3e-42a8-b896-0cd08678689e/) preface page ix mentions the introduction of new forms.
 
 The form variants were identical except for a few particular details:
 
@@ -663,6 +663,8 @@ The form variants were identical except for a few particular details:
 </table>
 
 However metadata fields (e.g. the diameter of the rain gauge funnel) on both used inches/feet, not metric units, on both variants of the form.
+
+\[British Rainfall volumes used both inches and millimetres in their table of annual rainfall for each station for the period 1914-1925, reverting backto just inches from 1926.\]
 
 ### Organisation names in the page banner
 

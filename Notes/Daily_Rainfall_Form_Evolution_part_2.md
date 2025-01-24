@@ -4,6 +4,13 @@
 * [Part 1](Daily_Rainfall_Form_Evolution_part_1.md) covers the period up to 1923, when the daily rainfall form changed from single-sided to double-sided
 * **Part 2** - this note - covers the period from 1924 onwards 
 
+## Contents
+
+* [Use of both sides of the Daily Rainfall form](#Use-of-both-sides)
+* [1924-1930 Daily Rainfall Forms](#1924-1930)
+* tbc ...
+
+<a id="Use-of-both-sides"></a>
 ## Use of both sides of the Daily Rainfall form
 Up to 1923, British Rainfall Organization's Daily Rainfall form was single-sided, with the back of the form left blank. From 1924 onwards, the form became two-sided, with the front side continuing
 to be used for the main 12x31 daily grid. For 1924 and early 1925, the back was used just for an expanded set of instructions and an area for observer notes, and information about the printer, including the Printing code. 
@@ -21,12 +28,7 @@ forms are being used (rather than direct inspection of the actual forms in perso
 * as the Printing code for the forms is only given on the back of the form, this makes assigning a version number to the front reliant on making a pairing to its back
 * often the online archive just contains an image for either the front or the back of a particular sheet, not both, so determining a matching front and back pair for each version of the form takes some trawling of the archive volumes
 * for some reason, the Scottish volumes of the archive more often have paired front and back images of the same sheet, so many of the examples to follow are from Scottish sites
-* finding front and back pairings for the less common millimetre-based form variants is particularly tricky; these are mostly ignored in the rest of this note
-
-## Contents
-
-* [1924-1930 Daily Rainfall Forms](#1924-1930)
-* tbc ...
+* finding front and back pairings for the less common millimetre-based form variants is particularly tricky; some examples are presented below, but they are not covered in detail in the rest of this note
 
 <hr/>
 
@@ -39,7 +41,7 @@ The table also outlines notable changes to the form layout over time, with some 
 |Version|Links|Notes|
 |:------|:----|:----|
 |10000&nbsp;12/24|[Front](page_images/DRain_1924_All_Counties_Part1_p0141.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1924_All_Counties_Part1_p0142.jpg)|The first double-sided form. 'For Official Use' added to the top of the page (but not always?). Extra metadata fields in top right for 'County No.', 'River Dist.' and 'Station No.'. 'Previous Day' instructions simplified and highlighting changed and 'Rules for Rainfall Observers' section removed, leading to a reduced size Instructions section at the top. No page footer content. Back of the form contains extensive instructions and an area for Observer notes. Detailed HMSO purchasing info on the back, and the name and address of the printer. Printing code is at the bottom of the back of the form.|
-|1000&nbsp;2/25|[Front](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0004.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0005.jpg)|Second line added to the Printing code on the back of the form. This version seems to be just a small print run repeat of "10000&nbsp;12/24".|
+|1000&nbsp;2/25|[Front](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0004.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0005.jpg)|For just this version, the Printing code on the back of the form has a second line. This version seems to be just a small print run repeat of "10000&nbsp;12/24".|
 |11,500&nbsp;12/25|[Front](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0071.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0072.jpg)|The first form to be divided into sections A (front), and B, C, D (back), with sections identified by a large boxed capital letter. Section A is the normal daily 12x31 form with a few minor changes. [A] Metadata fields moved to the left of the header and reduced in number. [A] right of the header used to point Observers to the back of the form. [A] "Year's Total" cell heading spread over two lines. [A] Signature section added to footer, and 'PTO'. Section B 'Monthly Summary' is a new section, with its own grid of monthly values. New section C 'Particulars of Station' has station metadata, some of which used to be on the front of the old form, but mostly is new information. [C] also has a space for recording 'exceptional rainfall for the year', replacing the 'Notes' area on the back of the previous form. New Section D provides detailed instructions for observers; the instructions themselves are very similar to those provided in the previous version of the form, but are presented in two columns. The HMSO and printer information is presented beneath section D, using less space than previously, followed by the Printing code. The price quoted is now '1d' rather than '2d'.
 |13000&nbsp;9-26|[Front](page_images/DRain_1927_Clackmannan_To_Shetland_Part2_p0058.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1927_Clackmannan_To_Shetland_Part2_p0059.jpg)|[A] 'Air Ministry' banner no longer on its own line. [A] 'Register of Rainfall' title much larger. [A] Right side of the header now blank, text to point Observers to the back of the form is now in the footer area. [A] Vertical grid lines in 12x31 table are more prominent; horiztonal lines between days also more prominent, and now formed of closely spaced dots, with the dividers after days 10, 20 and 31 much wider and darker. [A] "Year's Total" cell heading back to being on a single line. [A] '(144WS)' appears at the left of the footer. [B] and [C] Minor layour changes to introductory wording. [B] The horizontal grid line separating June and July is now the same as the other grid lines, rather than being a thick black line. [C] Hour of observation field given its own line, 'by the clock' added and separate fields for 'in Winter' and 'in Summer'. [D] Instruction 2(a) adds a line to explain that 9 am GMT is 10 am during 'Summer Time Period'. 28 Abingdon Street removed from the list of HMSO addresses. Printer changed to Waterlow & Sons from previous Truscott & Son.|
 |13000&nbsp;9-27|[Front](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0017.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0018.jpg)|[A] Text to point observers to the back of the form moved from the footer to the header area, replacing the previous text about using Form 1091 for records taken in millimetres.  [A] '(144WS)' and '144W)' appear at the left of the footer. [B] Note about records taken in millimetres removed. [B] Typo in column heading - '0.1' instead of '.01'. [C] Introduction shortened by omission of bracketed clause about changes. [C] Latitude and Longitude fields removed. [C] Railway/Church direction field label expanded to 'Direction from gauge'. [C] 'If gauge has been moved' part moved to below the table of nearby objects. [C] Extra line asking for particulars if the gauge is a self-registering type. [D] Section 1 reworded to be about rules for measuring rather than gauge selection advice. [C] Instruction 2(a) split into two paragraphs. [D] Instruction 2(f) refers to 'number of days ...' rather than 'total number of days ...', and is expanded to cover .04 in. as well as .01 in.| HMSO addresses re-ordered, and Belfast added.
@@ -47,7 +49,7 @@ The table also outlines notable changes to the form layout over time, with some 
 |14,000&nbsp;5/29|[Front](page_images/DRain_1929_Clackmannan_To_Shetland_Part2_p0014.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1929_Clackmannan_To_Shetland_Part2_p0015.jpg)|[A] and [B] Partial year number in header is '19....' instead of previous '192..'. [A], [B] and [C] Lines of dots forming the horizontal grid lines use more but smaller dots than previously. Printer changed to Corah & Son from previous Truscott & Son.|
 |14,000&nbsp;6/30|[Front](page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0040.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0041.jpg)|[A] and [B] Partial year number in header is '193..' instead of previous '19....'. [A] and [B] Asterisks beside the two 'Days with' grid headings, resolved by a note saying to see instruction 2(f). [B] Header text reworded to change where 'not' appears.|
 
-### First two-sided form - "10000&nbsp;12/24"
+### The first two-sided form - "10000&nbsp;12/24"
 
 The "10000&nbsp;12/24" version of the form makes use of the back of the form for the first time. The back of the form is used for:
 
@@ -76,14 +78,45 @@ A couple of changes to the front of the form tie in with this:
 </table>
 
 
+### Short-lived metadata fields
+
+The "10000&nbsp;12/24" form (and its "1000&nbsp;2/25" reprint) crammed three new metadata fields in the top-left of form header:
+
+<a href="page_images/10000_12_24.Short_Lived_Metadata.jpg">
+	<img src="page_images/10000_12_24.Short_Lived_Metadata.jpg" style="width:200px">
+</a>
+
+These fields were not filled in for the sample forms checked, and they were removed again for the next version of the form. They seem to relate to internal British Rainfall Organization classification of records,
+rather than gathering information from the Observer:
+
+* "County No."
+
+	County names appear on rainfall forms from the beginning, and were the basis for organising the rainfall volumes and the tables of stations in British Rainfall. I haven't seen the concept of 'County numbers' 
+	used anywhere in relation to rainfall records, but counties by the British Rainfall Organization were grouped into numbered 'Divisions' (e.g. Division IV, Eastern Counties) so this may be what was intended.
+
+* "River Dist."
+
+	Presumably "River District". [British Rainfall 1910] has a chapter explaining their new scheme of assigning rainfall stations to river basins/divisions, and from then on, the main table of stations was broken down by
+	county division/county and river division. The 10-Year Rainfall Sheets gained a 'River Basin' metadata field from the 1910s onwards to tie in with this.
+
+* "Station No."
+
+	The Station number metadata field reappeared on the Daily Rainfall form in the early 1930s.
+
 ### A, B, C, and D Sections introduced - "11,500&nbsp;12/25"
 
 The "11,500&nbsp;12/25" version of the form splits the Daily Rainfall into 4 sections, 2 of which have content not previously included on the form. The sections are labelled A, B, C and D, with section A being on the
 front of the form, and B, C, and D being on the back. Each section is identified by a large boxed capital letter along with the section title.
 
+The 1925-26 Met Office Annual Report p47 mentions that a revision to the forms had resulted in 'considerable simplication':
+
+<img src="page_images/MOAR_1925-26.form_changes.jpg" style="width:400px">
+
+which perhaps indicates that the new version of the Daily Rainfall form was a merger of items which had been separate forms/publications previously.
+
 #### Section A for the entry of Daily Observations
 
-Section A forms the front of the Daily Rainfall form, and presents the standard 12x31 daily rainfall grid with totals, basic station metadata and form titles.
+Section A makes up the front of the Daily Rainfall form, and presents the standard 12x31 daily rainfall grid with totals, basic station metadata and form titles.
 
 <a href="page_images/11500_12_25.Section_A.jpg">
 	<img src="page_images/11500_12_25.Section_A.jpg" style="width:800px">
@@ -156,8 +189,23 @@ The images below shows how section A covered the front of the form, with section
 </tr>
 </table>
 
-### TBC ...
+### Example Millimetre-based double-sided form
 
+The example double-side millimetre-based form below is version "1000 11-27":
+
+<table border="0">
+<tr><td>
+<a href="page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0200.jpg">
+	<img src="page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0200.jpg" style="width:400px">
+</a>
+</td>
+<td>
+<a href="page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0201.jpg">
+	<img src="page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0201.jpg" style="width:400px">
+</a>
+</td>
+</tr>
+</table>
 
 ### End of the 1920s form - "14,000&nbsp;6/30"
 
