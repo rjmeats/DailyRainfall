@@ -6,11 +6,11 @@
 <tr>
 <td align=center>
 <a href="./page_images/DRain_1861-1870_Lancashire_p0003.jpg"><img src="./page_thumbnails/DRain_1861-1870_Lancashire_p0003.jpg" style="width:150px"></a>
-<br/><136 Camden Road>
+<br/>136 Camden Road
 </td>
 <td align=center>
 <a href="./page_images/DRain_1861-1870_Leicestershire_p0006.jpg"><img src="./page_thumbnails/DRain_1861-1870_Leicestershire_p0006.jpg" style="width:150px"></a>
-<br/><62 Camden Square>
+<br/>62 Camden Square
 </td>
 <td align=center>
 <a href="./page_images/DRain_1861-1870_Yorkshire_p0017.jpg"><img src="./page_thumbnails/DRain_1861-1870_Yorkshire_p0017.jpg" style="width:150px"></a>
@@ -412,3 +412,5 @@
 </td>
 </tr>
 </table>
+
+… tbc …
