@@ -12,4 +12,4 @@ Online Archive, supplemented by some material in British Rainfall annuals and si
 * [Part 1](Daily_Rainfall_Form_Evolution_part_1.md) covers the period up to 1923, when the daily rainfall form changed from single-sided to double-sided
 * [Part 2](Daily_Rainfall_Form_Evolution_part_2.md) covers the period from 1924 onwards 
 
-
+[Gallery of Daily Rainfall Forms](Daily_Rainfall_Form_Gallery.md) displays an example of each form version in time order.
