@@ -1,4 +1,4 @@
-# Gallery of Daily Rainfall forms over time
+# Gallery of Daily Rainfall Forms
 
 ## Single-sided forms
 
