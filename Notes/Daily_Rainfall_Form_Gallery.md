@@ -420,6 +420,110 @@
 <a href="./page_images/DRain_1930_Wigtown_to_Argyll_Part2_p0041.jpg"><img src="./page_thumbnails/DRain_1930_Wigtown_to_Argyll_Part2_p0041.jpg" style="width:150px"></a>
 <br/>14,000 6/30
 </td>
+<td align=center>
+<a href="./page_images/DRain_1931_Clackmannan_To_Shetland_Part1_p0034.jpg"><img src="./page_thumbnails/DRain_1931_Clackmannan_To_Shetland_Part1_p0034.jpg" style="width:150px"></a>
+<br/>15,000 2/31
+</td>
+<td align=center>
+<a href="./page_images/DRain_1931_Clackmannan_To_Shetland_Part1_p0035.jpg"><img src="./page_thumbnails/DRain_1931_Clackmannan_To_Shetland_Part1_p0035.jpg" style="width:150px"></a>
+<br/>15,000 2/31
+</td>
+<td align=center>
+<a href="./page_images/DRain_1931_Clackmannan_To_Shetland_Part1_p0209.jpg"><img src="./page_thumbnails/DRain_1931_Clackmannan_To_Shetland_Part1_p0209.jpg" style="width:150px"></a>
+<br/>1,000 2/31 (mm)
+</td>
+<td align=center>
+<a href="./page_images/DRain_1931_Clackmannan_To_Shetland_Part1_p0210.jpg"><img src="./page_thumbnails/DRain_1931_Clackmannan_To_Shetland_Part1_p0210.jpg" style="width:150px"></a>
+<br/>1,000 2/31 (mm)
+</td>
+</tr>
+<tr>
+<td align=center>
+<a href="./page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0063.jpg"><img src="./page_thumbnails/DRain_1933_Clackmannan_To_Shetland_Part2_p0063.jpg" style="width:150px"></a>
+<br/>16000 8/32
+</td>
+<td align=center>
+<a href="./page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0064.jpg"><img src="./page_thumbnails/DRain_1933_Clackmannan_To_Shetland_Part2_p0064.jpg" style="width:150px"></a>
+<br/>16000 8/32
+</td>
+<td align=center>
+<a href="./page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0046.jpg"><img src="./page_thumbnails/DRain_1933_Clackmannan_To_Shetland_Part2_p0046.jpg" style="width:150px"></a>
+<br/>15000 3/33
+</td>
+<td align=center>
+<a href="./page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0047.jpg"><img src="./page_thumbnails/DRain_1933_Clackmannan_To_Shetland_Part2_p0047.jpg" style="width:150px"></a>
+<br/>15000 3/33
+</td>
+<td align=center>
+<a href="./page_images/DRain_1934_Wigtown_To_Argyll_Part1_p0001.jpg"><img src="./page_thumbnails/DRain_1934_Wigtown_To_Argyll_Part1_p0001.jpg" style="width:150px"></a>
+<br/>16,000 5/34
+</td>
+<td align=center>
+<a href="./page_images/DRain_1934_Wigtown_To_Argyll_Part1_p0002.jpg"><img src="./page_thumbnails/DRain_1934_Wigtown_To_Argyll_Part1_p0002.jpg" style="width:150px"></a>
+<br/>16,000 5/34
+</td>
+</tr>
+<tr>
+<td align=center>
+<a href="./page_images/DRain_1934_Wigtown_To_Argyll_Part1_p0292.jpg"><img src="./page_thumbnails/DRain_1934_Wigtown_To_Argyll_Part1_p0292.jpg" style="width:150px"></a>
+<br/>1000 5/34 (mm)
+</td>
+<td align=center>
+<a href="./page_images/DRain_1934_Wigtown_To_Argyll_Part1_p0293.jpg"><img src="./page_thumbnails/DRain_1934_Wigtown_To_Argyll_Part1_p0293.jpg" style="width:150px"></a>
+<br/>1000 5/34 (mm)
+</td>
+<td align=center>
+<a href="./page_images/DRain_1935_Wigtown_To_Argyll_Part2_p0129.jpg"><img src="./page_thumbnails/DRain_1935_Wigtown_To_Argyll_Part2_p0129.jpg" style="width:150px"></a>
+<br/>15,000 2/35
+</td>
+<td align=center>
+<a href="./page_images/DRain_1935_Wigtown_To_Argyll_Part2_p0130.jpg"><img src="./page_thumbnails/DRain_1935_Wigtown_To_Argyll_Part2_p0130.jpg" style="width:150px"></a>
+<br/>15,000 2/35
+</td>
+<td align=center>
+<a href="./page_images/DRain_1937_Clackmannan_To_Shetland_Part2_p0151.jpg"><img src="./page_thumbnails/DRain_1937_Clackmannan_To_Shetland_Part2_p0151.jpg" style="width:150px"></a>
+<br/>1000 8/35 (mm)
+</td>
+<td align=center>
+<a href="./page_images/DRain_1937_Clackmannan_To_Shetland_Part2_p0152.jpg"><img src="./page_thumbnails/DRain_1937_Clackmannan_To_Shetland_Part2_p0152.jpg" style="width:150px"></a>
+<br/>1000 8/35 (mm)
+</td>
+</tr>
+<tr>
+<td align=center>
+<a href="./page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0218.jpg"><img src="./page_thumbnails/DRain_1936_Clackmannan_To_Shetland_Part1_p0218.jpg" style="width:150px"></a>
+<br/>26,000 4/36
+</td>
+<td align=center>
+<a href="./page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0219.jpg"><img src="./page_thumbnails/DRain_1936_Clackmannan_To_Shetland_Part1_p0219.jpg" style="width:150px"></a>
+<br/>26,000 4/36
+</td>
+<td align=center>
+<a href="./page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0293.jpg"><img src="./page_thumbnails/DRain_1938_Clackmannan_To_Shetland_Part2_p0293.jpg" style="width:150px"></a>
+<br/>1,000 4/36 (mm)
+</td>
+<td align=center>
+<a href="./page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0294.jpg"><img src="./page_thumbnails/DRain_1938_Clackmannan_To_Shetland_Part2_p0294.jpg" style="width:150px"></a>
+<br/>1,000 4/36 (mm)
+</td>
+<td align=center>
+<a href="./page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0010.jpg"><img src="./page_thumbnails/DRain_1938_Clackmannan_To_Shetland_Part2_p0010.jpg" style="width:150px"></a>
+<br/>25,500 12/37
+</td>
+<td align=center>
+<a href="./page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0011.jpg"><img src="./page_thumbnails/DRain_1938_Clackmannan_To_Shetland_Part2_p0011.jpg" style="width:150px"></a>
+<br/>25,500 12/37
+</td>
+</tr>
+<tr>
+<td align=center>
+<a href="./page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0087.jpg"><img src="./page_thumbnails/DRain_1940_Wigtown_To_Argyll_Part1_p0087.jpg" style="width:150px"></a>
+<br/>21,000 10/38
+</td>
+<td align=center>
+<a href="./page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0088.jpg"><img src="./page_thumbnails/DRain_1940_Wigtown_To_Argyll_Part1_p0088.jpg" style="width:150px"></a>
+<br/>21,000 10/38
+</td>
 </table>
 
 … tbc …
