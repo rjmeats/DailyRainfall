@@ -1,6 +1,6 @@
-# Gallery of Daily Rainfall Forms
+# Gallery of Daily Rainfall Form Versions
 
-## Single-sided forms
+## Single-sided form versions
 
 <table border="0">
 <tr>
@@ -304,7 +304,7 @@
 </td>
 </table>
 
-## Double-sided forms
+## Double-sided form versions
 
 <table border="0">
 <tr>
