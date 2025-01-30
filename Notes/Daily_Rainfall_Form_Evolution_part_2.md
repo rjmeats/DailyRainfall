@@ -8,6 +8,7 @@
 
 * [Use of both sides of the Daily Rainfall form](#Use-of-both-sides)
 * [1924-1930 Daily Rainfall Forms](#1924-1930)
+* [1931-1940 Daily Rainfall Forms](#1931-1940)
 * tbc ...
 
 <a id="Use-of-both-sides"></a>
@@ -222,5 +223,24 @@ The example double-side millimetre-based form below is version "1000 11-27":
 </td>
 </tr>
 </table>
+
+<hr/>
+
+<a id="1931-1940"></a>
+## 1931-1940 Daily Rainfall Forms
+
+The table below lists versions of the form in use in the 1931-1940 period, as determined from the rainfall records in various Daily Rainfall volumes in the Met Office archive.
+The table also outlines notable changes to the form layout over time, with some of these changes covered in more detail following the table. 
+
+|Version|Links|Notes|
+|:------|:----|:----|
+|15,000&nbsp;2/31|[Front](page_images/DRain_1931_Clackmannan_To_Shetland_Part1_p0034.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1931_Clackmannan_To_Shetland_Part1_p0035.jpg)||
+|16000&nbsp;8/32|[Front](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0063.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0064.jpg)||
+|15000&nbsp;3/33|[Front](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0046.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0047.jpg)|
+|16,000&nbsp;5/34|[Front](page_images/DRain_1934_Wigtown_To_Argyll_Part1_p0001.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1934_Wigtown_To_Argyll_Part1_p0002.jpg)||
+|15,000&nbsp;2/35|[Front](page_images/DRain_1935_Wigtown_To_Argyll_Part2_p0129.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1935_Wigtown_To_Argyll_Part2_p0130.jpg)|
+|26,000&nbsp;4/36|[Front](page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0218.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0219.jpg)|
+|25,500&nbsp;12/37|[Front](page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0010.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0011.jpg)||
+|21,000&nbsp;10/38|[Front](page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0087.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0088.jpg)|
 
 
