@@ -190,6 +190,36 @@ The images below shows how section A covered the front of the form, with section
 </tr>
 </table>
 
+### British Summer Time and Hour of Observation
+
+From the start, the Daily Rainfall form had a 'Time of Observation' metadata field in its header. This moved to Section C on the back in version "11,500&nbsp;12/25" when the ABCD section scheme was introduced, with
+the field label changing to 'Hour of Observation' at this point.
+
+
+<a href="page_images/11500_12_25.hour_of_observation.jpg">
+	<img src="page_images/11500_12_25.hour_of_observation.jpg" style="width:400px">
+</a>
+
+The next version of the form, "13000&nbsp;9-26" expands this to have provide separate fields for 'in Winter' and 'in Summer', and adds 'by the clock' to indicate the intended usage of the fields:
+
+<a href="page_images/13000_9_26.hour_of_observation.jpg">
+	<img src="page_images/13000_9_26.hour_of_observation.jpg" style="width:400px">
+</a>
+
+At the same time, a sentence was added to instruction 2(a) to clarify that '9 a.m. Greenwich Mean Time is 10 a.m. by the clock during Summer Time Period'.
+
+<a href="page_images/13000_9_26.hour_of_observation_instruction.jpg">
+	<img src="page_images/13000_9_26.hour_of_observation_instruction.jpg" style="width:400px">
+</a>
+
+British Summer Time was first introduced in 1916 and [British Rainfall 1916](https://digital.nmla.metoffice.gov.uk/IO_7a18d373-0737-4d68-a77b-ecbc2255d311/) p11 discusses the confusion this caused: 
+
+<a href="page_images/BR_1916.summer_time.jpg">
+	<img src="page_images/BR_1916.summer_time.jpg" style="width:400px">
+</a>
+
+It's a bit surprising that it takes a decade for the Daily Rainfall form to try to address this.
+
 ### Example Millimetre-based double-sided form
 
 The example double-side millimetre-based form below is version "1000 11-27":
