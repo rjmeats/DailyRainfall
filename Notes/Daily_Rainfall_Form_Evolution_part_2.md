@@ -102,7 +102,7 @@ rather than gathering information from the Observer:
 
 * "Station No."
 
-	The Station number metadata field reappeared on the Daily Rainfall form in the early 1930s.
+	The Station number metadata field was restored permanently on the Daily Rainfall form in the early 1930s in version "16000 8/32".
 
 ### A, B, C, and D Sections introduced - "11,500&nbsp;12/25"
 
@@ -160,7 +160,7 @@ So it's possible Section C is based on some pre-existing form type, perhaps held
 Section C also includes an area for recording details of exceptional rainfall during the year.
 
 <a href="page_images/11500_12_25.Section_C.jpg">
-	<img src="page_images/11500_12_25.Section_C.jpg" style="width:400px">
+	<img src="page_images/11500_12_25.Section_C.jpg" style="width:400px" align="center">
 </a>
 
 #### Section D - Instructions
@@ -218,7 +218,7 @@ British Summer Time was first introduced in 1916 and [British Rainfall 1916](htt
 	<img src="page_images/BR_1916.summer_time.jpg" style="width:400px">
 </a>
 
-It's a bit surprising that it takes a decade for the Daily Rainfall form to try to address this.
+It's a bit surprising that the Daily Rainfall form only reacts to this a decade later.
 
 ### Example Millimetre-based double-sided form
 
@@ -272,6 +272,24 @@ The table also outlines notable changes to the form layout over time, with some 
 |26,000&nbsp;4/36|[Front](page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0218.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0219.jpg)|[A] and [B] Asterisk footnotes refer to Instruction 3(f) instead of 2(f). [A] '40-9999' removed from footer (goes to the back of the form). [D] New Instruction 1 inserted, describing when to fill in sections A, B and C, and where to send the completed form to. [D] Other instructions renumbered accordingly. [D] Instruction 2 (previously 1) shortened to not repeat addresses. [D] Instruction 3(c) (previously 2(c) expanded. [D] Text indentation/wrapping adjusted to accomodate the other changes. [Back] The price appears on its own line, separate from the HMSO section. [Back] Footer adds 'S.O. Code No. 40-9999' at the bottom right.|
 |25,500&nbsp;12/37|[Front](page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0010.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0011.jpg)|[Back] Adjustment to Manchester address in the HMSO section.|
 |21,000&nbsp;10/38|[Front](page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0087.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0088.jpg)|No changes|
+
+### End of the 1930s form - "21,000&nbsp;10/38"
+
+<table border="0">
+<tr><td>
+<a href="page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0087.jpg">
+	<img src="page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0087.jpg" style="width:400px">
+</a>
+</td>
+<td>
+<a href="page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0088.jpg">
+	<img src="page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0088.jpg" style="width:400px">
+</a>
+</td>
+</tr>
+</table>
+
+<hr/>
 
 
 .. tbc ..
