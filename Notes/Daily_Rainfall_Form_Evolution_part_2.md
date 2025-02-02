@@ -160,7 +160,7 @@ So it's possible Section C is based on some pre-existing form type, perhaps held
 Section C also includes an area for recording details of exceptional rainfall during the year.
 
 <a href="page_images/11500_12_25.Section_C.jpg">
-	<img src="page_images/11500_12_25.Section_C.jpg" style="width:400px" align="center">
+	<img src="page_images/11500_12_25.Section_C.jpg" style="width:400px">
 </a>
 
 #### Section D - Instructions
@@ -266,14 +266,53 @@ The table also outlines notable changes to the form layout over time, with some 
 |:------|:----|:----|
 |15,000&nbsp;2/31|[Front](page_images/DRain_1931_Clackmannan_To_Shetland_Part1_p0034.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1931_Clackmannan_To_Shetland_Part1_p0035.jpg)|[A] 'Copy For Official Use' instead of just 'For Official Use' in the header.|
 |16000&nbsp;8/32|[Front](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0063.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0064.jpg)|[A] 'Copy For Official Use' on its own line right at the top of the form. [A] 'Station No' metadata field added at the top-right of the form.|
-|15000&nbsp;3/33|[Front](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0046.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0047.jpg)|[A] Extra column added to the main grid between the 'December' and second 'Date' column, with a &dagger; dagger symbol at the top of the column. [A] The footer adds a footnote to resolve the dagger symbol meaning: 'Spare column, no entries required. [A] The "Year's Total" cell heading in the Totals row is in mixed case rather than upper case, and appears in the new column rather than in the second 'Date' column.'|
+|15000&nbsp;3/33|[Front](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0046.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1933_Clackmannan_To_Shetland_Part2_p0047.jpg)|[A] 'Spare' column added to the main grid between the 'December' and second 'Date' column, with footnote to explain. [A] The "Year's Total" cell heading in the Totals row is in mixed case rather than upper case, and now appears in the new 'spare' column rather than in the second 'Date' column.|
 |16,000&nbsp;5/34|[Front](page_images/DRain_1934_Wigtown_To_Argyll_Part1_p0001.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1934_Wigtown_To_Argyll_Part1_p0002.jpg)|[D] Point 3 added to Instructions: 'The columns are so spaced that the entries can be made by a typewriter. Change to HMSO Belfast address.'|
 |15,000&nbsp;2/35|[Front](page_images/DRain_1935_Wigtown_To_Argyll_Part2_p0129.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1935_Wigtown_To_Argyll_Part2_p0130.jpg)|[Back] Some of the text in the HMSO section is capitalised. [Back] Printer changed to Wm. Hobbs & Sons from previous John Corah & Son.|
-|26,000&nbsp;4/36|[Front](page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0218.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0219.jpg)|[A] and [B] Asterisk footnotes refer to Instruction 3(f) instead of 2(f). [A] '40-9999' removed from footer (goes to the back of the form). [D] New Instruction 1 inserted, describing when to fill in sections A, B and C, and where to send the completed form to. [D] Other instructions renumbered accordingly. [D] Instruction 2 (previously 1) shortened to not repeat addresses. [D] Instruction 3(c) (previously 2(c) expanded. [D] Text indentation/wrapping adjusted to accomodate the other changes. [Back] The price appears on its own line, separate from the HMSO section. [Back] Footer adds 'S.O. Code No. 40-9999' at the bottom right.|
+|26,000&nbsp;4/36|[Front](page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0218.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1936_Clackmannan_To_Shetland_Part1_p0219.jpg)|[A] and [B] Asterisk footnotes refer to Instruction 3(f) instead of 2(f). [A] '40-9999' removed from footer (goes to the back of the form). [D] New Instruction 1 inserted, describing when to fill in sections A, B and C, and where to send the completed form to. [D] Other instructions renumbered accordingly. [D] Instruction 2 (previously 1) shortened to not repeat addresses. [D] Instruction 3(c) (previously 2(c)) expanded. [D] Text indentation/wrapping adjusted to accomodate the other changes. [Back] The price appears on its own line, separate from the HMSO section. [Back] Footer adds 'S.O. Code No. 40-9999' at the bottom right.|
 |25,500&nbsp;12/37|[Front](page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0010.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1938_Clackmannan_To_Shetland_Part2_p0011.jpg)|[Back] Adjustment to Manchester address in the HMSO section.|
 |21,000&nbsp;10/38|[Front](page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0087.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0088.jpg)|No changes|
 
+### Additional 'spare' column
+
+From Daily Rainfall version 15000&nbsp;3/33 onwards, the main table grid has an additional column on the left-hand side, between 'December' and the second 'Date' column. A &dagger; dagger symbol near the top of 
+the column refers to a footnote which says 'Spare column, no entries required'. There are no daily entries in this column, but the "Year's Total" cells at the bottom of the grid move under the new column rather than
+being under the second 'Date' column.
+
+<table border="0">
+<tr>
+<td align=center>
+<a href="./page_images/16000_8_32.pre_spare_column_top.jpg"><img src="./page_images/16000_8_32.pre_spare_column_top.jpg" style="width:500px"></a>
+<br/>&vellip;
+<br/>
+<a href="./page_images/16000_8_32.pre_spare_column_bottom.jpg"><img src="./page_images/16000_8_32.pre_spare_column_bottom.jpg" style="width:500px"></a>
+<br/>16000&nbsp;8/32
+</td>
+<td align=center>
+<a href="./page_images/15000_3_33.spare_column_top.jpg"><img src="./page_images/15000_3_33.spare_column_top.jpg" style="width:530px"></a>
+<br/>&vellip;
+<br/>
+<a href="./page_images/15000_3_33.spare_column_bottom.jpg"><img src="./page_images/15000_3_33.spare_column_bottom.jpg" style="width:530px"></a>
+<br/>15000&nbsp;3/33
+</td>
+</tr>
+</table>
+
+Later in the decade, the millimetre version of the form modified the footnote text to 'Spare column, no entries required, except year's total.', but the inch version of the form kept the original footnote text:
+
+<a href="page_images/1000_4_36.mm_spare_column_footnote.jpg">
+	<img src="page_images/1000_4_36.mm_spare_column_footnote.jpg" style="width:500px">
+</a>
+
+It's not clear why the 'spare' column was added to the form - it remained unused apart from the year totals at the bottom. The next version of the form after it first appeared included a change to 
+the Instructions on the back of the form to say that 'The columns are so spaced that the entries can be made by a typewriter.' which might be related ?
+
+<a href="page_images/16000_5_34.typewriter_columns.jpg">
+	<img src="page_images/16000_5_34.typewriter_columns.jpg" style="width:500px">
+</a>
+
 ### End of the 1930s form - "21,000&nbsp;10/38"
+
 
 <table border="0">
 <tr><td>
