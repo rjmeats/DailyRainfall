@@ -16,5 +16,5 @@ include some related material taken from [*British Rainfall annual volumes*](htt
 
 [Gallery of Daily Rainfall Forms](Daily_Rainfall_Form_Gallery.md) displays an example of each Daily Rainfall form version in time order.
 
-The forms in scope of this note are the Daily Rainfall forms covering a single year. The DRain Volumes also include some daily forms which only covered a single month; examples of these and some 
+The forms in scope of this note are the Daily Rainfall forms covering a full year. The DRain Volumes also include some daily forms which only covered a single month; examples of these and some 
 other standard form in the DRain Volumes are shown in a separate [Other Forms](Other_DRain_Forms.md) note.
