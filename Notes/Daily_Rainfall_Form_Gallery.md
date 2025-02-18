@@ -524,6 +524,23 @@
 <a href="./page_images/DRain_1940_Wigtown_To_Argyll_Part1_p0088.jpg"><img src="./page_thumbnails/DRain_1940_Wigtown_To_Argyll_Part1_p0088.jpg" style="width:150px"></a>
 <br/>21,000 10/38
 </td>
+<td align=center>
+<a href="./page_images/DRain_1949_Clackmannan_To_Shetland_Part2_p0310.jpg"><img src="./page_thumbnails/DRain_1949_Clackmannan_To_Shetland_Part2_p0310.jpg" style="width:150px"></a>
+<br/>1,000 1/39 (mm)
+</td>
+<td align=center>
+<a href="./page_images/DRain_1949_Clackmannan_To_Shetland_Part2_p0311.jpg"><img src="./page_thumbnails/DRain_1949_Clackmannan_To_Shetland_Part2_p0311.jpg" style="width:150px"></a>
+<br/>1,000 1/39 (mm)
+</td>
+<td align=center>
+<a href="./page_images/DRain_1941_Wigtown_To_Argyll_Part2_p0323.jpg"><img src="./page_thumbnails/DRain_1941_Wigtown_To_Argyll_Part2_p0323.jpg" style="width:150px"></a>
+<br/>1,500 10/39 (mm)
+</td>
+<td align=center>
+<a href="./page_images/DRain_1941_Wigtown_To_Argyll_Part2_p0324.jpg"><img src="./page_thumbnails/DRain_1941_Wigtown_To_Argyll_Part2_p0324.jpg" style="width:150px"></a>
+<br/>1,500 10/39 (mm)
+</td>
+</tr>
 </table>
 
 … tbc …
