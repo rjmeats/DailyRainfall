@@ -9,6 +9,7 @@
 * [Use of both sides of the Daily Rainfall form](#Use-of-both-sides)
 * [1924-1930 Daily Rainfall Forms](#1924-1930)
 * [1931-1940 Daily Rainfall Forms](#1931-1940)
+* [1941-1950 Daily Rainfall Forms](#1941-1950)
 * tbc ...
 
 <a id="Use-of-both-sides"></a>
@@ -330,5 +331,126 @@ the Instructions on the back of the form to say that 'The columns are so spaced 
 
 <hr/>
 
+<a id="1941-1950"></a>
+## 1941-1950 Daily Rainfall Forms
+
+The table below lists versions of the form in use in the 1941-1950 period, as determined from the rainfall records in various Daily Rainfall volumes in the Met Office archive.
+The table also outlines notable changes to the form layout over time, with some of these changes covered in more detail following the table. 
+
+|Version|Links|Notes|
+|:------|:----|:----|
+|10,000&nbsp;4/41|[Front](page_images/DRain_1941_Clackmannan_To_Shetland_Part1_p0051.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1941_Clackmannan_To_Shetland_Part1_p0052.jpg)|[A and B] Partial year number pre-printed as '194' instead of '19'.|
+|10,000&nbsp;7/42|[Front](page_images/DRain_1942_Wigtown_To_Argyll_Part1_p0006.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1942_Wigtown_To_Argyll_Part1_p0007.jpg)|[A] "except year's total" added to 'Spare column' footnote. [D] Instruction 1 Air Ministry address is Stonehouse, Glos, instead of London. [D] Instruction 3(a) adds a line to explain that 9 am GMT is 11 am during Double Summer Time. [Back] HMSO addresses, price, and printer's details removed, replaced by a simple London/HMSO/1942 block. [Back] 'S.O. Code No. 40-9999' removed from footer.|
+|10,000&nbsp;4/43|[Front](page_images/DRain_1944_Clackmannan_To_Shetland_Part2_p0012.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1944_Clackmannan_To_Shetland_Part2_p0013.jpg)|[B] Instruction 3(b) 'receiving can' changed to 'bottle'.|
+|10,000&nbsp;3/44|[Front](page_images/DRain_1944_Clackmannan_To_Shetland_Part2_p0049.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1944_Clackmannan_To_Shetland_Part2_p0050.jpg)|No changes.|
+|10,000&nbsp;10/45|[Front](page_images/DRain_1945_Wigtown_To_Argyll_Part2_p0114.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1945_Wigtown_To_Argyll_Part2_p0115.jpg)|[C] Rain gauge pattern diagrams updated, and ground level line now included. [D] Instruction 1 Air Ministry address is Headstone Drive, Harrow, Middlesex, instead of Stonehouse, Glos. [Back] Year in the HMSO block changed to 1945 from 1942.|
+|15,000&nbsp;10/46|[Front](page_images/DRain_1946_Clackmannan_To_Shetland_Part2_p217.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1946_Clackmannan_To_Shetland_Part2_p0218.jpg)|[A] 'Copy for Offical Use' banner removed. [D] Instruction 3a) Reference to Double Summer Time removed. [Back] HMSO block condensed onto a single line, year changed to 1946. [Back] Price line restored, with extra '(exclusive of purchase tax)' clause. [Back] 40-9999 code restored to footer.|
+|7,000&nbsp;10/47|[Front](page_images/DRain_1948_Clackmannan_To_Shetland_Part1_p0158.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1948_Clackmannan_To_Shetland_Part1_p0159.jpg)|No changes.|
+|10,000&nbsp;8/48|[Front](page_images/DRain_1948_Clackmannan_To_Shetland_Part1_p0001.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1948_Clackmannan_To_Shetland_Part1_p0002.jpg)|No changes.|
+|10,000&nbsp;9/49|[Front](page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0142.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0143.jpg)|[A and B] Partial year number pre-printed as '19' instead of '194'.|[Back] HMSO line has no year number.|
+|2/50|[Front](page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0146.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0147.jpg)|[A and B] Partial year number pre-printed as '195' instead of '19'. [A and B] Capitalisation removed from some words in metadata labels: Funnel/Gauge/Ground/Sea Level/Top. [B] '&c.' changed to 'etc.'. [D] Instruction 1) 'in the case of Scottish stations' inserted, Edinburgh address changed to 26 Palmerston Place. [D] Instruction 3(b)(B) is all in the right-hand column rather than split between columns. [D] Instruction 3(c) 'a' inserted before 'graduation'. [D] Instruction 4) on typewriter formatting has been removed. [Back] HMSO section expanded to a list of HMSO addresses. [Back] Printers details restored. [Back] Print-run size removed from Printing code in footer.|
+
+### Wartime changes
+
+The basics of the Daily Rainfall form were unchanged throughout the 1940s, but there were a few temporary changes that relate to the wartime environment.
+
+#### Met Office Address
+
+The address given in the Instructions for the Director of the Meteorological Office change from London to Stonehouse, Gloucestershire, during the war, and then to Harrow, north-west London afterwards.
+
+<a href="./page_images/10000_4_41.met_office_address.jpg"><img src="./page_images/10000_4_41.met_office_address.jpg" style="width:400px"></a>
+
+<a href="./page_images/10000_7_42.met_office_address.jpg"><img src="./page_images/10000_7_42.met_office_address.jpg" style="width:400px"></a>
+
+<a href="./page_images/10000_10_45.met_office_address.jpg"><img src="./page_images/10000_10_45.met_office_address.jpg" style="width:400px"></a>
+
+#### Summer Time and Double Summer Time
+
+For several years in the 1940s, Britain operated on Double Summer Time - 2 hours ahead of GMT, during the summer, and 1 hour ahead during the rest of the year. The Daily Rainfall form instructions for the period
+reflected this:
+
+<a href="page_images/10000_7_42.double_summer_time.jpg">
+	<img src="page_images/10000_7_42.double_summer_time.jpg" style="width:400px">
+</a>
+
+The details of when Britain switched between GMT+0, GMT+1, and GMT+2 over the period 1940 to 1947 are a bit messy. See the [British Summer Time](https://en.wikipedia.org/wiki/British_Summer_Time) Wikipedia article. The [Met Office
+Glossary](https://digital.nmla.metoffice.gov.uk/IO_311dce15-970f-498d-9cbb-a53efe386e15/) also has a useful summary:
+
+<a href="page_images/MO_Glossary.double_summer_time.jpg">
+	<img src="page_images/MO_Glossary.double_summer_time.jpg" style="width:500px">
+</a>
+
+Note that Double Summer Time was re-introduced just for a year in 1947 after Britain returned to the 'normal' Summer Time regime for 1946.
+
+#### Purchase Tax
+
+Before the war, the Rainfall Form price was shown on the back of the form:
+
+<a href="page_images/10000_4_41.price.jpg">
+	<img src="page_images/10000_4_41.price.jpg" style="width:120px">
+</a>
+
+The price disappeared from the form during the war. When it reappeared in the "15,000&nbsp;10/46" version of the form, an extra clause was present: '*(exclusive of purchase tax)*'. 
+
+<a href="page_images/15000_10_46.price_pre_tax.jpg">
+	<img src="page_images/15000_10_46.price_pre_tax.jpg" style="width:270px">
+</a>
+
+[Purchase Tax](https://en.wikipedia.org/wiki/Purchase_Tax) was a 33.3% sales tax introduced on luxury goods in October 1940 to try to reduce wastage of raw materials. 
+Presumably the presence of this clause on the form means that Daily Rainfall forms were classed as luxury items ? Purchase Tax was replaced by VAT in 1973 when the UK joined the EEC.
+
+### Gauge pattern diagrams
+
+Section C on the back of the Daily Rainfall form has a set of five rainfall gauge diagrams, A-E, with observers expected to indicate which gauge pattern they are using. The diagrams were updated
+and a line indicating ground level was added for the "10,000&nbsp;10/45" version of the form:
+
+<table border="0">
+<tr>
+<td align=center>
+<a href="./page_images/10000_8_44.gauge_pattern.jpg"><img src="./page_images/10000_8_44.gauge_pattern.jpg" style="width:400px"></a>
+<br/>10,000&nbsp;3/44
+</td>
+<td align=center>
+<a href="./page_images/10000_10_45.gauge_pattern.jpg"><img src="./page_images/10000_10_45.gauge_pattern.jpg" style="width:400px"></a>
+<br/>10,000&nbsp;10/45
+</td>
+</tr>
+</table>
+
+### Printing code Print-run size
+
+Up to the "10,000&nbsp;9/49" version of the Daily Rainfall form, the Printing code at the bottom of the form included a print-run size. The print-run size combined with the month/year indicator in the Printing
+code has been used in these notes as an identifier for a specific version of a form. 
+
+<a href="page_images/10000_10_49.printing_code.jpg">
+	<img src="page_images/10000_10_49.printing_code.jpg" style="width:300px">
+</a>
+
+After the "10,000&nbsp;9/49" version, the print-run is no longer present in the Printing code. A 'K' number appears in its place, but has no obvious meaning: 
+
+<a href="page_images/2_50.printing_code.jpg">
+	<img src="page_images/2_50.printing_code.jpg" style="width:300px">
+</a>
+
+From this point on, form version numbers are just based on the month/year, so "2/50" for the example above.
+
+### End of the 1940s form - "2/50"
+
+
+<table border="0">
+<tr><td>
+<a href="page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0146.jpg">
+	<img src="page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0146.jpg" style="width:400px">
+</a>
+</td>
+<td>
+<a href="page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0147.jpg">
+	<img src="page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0147.jpg" style="width:400px">
+</a>
+</td>
+</tr>
+</table>
+
+<hr/>
 
 .. tbc ..
