@@ -2,11 +2,11 @@
 
 * [Overview](Daily_Rainfall_Form_Evolution.md) 
 * **Part 1** - this note - covers the period up to 1923, when the daily rainfall form changed from single-sided to double-sided
-* [Part 2](Daily_Rainfall_Form_Evolution_part_2.md) covers the period from 1924 onwards 
+* [Part 2](Daily_Rainfall_Form_Evolution_part_2.md) covers the period from 1924 to 1962, when the Met Office's scanned DRain volumes end 
 
 ## Contents
 
-British Rainfall Organization as an independent body:
+The British Rainfall Organization as an independent body:
 
 * [Early British Rainfall Daily Rainfall Forms](#early)
 * [1871-1880 Daily Rainfall Forms](#1871-1880)
@@ -15,7 +15,7 @@ British Rainfall Organization as an independent body:
 * [1901-1910 Daily Rainfall Forms](#1901-1910)
 * [1911-1918 Daily Rainfall Forms](#1911-1918)
 
-British Rainfall Organization as part of the Met Office:
+The British Rainfall Organization as part of the Met Office:
 
 * [1919-1923 Daily Rainfall Forms](#1919-1923)
 
@@ -297,6 +297,22 @@ appears next to the diagonal dividing line, presumably recording when British Ra
 </td>
 </tr>
 </table>
+
+### The British Rainfall Organization
+
+The first reference to the British Rainfall Organization on the Daily Rainfall forms is on the K/4,000/11/02 form, in the name of the instruction pamphlet '*The British Rainfall Organization - Rules for Rainfall Observers*'.
+
+<a href="page_images/K_4000_11_02.bro.jpg">
+	<img src="page_images/K_4000_11_02.bro.jpg" style="width:700px">
+</a>
+
+George Symons never seems to have used the term 'British Rainfall Organization' - the first usage may be by H Sowerby Wallis in Symon's obituary in the March 1900 Meteorological Magazine. 
+
+<a href="page_images/MM_1900_03.bro.jpg">
+	<img src="page_images/MM_1900_03.bro.jpg" style="width:400px">
+</a>
+
+British Rainfall 1899 (published August 1900) also uses the term in its obituary. British Rainfall 1905 (p13) describes the organization as 'an informal and purely informal association of about 4000 Observers of rainfall ..'.
 
 ### Retirement of H. Sowerby Wallis
 
