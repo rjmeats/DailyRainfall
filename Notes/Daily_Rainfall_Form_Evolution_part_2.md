@@ -1,8 +1,8 @@
 # Evolution of the British Rainfall Organization's Daily Rainfall Form
 
 * [Overview](Daily_Rainfall_Form_Evolution.md) 
-* [Part 1](Daily_Rainfall_Form_Evolution_part_1.md) covers the period up to 1923, when the daily rainfall form changed from single-sided to double-sided
-* **Part 2** - this note - covers the period from 1924 to 1962, when the Met Office's scanned DRain volumes end
+* [Part 1](Daily_Rainfall_Form_Evolution_part_1.md) covers the period up to 1923, when the Daily Rainfall form changed from single-sided to double-sided
+* **Part 2** - this note - covers the period from 1924 to 1962, when the Met Office's scanned DRain archive ends
 
 ## Contents
 
@@ -112,7 +112,7 @@ front of the form, and B, C, and D being on the back. Each section is identified
 
 The 1925-26 Met Office Annual Report p47 mentions that a revision to the forms had resulted in 'considerable simplication':
 
-<img src="page_images/MOAR_1925-26.form_changes.jpg" style="width:400px">
+<img src="page_images/MOAR_1925-26.form_changes.adj.jpg" style="width:400px">
 
 which perhaps indicates that the new version of the Daily Rainfall form was a merger of items which had been separate forms/publications previously.
 
@@ -215,8 +215,8 @@ At the same time, a sentence was added to instruction 2(a) to clarify that '9 a.
 
 British Summer Time was first introduced in 1916 and [British Rainfall 1916](https://digital.nmla.metoffice.gov.uk/IO_7a18d373-0737-4d68-a77b-ecbc2255d311/) p11 discusses the confusion this caused: 
 
-<a href="page_images/BR_1916.summer_time.jpg">
-	<img src="page_images/BR_1916.summer_time.jpg" style="width:400px">
+<a href="page_images/BR_1916.summer_time.adj.jpg">
+	<img src="page_images/BR_1916.summer_time.adj.jpg" style="width:400px">
 </a>
 
 It's a bit surprising that the Daily Rainfall form only reacts to this a decade later.
@@ -377,8 +377,8 @@ reflected this:
 The details of when Britain switched between GMT+0, GMT+1, and GMT+2 over the period 1940 to 1947 are a bit messy. See the [British Summer Time](https://en.wikipedia.org/wiki/British_Summer_Time) Wikipedia article. The [Met Office
 Glossary](https://digital.nmla.metoffice.gov.uk/IO_311dce15-970f-498d-9cbb-a53efe386e15/) also has a useful summary:
 
-<a href="page_images/MO_Glossary.double_summer_time.jpg">
-	<img src="page_images/MO_Glossary.double_summer_time.jpg" style="width:500px">
+<a href="page_images/MO_Glossary.double_summer_time.adj.jpg">
+	<img src="page_images/MO_Glossary.double_summer_time.adj.jpg" style="width:500px">
 </a>
 
 Note that Double Summer Time was re-introduced just for a year in 1947 after Britain returned to the 'normal' Summer Time regime for 1946.
@@ -512,15 +512,15 @@ Entries in British Rainfall 1953-1955 relate to these changes
 <table border="0">
 <tr>
 <td align=center valign=bottom>
-<a href="./page_images/BR_1953.snow.jpg"><img src="./page_images/BR_1953.snow.jpg" style="width:200px"></a>
+<a href="./page_images/BR_1953.snow.adj.jpg"><img src="./page_images/BR_1953.snow.adj.jpg" style="width:200px"></a>
 <br/>BR 1953 p3
 </td>
 <td align=center valign=bottom>
-<a href="./page_images/BR_1954.snow.jpg"><img src="./page_images/BR_1954.snow.jpg" style="width:200px"></a>
+<a href="./page_images/BR_1954.snow.adj.jpg"><img src="./page_images/BR_1954.snow.adj.jpg" style="width:200px"></a>
 <br/>BR 1954 p3
 </td>
 <td align=center valign=bottom>
-<a href="./page_images/BR_1955.snow.jpg"><img src="./page_images/BR_1955.snow.jpg" style="width:200px"></a>
+<a href="./page_images/BR_1955.snow.adj.jpg"><img src="./page_images/BR_1955.snow.adj.jpg" style="width:200px"></a>
 <br/>BR 1955 p3
 </td>
 </tr>
@@ -556,14 +556,14 @@ References to the British Rainfall Organization were also removed from the Briti
 
 British Rainfall 1955 (published in 1957) shows:
 
-<a href="page_images/BR_1955.work_of.jpg">
-	<img src="page_images/BR_1955.work_of.jpg" style="width:600px">
+<a href="page_images/BR_1955.work_of.adj.jpg">
+	<img src="page_images/BR_1955.work_of.adj.jpg" style="width:600px">
 </a>
 
 British Rainfall 1956 (published in 1958) shows:
 
-<a href="page_images/BR_1956.work_of.jpg">
-	<img src="page_images/BR_1956.work_of.jpg" style="width:600px">
+<a href="page_images/BR_1956.work_of.adj.jpg">
+	<img src="page_images/BR_1956.work_of.adj.jpg" style="width:600px">
 </a>
 
 Perhaps no coincidence, Dr John Glasspoole retired from the Met Office at the end of 1957. He had originally joined the British Rainfall Organisation in 1916, and was the last remaining person at the Met Office from
@@ -594,8 +594,8 @@ and goes into these plans in more detail, including:
 
 British Rainfall 1957 also presents grid references in its generall rainfall tables for the first time (instead of gauge dimensions and height above ground level):
 
-<a href="page_images/BR_1957.ngr_in_tables.jpg">
-	<img src="page_images/BR_1957.ngr_in_tables.jpg" style="width:600px">
+<a href="page_images/BR_1957.ngr_in_tables.adj.jpg">
+	<img src="page_images/BR_1957.ngr_in_tables.adj.jpg" style="width:600px">
 </a>
 
 British Rainfall 1958 (p1) notes that the collection and checking of grid references has been completed.
@@ -610,8 +610,8 @@ The "6/58" version of the Daily Rainfall form adds 'M.O.3b' to the forwarding ad
 
 "M.O.3" was the Climatological Services department of the Met Office, as shown on this organisation chart from Appendix I of the [1957-58 Met Office Annual Report](https://digital.nmla.metoffice.gov.uk/IO_82acf7d8-53fa-4cf5-9c2d-42e778e9bf09):
 
-<a href="page_images/MOAR_1957-58.orgchart.jpg">
-	<img src="page_images/MOAR_1957-58.orgchart.jpg" style="width:600px">
+<a href="page_images/MOAR_1957-58.orgchart.adj.jpg">
+	<img src="page_images/MOAR_1957-58.orgchart.adj.jpg" style="width:600px">
 </a>
 
 The Climatological Services part of the same annual report (p13-17) describes its three sections:
@@ -671,14 +671,14 @@ The "4/60" version of the Daily Rainfall adds a Northern Ireland address (Tyrone
 
 British Rainfall 1959-60 (p2) notes that the Met Office opened a branch in Belfast in June 1960. 
 
-<a href="page_images/BR_1959-60.northern_ireland.jpg">
-	<img src="page_images/BR_1959-60.northern_ireland.jpg" style="width:300px">
+<a href="page_images/BR_1959-60.northern_ireland.adj.jpg">
+	<img src="page_images/BR_1959-60.northern_ireland.adj.jpg" style="width:300px">
 </a>
 
 and the Met Office's 1960 Annual Report (p19) has a bit more information, including that historical records were held at the new office:
 
-<a href="page_images/MOAR_1960.northern_ireland.jpg">
-	<img src="page_images/MOAR_1960.northern_ireland.jpg" style="width:500px">
+<a href="page_images/MOAR_1960.northern_ireland.adj.jpg">
+	<img src="page_images/MOAR_1960.northern_ireland.adj.jpg" style="width:500px">
 </a>
 
 The current day location of the Daily Rainfall records from Northern Ireland is unknown - they are not part of the Met Office DRain volumes.
@@ -718,8 +718,8 @@ The scanned DRain volumes in the Met Office Online Archive include Daily Rainfal
 following smaller scale experiments in the preceding years, annual reporting of daily rainfall switched to monthly reporting, with observations digitised 
 onto punched cards. The Met Office's 1963 Annual Report says:
 
-<a href="page_images/MOAR_1963.monthly.jpg">
-	<img src="page_images/MOAR_1963.monthly.jpg" style="width:500px">
+<a href="page_images/MOAR_1963.monthly.adj.jpg">
+	<img src="page_images/MOAR_1963.monthly.adj.jpg" style="width:500px">
 </a>
 
 ### End of the DRain period form - "2/61"

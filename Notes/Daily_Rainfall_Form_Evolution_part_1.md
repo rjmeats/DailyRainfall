@@ -1,8 +1,8 @@
 # Evolution of the British Rainfall Organization's Daily Rainfall Form
 
 * [Overview](Daily_Rainfall_Form_Evolution.md) 
-* **Part 1** - this note - covers the period up to 1923, when the daily rainfall form changed from single-sided to double-sided
-* [Part 2](Daily_Rainfall_Form_Evolution_part_2.md) covers the period from 1924 to 1962, when the Met Office's scanned DRain volumes end 
+* **Part 1** - this note - covers the period up to 1923, when the Daily Rainfall form changed from single-sided to double-sided
+* [Part 2](Daily_Rainfall_Form_Evolution_part_2.md) covers the period from 1924 to 1962, when the Met Office's scanned DRain archive ends 
 
 ## Contents
 
@@ -24,7 +24,7 @@ The British Rainfall Organization as part of the Met Office:
 <a id="early"></a>
 ## Early British Rainfall Daily Rainfall Forms 
 
-In [British Rainfall 1868](https://digital.nmla.metoffice.gov.uk/IO_00c7c826-c473-4a04-9ae6-0390a767efa8), George Symons details the annual cycle of his work collecting rainfall records. 
+In British Rainfall 1868, George Symons details the annual cycle of his work collecting rainfall records. 
 He says his 'year of rainfall work' begins in December with the posting of blank forms to his 1300 observers. On page 8 he shows a [specimen filled-in form](page_images/British_Rainfall_1868_p8_specimen_monthly_form.jpg). 
 However, this is a monthly not daily form, although it includes columns for details of which day of the month was wettest, and the number of days of rain.
 
@@ -32,15 +32,15 @@ Most of daily rainfall records in the DRain volumes recording rainfall before 18
 
 The earliest Daily Rainfall forms which mention 'British Rainfall' are some of those which provide rainfall figures for 1869. 
 There are two versions of this form, using different return addresses for Symons:
-* 136 Camden Road, Camden Town, London, which is where Symons lived for most of the 1860s. (This building had the address 129, Camden Road Villas until a renumbering in 1864). 
+* 136, Camden Road, Camden Town, London, which is where Symons lived for most of the 1860s. (This building had the address 129, Camden Road Villas until a renumbering in 1864). 
 * 62, Camden Square, where Symons moved to sometime between June 1868 and February 1869.
 
-Neither has a 'Printing code' present on the form, but one was soon added to the '62, Camden Square' version of the form.
+Neither of these form versions has a 'Printing code' present, but one was soon added to the '62, Camden Square' version of the form.
 
 |Version|Notes|
 |:------|:----|
-|['136&nbsp;Camden&nbsp;Road'](page_images/DRain_1861-1870_Leicestershire_p0006.jpg)|First *British Rainfall* form|
-|['62&nbsp;Camden&nbsp;Square'](page_images/DRain_1861-1870_Lancashire_p0003.jpg)|Symons' address changed to 62 Camden Square|
+|['136&nbsp;Camden&nbsp;Road'](page_images/DRain_1861-1870_Leicestershire_p0006.jpg)|First clearly *British Rainfall* form|
+|['62&nbsp;Camden&nbsp;Square'](page_images/DRain_1861-1870_Lancashire_p0003.jpg)|Symons' address given on the form changed to 62, Camden Square|
 |[K-1000/12/70](page_images/DRain_1861-1870_Yorkshire_p0017.jpg)|Printing code added bottom-left. Vertical text on the left adds details of where to obtain copies of the form.|
 
 
@@ -73,7 +73,7 @@ The Printing code **K-1000/12/70** is printed in very small text at the bottom l
 <img src="page_images/K_1000_12_70.printing_code.jpg" style="width:150px">
 
 Subsequent forms for the next few decades have a similar Printing code:
-* the letter **K**, possibly meaning Key Plate ?
+* the letter **K**, meaning unknown
 * a number which is a multiple of 100, in the low thousands. 1000 in this case, presumed to be the **size of the print run**
 * two numbers at the end indicating a **month** and **year**. 12/70 in this case, indicating December 1870
 
@@ -85,9 +85,8 @@ that additional copies of the form can be bought for 3d each from Mr [Edward] St
 <a id="1871-1880"></a>
 ## 1871-1880 Daily Rainfall Forms
 
-The table below lists versions of the form in use in the 1871-1880 period, as determined from the rainfall records in 
-the [DRain_1871-1880_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_7c542050-4993-43f8-876a-2b7bd81590fc). The table also outlines 
-notable changes to the form layout over time, with some of these changes covered in more detail following the table. 
+The table below lists versions of the form in use in the 1871-1880 period and outlines notable changes to the form layout over time, with some of 
+these changes covered in more detail following the table. 
 
 |Version|Notes|
 |:------|:----|
@@ -100,7 +99,7 @@ notable changes to the form layout over time, with some of these changes covered
 |[K/3000/11/74](page_images/DRain_1871-1880_Cambridgeshire_p0119.jpg)||
 |[K/3000/12/75](page_images/DRain_1871-1880_Cambridgeshire_p0067.jpg)|Rain gauge diameter field added. Different snow-handling instructions. Extra space at the bottom of the form. Slight adjustment to vertical text wording.|
 |[K/3000/12/76](page_images/DRain_1871-1880_Cambridgeshire_p0100.jpg)|Diameter field absent. County name field added. Reverts to the original snow-handling instructions. Second 'Date' column added, on the right of the grid. Space at the bottom of the form removed. The vertical text refers to '*Accurate observers of rainfall*' rather than just '*Observers*'. Update to Stanford's address.|
-|[K/3000/1/78](page_images/DRain_1871-1880_Cambridgeshire_p0129.jpg)|Diameter field restored. The Totals row heading shifts from under the vertical text to under the day numbers. The number of BR stations in the vertical text is updated from 1500 to 2000.|
+|[K/3000/1/78](page_images/DRain_1871-1880_Cambridgeshire_p0129.jpg)|Diameter field restored. The Totals row heading shifts from under the vertical text to under the day numbers. The number of British Rainfall stations in the vertical text is updated from 1500 to 2000.|
 |[K/3,000/12/78](page_images/DRain_1871-1880_Cambridgeshire_p0093.jpg)||
 |[K/3,000/12/79](page_images/DRain_1871-1880_Cambridgeshire_p0006.jpg)|The 'Condensed Instructions' section is replaced by a 'Note' saying that full instructions are available in a free pamphlet.|
 
@@ -144,8 +143,7 @@ From K/3,000/12/79 onwards, this is replaced by a 'Note' directing the reader to
 <img src="page_images/K_3000_12_79.pamphlet_instructions.jpg" style="width:800px">
 
 The pamphlet, *Arrangements for the Systematic Observation and Record of the Rainfall of the British Isles*, was included at the 
-back of [British Rainfall 1880](https://digital.nmla.metoffice.gov.uk/IO_bb97dedd-9de2-4206-9549-efe4197a1603/). (The Met Office Online Archive 
-doesn't currently appear to have a digitised version of the stand-alone pamphlet.)
+back of British Rainfall 1880. (The Met Office Online Archive doesn't currently appear to have a digitised version of the stand-alone pamphlet.)
 
 
 ### End of the 1870s form - K/3,000/12/79
@@ -158,9 +156,6 @@ doesn't currently appear to have a digitised version of the stand-alone pamphlet
 
 <a id="1881-1890"></a>
 ## 1881-1890 Daily Rainfall Forms
-
-The table below lists versions of the form in use in the 1881-1890 period, as determined from a sample of the rainfall records in 
-the [DRain_1881-1890_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_7a328b70-3567-42de-b581-138b3b2c0bc4). 
 
 |Version|Notes|
 |:------|:----|
@@ -183,7 +178,7 @@ Versions up to K/3,000/12/82 had vertical text on the left of the form asking ob
 
 <img src="page_images/K_3000_12_82.vertical_text.jpg" style="width:800px">
 
-After that, the vertical text is no longer present, allowing the full page width to be used for the table of rainfall readings. Stanford's address and form price move to the bottom of the form.
+For versions after that, the vertical text is no longer present, allowing the full page width to be used for the table of rainfall readings. Stanford's address and form price move to the bottom of the form.
 
 <img src="page_images/K_3000_11_84_footer.jpg" style="width:600px">
 
@@ -217,9 +212,6 @@ Versions before K/3,000/11/88 used dark red for the main grid lines. After that 
 <a id="1891-1900"></a>
 ## 1891-1900 Daily Rainfall Forms
 
-The table below lists versions of the form in use in the 1891-1900 period, as determined from a sample of the rainfall records in 
-the [DRain_1891-1900_RainNos_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_163110c6-3e00-4a68-a834-04f56e55f2a0). 
-
 |Version|Notes|
 |:------|:----|
 |[K/3,000/12/90](page_images/DRain_1891-1900_RainNos_Cambridgeshire_p0016.jpg)||
@@ -240,15 +232,11 @@ George Symons died in March 1900, with H[erbert] Sowerby Wallis and Hugh Robert 
 
 The K/4,000/1/99 version of the rainfall form is the last to refer to Symons:
 
-<a href="page_images/K_4000_1_99.Symons.jpg">
-	<img src="page_images/K_4000_1_99.Symons.jpg" style="width:800px">
-</a>
+<img src="page_images/K_4000_1_99.Symons.jpg" style="width:800px">
 
 From K/3,000/12/00 onwards, this reference changes to 'Mr. Sowerby Wallis or Dr H.R.Mill':
 
-<a href="page_images/K_4000_1_99.Symons.jpg">
-	<img src="page_images/K_3000_12_00.Wallis_or_Mill.jpg" style="width:800px">
-</a>
+<img src="page_images/K_3000_12_00.Wallis_or_Mill.jpg" style="width:800px">
 
 ### End of the 1890s form - K/3,000/12/00
 
@@ -260,9 +248,6 @@ From K/3,000/12/00 onwards, this reference changes to 'Mr. Sowerby Wallis or Dr 
 
 <a id="1901-1910"></a>
 ## 1901-1910 Daily Rainfall Forms
-
-The table below lists versions of the form in use in the 1901-1910 period, as determined from a sample of the rainfall records in 
-the [DRain_1901-1910_RainNos_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_c3dad7a7-7011-4675-932a-21b66aa39376). 
 
 |Version|Notes|
 |:------|:----|
@@ -283,7 +268,7 @@ the [DRain_1901-1910_RainNos_Cambridgeshire Daily Rainfall volume](https://digit
 ### Form name and date-stamp
 
 K/5000/10/03 introduced a diagonal banner in the top-right corner of the form, identifying the form as 'Form A'. From version "7,000 X '09" for the next few years, this changed to 'Form A2'. A date-stamp often
-appears next to the diagonal dividing line, presumably recording when British Rainfall received the form. 
+appears next to the diagonal dividing line, presumably recording when the British Rainfall Organization received the form. 
 <table border="0">
 <tr><td>
 <a href="page_images/K_5000_10_03.Form_A_banner.jpg">
@@ -300,19 +285,15 @@ appears next to the diagonal dividing line, presumably recording when British Ra
 
 ### The British Rainfall Organization
 
-The first reference to the British Rainfall Organization on the Daily Rainfall forms is on the K/4,000/11/02 form, in the name of the instruction pamphlet '*The British Rainfall Organization - Rules for Rainfall Observers*'.
+The first reference to 'British Rainfall Organization' on the Daily Rainfall forms is on the K/4,000/11/02 form, in the name of the instruction pamphlet '*The British Rainfall Organization - Rules for Rainfall Observers*'.
 
-<a href="page_images/K_4000_11_02.bro.jpg">
-	<img src="page_images/K_4000_11_02.bro.jpg" style="width:700px">
-</a>
+<img src="page_images/K_4000_11_02.bro.jpg" style="width:700px">
 
-George Symons never seems to have used the term 'British Rainfall Organization' - the first usage may be by H Sowerby Wallis in Symon's obituary in the March 1900 Meteorological Magazine. 
+George Symons never seems to have used the term 'British Rainfall Organization' - the first usage may be by H Sowerby Wallis in Symon's obituary in the March 1900 Meteorological Magazine: 
 
-<a href="page_images/MM_1900_03.bro.jpg">
-	<img src="page_images/MM_1900_03.bro.jpg" style="width:400px">
-</a>
+<img src="page_images/MM_1900_03.bro.adj.jpg" style="width:400px">
 
-British Rainfall 1899 (published August 1900) also uses the term in its obituary. British Rainfall 1905 (p13) describes the organization as 'an informal and purely informal association of about 4000 Observers of rainfall ..'.
+British Rainfall 1899 (published in August 1900) also uses the term in its obituary. British Rainfall 1905 (p13) describes the British Rainfall Organization as 'an informal and purely informal association of about 4000 Observers of rainfall ..'.
 
 ### Retirement of H. Sowerby Wallis
 
@@ -320,15 +301,11 @@ H Sowerby Wallis retired in 1903, leaving Hugh Robert Mill to run the British Ra
 
 K/4,000/11/02 is the last to refer to Sowerby Wallis:
 
-<a href="page_images/K_4000_11_02.Wallis_or_Mill.jpg">
-	<img src="page_images/K_4000_11_02.Wallis_or_Mill.jpg" style="width:400px">
-</a>
+<img src="page_images/K_4000_11_02.Wallis_or_Mill.jpg" style="width:400px">
 
 In K/5000/10/03, only Dr H.R.Mill is referenced:
 
-<a href="page_images/K_5000_10_03.Mill.jpg">
-	<img src="page_images/K_5000_10_03.Mill.jpg" style="width:250px">
-</a>
+<img src="page_images/K_5000_10_03.Mill.jpg" style="width:250px">
 
 ### Metadata section
 
@@ -338,75 +315,54 @@ Lots of small adjustments to the right-hand side of the metadata section during 
 
 <table border="0">
 <tr><td>
-<a href="page_images/K_3000_12_00.righthand_metadata.jpg">
-	<img src="page_images/K_3000_12_00.righthand_metadata.jpg" style="width:400px">
-</a>
+<img src="page_images/K_3000_12_00.righthand_metadata.jpg" style="width:400px">
 </td>
 <td>
-<a href="page_images/9000_IX_10.righthand_metadata.jpg">
-	<img src="page_images/9000_IX_10.righthand_metadata.jpg" style="width:400px">
-</a>
+<img src="page_images/9000_IX_10.righthand_metadata.jpg" style="width:400px">
 </td>
 </tr>
 </table>
 
-### *Rules for Rainfall Observers* 
+### Rules for Rainfall Observers
 
 Up to version K/4,000/12/01, the Note above the main table referred observers to '*Arrangements respecting the Systematic Observation and Record of the Rainfall*'. This 
-was the pamphlet first produced by Symons in the late 1870s (there is a copy appended to [British Rainfall 1880](https://digital.nmla.metoffice.gov.uk/IO_bb97dedd-9de2-4206-9549-efe4197a1603/)).
+was the pamphlet first produced by Symons in the late 1870s (there is a copy appended to British Rainfall 1880.
 
-From version K/4,000/11/02 onwards, the Note refers to an updated '*Rules for Rainfall Observers*' document. A copy of this is appended to [British Rainfall 1903](https://digital.nmla.metoffice.gov.uk/IO_f8a0cada-be5c-45a4-a045-da9d574e8286/).
-
-
-
+From version K/4,000/11/02 onwards, the Note refers to an updated '*Rules for Rainfall Observers*' document. A copy of this is appended to British Rainfall 1903.
 
 ### Avoiding 'Wrong day' errors
 
-In the 1860s, British Rainfall standardised its 'recording day' to be 9 am to 9 am, with the rainfall being attributed to the first of the two calendar days involved. 
+In the 1860s, the British Rainfall Organization standardised its 'recording day' to be 9 am to 9 am, with the rainfall being attributed to the first of the two calendar days involved. 
 
 * this was covered in the 'Condensed Instructions' which formed part of the early Daily Rainfall forms:
 
-	<a href="page_images/1869.preceding_day.jpg">
-		<img src="page_images/1869.preceding_day.jpg" style="width:800px">
-	</a>
+	<img src="page_images/1869.preceding_day.jpg" style="width:800px">
+	
 * the Condensed Instructions evolved into the separate *Arrangements for the Systematic Observation and Record of the Rainfall of the British Isles* pamphlet referenced from version K/3,000/12/79, including this text:
 
-	<a href="page_images/BR_1880.recording_day.jpg">
-		<img src="page_images/BR_1880.recording_day.jpg" style="width:400px">
-	</a>
+	<img src="page_images/BR_1880.recording_day.adj.jpg" style="width:400px">
 
 * the *Rules for Rainfall Observers* document introduced from version K/4,000/11/02 stated the recording day as:
 
-	<a href="page_images/BR_1903.recording_day.jpg">
-		<img src="page_images/BR_1903.recording_day.jpg" style="width:400px">
-	</a>
+	<img src="page_images/BR_1903.recording_day.adj.jpg" style="width:400px">
 
 In the early 1900s, Hugh Robert Mill realised that some observers were not following the recording day convention, and were recording the rainfall against the 'wrong' day. 
 
 * the '1906 no Printing code' version of the Daily Rainfall form re-introduced a direct reminder of the convention in the Note above the main table:
 
-	<a href="page_images/1906_no_printing_code.recording_day.jpg">
-		<img src="page_images/1906_no_printing_code.recording_day.jpg" style="width:600px">
-	</a>
+	<img src="page_images/1906_no_printing_code.recording_day.jpg" style="width:600px">
 * British Rainfall 1908 includes a 'Wrong Day' discussion in its Report section, highlighting the problems that 'wrong day' records had caused when analysing heavy rainfall which fell on August 31st 1908, and explaining
 changes to the Daily Rainfall form to help manage the situation.
 * the "6,000 V '09" version of the Daily Rainfall form added further instructions for "*an Observer who prefers not to conform*" to fill in a new box on the form with their reading from 1st January of the following year, [allowing 
 an adjusted monthly total for December to be calculated on the conventional reporting day basis].
-	<a href="page_images/6000_V_09.preceding_day.jpg">
-		<img src="page_images/6000_V_09.preceding_day.jpg" style="width:800px">
-	</a>
-* British Rainfall 1909 includes a section called '*The Crusade against "Wrong Day"*' in its Report section, discussing the situation further, including saying that the British Rainfall Organization had written to every observer 
+	<img src="page_images/6000_V_09.preceding_day.jpg" style="width:800px">
+* British Rainfall 1909 includes an article called '*The Crusade against "Wrong Day"*' in its Report section, discussing the situation further, including saying that the British Rainfall Organization had written to every observer 
 suspected of 'Wrong Day' recording.
 * some Daily Rainfall forms from this period show adjusted monthly total calculations in red ink, to account for 'Wrong Day' recording. The example below is from the 1909 St Kew [Cornwall] return, showing use of the new 'Jan 1 following' box
 by the observer, and adjustments applied in red ink by the British Rainfall Organization to the Totals section.
-	<a href="page_images/St_Kew_1909_wrong_day_top.jpg">
-		<img src="page_images/St_Kew_1909_wrong_day_top.jpg" style="width:800px">
-	</a>
+	<img src="page_images/St_Kew_1909_wrong_day_top.jpg" style="width:800px">
 	
-	<a href="page_images/St_Kew_1909_wrong_day_totals.jpg">
-		<img src="page_images/St_Kew_1909_wrong_day_totals.jpg" style="width:800px">
-	</a>
-
+	<img src="page_images/St_Kew_1909_wrong_day_totals.jpg" style="width:800px">
 
 ### Totals section - Days of Rain
 
@@ -415,45 +371,33 @@ Up to the K/5000/11/05 version of the Daily Rainfall form, the Totals section ha
 * a 'Totals' row to hold the individual monthly totals
 * a 'Total from Jan. 1' row to hold cumulative amounts over the year, producing the full year total in the December column
 
-<a href="page_images/K_5000_11_05.totals.jpg">
-	<img src="page_images/K_5000_11_05.totals.jpg" style="width:800px">
-</a>
+<img src="page_images/K_5000_11_05.totals.jpg" style="width:800px">
 
 From the '1906 no Printing code' Daily Rainfall form onwards, the cumulative totals were dispensed with, and the number of days of rain in each month was reported instead:
-* the first row, now labelled 'Total' rather than 'Totals', still recorded monthly totals
-* the final cell in the first row, under the right-hand 'Date' column, is now used for recording the annual total and has its own mini-heading 'TOTAL for year'
+* the first row, now labelled 'Total' rather than 'Totals', still records monthly totals
+* the final cell in the first row, under the right-hand 'Date' column, is now used for recording the annual total with its own mini-heading 'TOTAL for year'
 * the re-purposed second row has a new heading: 'No. of Rain Days'
 
-<a href="page_images/1906_no_printing_code.totals.jpg">
-	<img src="page_images/1906_no_printing_code.totals.jpg" style="width:800px">
-</a>
+<img src="page_images/1906_no_printing_code.totals.jpg" style="width:800px">
 
 ### Printing code and footer changes
 
 For the first few years of the 1900s decade, Daily Rainfall form Printing codes'continued the 'K-style' format used for the previous decades, with the rest of the footer giving Stanford's
-name and address and the form price. This arrangement ended with the K/5000/11/05 version of the form:
+name and address and price of the form. This arrangement ended with the K/5000/11/05 version of the form:
 
-<a href="page_images/K_5000_11_05.footer.jpg">
-	<img src="page_images/K_5000_11_05.footer.jpg" style="width:800px">
-</a>
+<img src="page_images/K_5000_11_05.footer.jpg" style="width:800px">
 
 The 1906 form had no Printing code, but added details of the printer (Waterlow and Sons Limited) and reported a reduced price (2d rather than 3d):
 
-<a href="page_images/1906_no_printing_code.footer.jpg">
-	<img src="page_images/1906_no_printing_code.footer.jpg" style="width:800px">
-</a>
+<img src="page_images/1906_no_printing_code.footer.jpg" style="width:800px">
 
-The next version of the form restored the Printing code:
+The next version of the form restored a Printing code:
 
-<a href="page_images/6000_XI_07.footer.jpg">
-	<img src="page_images/6000_XI_07.footer.jpg" style="width:800px">
-</a>
+<img src="page_images/6000_XI_07.footer.jpg" style="width:800px">
 
 The format of the Printing code, "6,000 XI '07" in this case, has been modified:
 
-<a href="page_images/6000_XI_07.printing_code.jpg">
-	<img src="page_images/6000_XI_07.printing_code.jpg" style="width:200px">
-</a>
+<img src="page_images/6000_XI_07.printing_code.jpg" style="width:200px">
 
 * there is no leading 'K' 
 * the number providing the size of the print-run is retained
@@ -463,9 +407,7 @@ The format of the Printing code, "6,000 XI '07" in this case, has been modified:
 
 The form footer changed again for the "6,000 V '09" version - only the Printing code was retained, with no Stanford's or printer reference, or price:
 
-<a href="page_images/6000_V_09.footer.jpg">
-	<img src="page_images/6000_V_09.footer.jpg" style="width:800px">
-</a>
+<img src="page_images/6000_V_09.footer.jpg" style="width:800px">
 
 ### 1909 Oddity ?
 
@@ -485,8 +427,7 @@ This may just be down to a small sample size.
 <a id="1911-1918"></a>
 ## 1911-1918 Daily Rainfall Forms
 
-The table below lists versions of the form in use in the 1911-1918 period (to the point where the British Rainfall Organization became part of the Met Office) as determined from a sample of the rainfall records in 
-the [DRain_1911-1920_RainNos_Cambridgeshire Daily Rainfall volume](https://digital.nmla.metoffice.gov.uk/IO_981e1297-fcd9-48b4-8d2a-e929d41064f6).
+The table below lists versions of the form in use in the 1911-1918 period (to the point where the British Rainfall Organization became part of the Met Office).
 
 |Version|Notes|
 |:------|:----|
@@ -506,35 +447,27 @@ the [DRain_1911-1920_RainNos_Cambridgeshire Daily Rainfall volume](https://digit
 
 Up to the "9,000&nbsp;IX&nbsp;'10" version of the Daily Rainfall form, the monthly column headings all had 'in.' at the top to indicate 'inches':
 
-<a href="page_images/9000_IX_10.inch_unit_headings.jpg">
-	<img src="page_images/9000_IX_10.inch_unit_headings.jpg" style="width:800px">
-</a>
+<img src="page_images/9000_IX_10.inch_unit_headings.jpg" style="width:800px">
 
 From the "W&nbsp;8,000&nbsp;X&nbsp;'11" version for the next few years, these 'in.' unit indicators are absent.
 
-<a href="page_images/W_8000_X_11.no_inch_unit_headings.jpg">
-	<img src="page_images/W_8000_X_11.no_inch_unit_headings.jpg" style="width:800px">
-</a>
+<img src="page_images/W_8000_X_11.no_inch_unit_headings.jpg" style="width:800px">
 
 This change may be related to an expectation that some stations might start reporting in millimetres rather than inches ?
 
 ### Metadata section
 
-Several recent changes to the right-hand side of the metadata section were permanently undone between the "W&nbsp;8,000&nbsp;X&nbsp;'11" and "W&nbsp;7,500&nbsp;XI&nbsp;12" form versions.
+Several recent changes to the right-hand side of the metadata section were permanently undone from the "W&nbsp;7,500&nbsp;XI&nbsp;12" form version:
 * the Latitude/Longitude fields were restored
 * the rain gauge 'Pattern' field was removed
 * the 'Nearest Railway Station' fields were simplified
 
 <table border="0">
 <tr><td>
-<a href="page_images/W_8000_X_11.right_hand_metadata.jpg">
-	<img src="page_images/W_8000_X_11.right_hand_metadata.jpg" style="width:400px">
-</a>
+<img src="page_images/W_8000_X_11.right_hand_metadata.jpg" style="width:400px">
 </td>
 <td>
-<a href="page_images/W_7500_XI_12.right_hand_metadata.jpg">
-	<img src="page_images/W_7500_XI_12.right_hand_metadata.jpg" style="width:400px">
-</a>
+<img src="page_images/W_7500_XI_12.right_hand_metadata.jpg" style="width:400px">
 </td>
 </tr>
 </table>
@@ -543,9 +476,7 @@ Several recent changes to the right-hand side of the metadata section were perma
 
 From the "W&nbsp;8,000&nbsp;X&nbsp;14" version onwards, cells in the main table which represent invalid dates (e.g. 30th February, 31st April) were filled with a pre-printed cross mark:
 
-<a href="page_images/W_8000_X_14.non_day_crosses.jpg">
-	<img src="page_images/W_8000_X_14.non_day_crosses.jpg" style="width:800px">
-</a>
+<img src="page_images/W_8000_X_14.non_day_crosses.jpg" style="width:800px">
 
 ### The "1,000&nbsp;I&nbsp;'12" version
 
@@ -558,16 +489,12 @@ Hugh Robert Mill retired in 1919, at the point when the British Rainfall Organiz
 
 "W&nbsp;8,000&nbsp;IX&nbsp;17" is the last version to refer to Mill: 
 
-<a href="page_images/W_8000_IX_17.last_Mill.jpg">
-	<img src="page_images/W_8000_IX_17.last_Mill.jpg" style="width:800px">
-</a>
+<img src="page_images/W_8000_IX_17.last_Mill.jpg" style="width:800px">
 
 "W&nbsp;6,500&nbsp;VII&nbsp;18" was the final version produced by the British Rainfall Organization as an independent body, and
 changed the Mill reference to 'The Director, British Rainfall Organization': 
 
-<a href="page_images/W_6500_VII_18.the_director.jpg">
-	<img src="page_images/W_6500_VII_18.the_director.jpg" style="width:800px">
-</a>
+<img src="page_images/W_6500_VII_18.the_director.jpg" style="width:800px">
 
 ### Final pre-Met-Office form - "W&nbsp;6,500&nbsp;VII&nbsp;18"
 
@@ -580,12 +507,9 @@ changed the Mill reference to 'The Director, British Rainfall Organization':
 <a id="1919-1923"></a>
 ## 1919-1923 Daily Rainfall Forms
 
-The table below lists versions of the form in use in the 1919-1923 period as determined from a sample of the rainfall records in 
-the volumes [DRain_1911-1920_RainNos_Cambridgeshire Daily Rainfall](https://digital.nmla.metoffice.gov.uk/IO_981e1297-fcd9-48b4-8d2a-e929d41064f6) and
-[DRain_1921-1930_RainNos_Cambridgeshire](https://digital.nmla.metoffice.gov.uk/download/file/IO_c6b2d109-e142-41f7-a353-72cdf3158957). 
-
-These versions cover the short period from the point where the British Rainfall Organization became part of the Met Office (itself newly incorpoated into the Air Ministry) to the final 
-single-sided Daily Rainfall forms. During the period, form variants were introduced for use when rainfall measurements were made in millimetres rather than inches.
+The table below lists versions of the form in use in the 1919-1923 period. This was the short period from the point where the British Rainfall Organization became part of the 
+Met Office (itself newly incorpoated into the Air Ministry) to the final single-sided Daily Rainfall forms. During this period, form variants were introduced for use when rainfall 
+measurements were made in millimetres rather than inches.
 
 |Version (inches)|Version (mm)|Notes (inches version)|
 |:------|:----|:----|
@@ -601,45 +525,31 @@ The name of the Daily Rainfall form changed a couple of times during the period:
 * from 'Form A' to 'Form A.1' for recording rainfall in inches and 'Form A.2' for millimetres
 * and then from 'Form A.1' to 'Form 1090' ('Form A.2' to 'Form 1091' for millimetres), presumably to fit in with a wider Met Office/Government naming scheme
 
-The 'Form 1090' name (and 'Form 1091' for millimetres) is retained for the Daily Rainfall form the rest of DRain volumes period (1962) and beyond.
+The 'Form 1090' name (and 'Form 1091' for millimetres) was retained for the Daily Rainfall form the rest of DRain volumes period (1962) and beyond.
 
 <table border="0">
 <tr><td>
-<a href="page_images/W_6500_VII_18.form_name.jpg">
-	<img src="page_images/W_6500_VII_18.form_name.jpg" style="width:100px">
-</a>
+<img src="page_images/W_6500_VII_18.form_name.jpg" style="width:100px">
 </td>
 <td>
-<a href="page_images/7500_10_19.form_name.jpg">
-	<img src="page_images/7500_10_19.form_name.jpg" style="width:150px">
-</a>
+<img src="page_images/7500_10_19.form_name.jpg" style="width:150px">
 </td>
 <td>
-<a href="page_images/7000_11_21.form_name.jpg">
-	<img src="page_images/7000_11_21.form_name.jpg" style="width:200px">
-</a>
+<img src="page_images/7000_11_21.form_name.jpg" style="width:200px">
 </td>
 <td>
-<a href="page_images/8000_9_22.form_name.jpg">
-	<img src="page_images/8000_9_22.form_name.jpg" style="width:150px">
-</a>
+<img src="page_images/8000_9_22.form_name.jpg" style="width:150px">
 </td>
 </tr>
 <tr><td>
 </td>
 <td>
-<a href="page_images/500_10_19.form_name.jpg">
-	<img src="page_images/500_10_19.form_name.jpg" style="width:150px">
-</a>
+<img src="page_images/500_10_19.form_name.jpg" style="width:150px">
 <td>
-<a href="page_images/750_11_21.form_name.jpg">
-	<img src="page_images/750_11_21.form_name.jpg" style="width:200px">
-</a>
+<img src="page_images/750_11_21.form_name.jpg" style="width:200px">
 </td>
 <td>
-<a href="page_images/375_8_23.form_name.jpg">
-	<img src="page_images/375_8_23.form_name.jpg" style="width:150px">
-</a>
+<img src="page_images/375_8_23.form_name.jpg" style="width:150px">
 </td>
 </tr>
 </table>
@@ -650,11 +560,9 @@ The Daily Rainfall form was originally designed for recording rainfall measured 
 potential use of millimetres rather than inches, the 'in.' column heading was removed from version W&nbsp;8,000&nbsp;X&nbsp;'11 onwards. From 1919, two variants of the form were produced,
 one for recording in inches and the other for recording in millimetres. 
 
-[British Rainfall 1914](https://digital.nmla.metoffice.gov.uk/IO_74166526-e75f-452a-ae6f-449f6ee5a25c/) p12, [British Rainfall 1916](https://digital.nmla.metoffice.gov.uk/IO_7a18d373-0737-4d68-a77b-ecbc2255d311/) p11 
-and [British Rainfall 1918](https://digital.nmla.metoffice.gov.uk/IO_fdc21815-593c-48b9-9fb5-3a23bb871531/) p29 discuss use of metric units, 
-and [British Rainfall 1919](https://digital.nmla.metoffice.gov.uk/IO_cd34fd90-2c3e-42a8-b896-0cd08678689e/) preface page ix mentions the introduction of new forms.
+British Rainfall 1914 p12, British Rainfall 1916 p11, and British Rainfall 1918 p29 discuss use of metric units, and British Rainfall 1919 preface page ix mentions the introduction of new forms.
 
-The form variants were identical except for a few particular details:
+The form variants for the two measurement units were identical except for a few particular details:
 
 * colour of paper: the millimetre variants of the Daily Rainfall form were usually printed on blue/grey paper to make them easily distinguishable
 * form names:
@@ -667,14 +575,10 @@ The form variants were identical except for a few particular details:
   
 <table border="0">
 <tr><td>
-<a href="page_images/9000_8_23.days_with.jpg">
-	<img src="page_images/9000_8_23.days_with.jpg" style="width:75px">
-</a>
+<img src="page_images/9000_8_23.days_with.jpg" style="width:75px">
 </td>
 <td>
-<a href="page_images/375_8_23.days_with.jpg">
-	<img src="page_images/375_8_23.days_with.jpg" style="width:75px">
-</a>
+<img src="page_images/375_8_23.days_with.jpg" style="width:75px">
 </td>
 </tr>
 </table>
@@ -694,26 +598,20 @@ organisation names:
 
 Version W&nbsp;6,500&nbsp;VII&nbsp;18 before incorporation into the Met Office:
 
-<a href="page_images/W_6500_VII_18.banner.jpg">
-	<img src="page_images/W_6500_VII_18.banner.jpg" style="width:800px">
-</a>
+<img src="page_images/W_6500_VII_18.banner.jpg" style="width:800px">
 
 Version 7500&nbsp;10/19:
 
-<a href="page_images/7500_10_19.banner.jpg">
-	<img src="page_images/7500_10_19.banner.jpg" style="width:800px">
-</a>
+<img src="page_images/7500_10_19.banner.jpg" style="width:800px">
 
 Version 7000&nbsp;11/21:
 
-<a href="page_images/7000_11_21.banner.jpg">
-	<img src="page_images/7000_11_21.banner.jpg" style="width:800px">
-</a>
+<img src="page_images/7000_11_21.banner.jpg" style="width:800px">
 
 
 ### Instructions changes
 
-A couple of the changes to the Instructions text relate to items discussed in the Preface of [British Rainfall 1921](https://digital.nmla.metoffice.gov.uk/IO_cab95e89-1ced-41f3-ad7d-d588798c774d/):
+A couple of the changes to the Instructions text over the period relate to items discussed in the Preface of British Rainfall 1921:
 
 * page x discusses collection of rainfall records in Scotland, and ties in with the addition of the Edinburgh address option for obtaining the "Rules for Rainfall Observers" publication.
 * page vii describes the move of the British Rainfall Organization out of its 62 Camden Square base to the Met Office premises in South Kensington, and ties in with the change of the British 
@@ -727,40 +625,30 @@ There were similar changes to the millimetre variants of the forms.
 <table border="0">
 <tr>
 <td>
-<a href="page_images/W_6500_VII_18.rain_days.jpg">
-	<img src="page_images/W_6500_VII_18.rain_days.jpg" style="width:200px">
-</a>
+<img src="page_images/W_6500_VII_18.rain_days.jpg" style="width:200px">
 </td>
 <td/>
 </tr>
 <tr>
 <td>
-<a href="page_images/7500_10_19.days_with.jpg">
-	<img src="page_images/7500_10_19.days_with.jpg" style="width:200px">
-</a>
+<img src="page_images/7500_10_19.days_with.jpg" style="width:200px">
 </td>
 <td>
 
-<a href="page_images/500_10_19.days_with.jpg">
-	<img src="page_images/500_10_19.days_with.jpg" style="width:200px">
-</a>
+<img src="page_images/500_10_19.days_with.jpg" style="width:200px">
 </td>
 </tr>
 <tr>
 <td>
-<a href="page_images/10000_7_20.days_with.jpg">
-	<img src="page_images/10000_7_20.days_with.jpg" style="width:200px">
-</a>
+<img src="page_images/10000_7_20.days_with.jpg" style="width:200px">
 </td>
 <td>
-<a href="page_images/1000_7_20.days_with.jpg">
-	<img src="page_images/1000_7_20.days_with.jpg" style="width:200px">
-</a>
+<img src="page_images/1000_7_20.days_with.jpg" style="width:200px">
 </td>
 </tr>
 </table>
 
-[British Rainfall 1919](https://digital.nmla.metoffice.gov.uk/IO_cd34fd90-2c3e-42a8-b896-0cd08678689e/) and other editions of the period include a 'The Distribution of Rainfall in Time' section 
+British Rainfall 1919 and other editions of the period include a 'The Distribution of Rainfall in Time' section 
 which discuss the definition of 'Rain Days' in terms of the amount of rainfall recorded, and whether it would be more practical and useful to use a different rainfall amount, with an additional consideration
 being how to make the definition work consistently in both inches and millimetres. To address this, a 'Wet Day' concept based on 0.04 in / 1.0 mm of rainfall was being evaluated.
 
@@ -769,24 +657,18 @@ being how to make the definition work consistently in both inches and millimetre
 When the British Rainfall Organization was an independent organisation, the Printing codes on its Daily Rainfall forms were relatively simple, mostly comprising a print-run size, year and month, with 
 the final form having a Printing code of 'W 6,500 VII 18', with an unexplained 'WWC'. 
 
-<a href="page_images/W_6500_VII_18.printing_code.jpg">
-	<img src="page_images/W_6500_VII_18.printing_code.jpg" style="width:200px">
-</a>
+<img src="page_images/W_6500_VII_18.printing_code.jpg" style="width:200px">
 
 As part of the Met Office, British Rainfall Organization Printing codes became quite a lot more complex; they retain identifiable print-run, year and month indicators, but 
 have several additional fields, whose meaning is often not clear. The first Met Office period printing code is:
 
-<a href="page_images/7500_10_19.printing_code.jpg">
-	<img src="page_images/7500_10_19.printing_code.jpg" style="width:400px">
-</a>
+<img src="page_images/7500_10_19.printing_code.jpg" style="width:400px">
 
 which shows 7,500 as the print-run size, and 10/19 as the month/year. 
 
 The millimeter variant of this form has a slightly different Printing code:
 
-<a href="page_images/500_10_19.printing_code.jpg">
-	<img src="page_images/500_10_19.printing_code.jpg" style="width:400px">
-</a>
+<img src="page_images/500_10_19.printing_code.jpg" style="width:400px">
 
 showing the same month/year but with a much smaller print-run size of 500, and a different value for the first number of the code.
 
@@ -795,7 +677,7 @@ the two examples above are referred to as '7500&nbsp;10/19' and '500&nbsp;10/19'
 
 ### Final single-sided form - "9,000&nbsp;8/23"
 
-.. and its millimetre equivalent "375&nbsp;8/23"
+and its millimetre equivalent "375&nbsp;8/23"
 
 <table border="0">
 <tr><td>
