@@ -7,6 +7,7 @@ to the Met Office Online Archive.
 * [Overview](Daily_Rainfall_Form_Evolution.md) - this page
 * [Part 1](Daily_Rainfall_Form_Evolution_part_1.md) covers the period up to 1923, when the Daily Rainfall form changed from single-sided to double-sided
 * [Part 2](Daily_Rainfall_Form_Evolution_part_2.md) covers the period from 1924 to 1962, when the Met Office's scanned DRain archive ends 
+* [Miscellaneous](Daily_Rainfall_Form_Evolution_misc.md) - some additional details and summaries
 
 ## Scope
 
