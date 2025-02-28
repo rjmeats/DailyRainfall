@@ -609,13 +609,13 @@ Version 7000&nbsp;11/21:
 <img src="page_images/7000_11_21.banner.jpg" style="width:800px">
 
 
-### Instructions changes
+### Address changes
 
-A couple of the changes to the Instructions text over the period relate to items discussed in the Preface of British Rainfall 1921:
+A couple of the changes to the Instructions text over the period relate to address changes discussed in the Preface of British Rainfall 1921:
 
-* page x discusses collection of rainfall records in Scotland, and ties in with the addition of the Edinburgh address option for obtaining the "Rules for Rainfall Observers" publication.
+* page x discusses collection of rainfall records in Scotland, and ties in with the addition of the Edinburgh address option for obtaining the "Rules for Rainfall Observers" publication from version "7000 11/21"
 * page vii describes the move of the British Rainfall Organization out of its 62 Camden Square base to the Met Office premises in South Kensington, and ties in with the change of the British 
-Rainfall Organization mailing address on the form (to the Air Ministry, Kingsway).
+Rainfall Organization mailing address on the form (to the Air Ministry, Kingsway) from version "8,000 9/22".
 
 ### Totals section - Rain Days evolution
 

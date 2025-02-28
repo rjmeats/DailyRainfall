@@ -41,7 +41,7 @@ forms are being used (rather than direct inspection of the physical forms in per
 |:------|:----|:----|
 |10000&nbsp;12/24|[Front](page_images/DRain_1924_All_Counties_Part1_p0141.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1924_All_Counties_Part1_p0142.jpg)|The first double-sided form. 'For Official Use' added to the top of the page (but not always?). Extra metadata fields in top right for 'County No.', 'River Dist.' and 'Station No.'. 'Previous Day' instructions simplified and highlighting changed and 'Rules for Rainfall Observers' section removed, leading to a reduced size Instructions section at the top. No page footer content. Back of the form contains extensive instructions and an area for Observer notes. Detailed HMSO purchasing info on the back, and the name and address of the printer. Printing code is at the bottom of the back of the form.|
 |1000&nbsp;2/25|[Front](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0004.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1926_Wigtown_To_Argyll_Part2_p0005.jpg)|For just this version, the Printing code on the back of the form has a second line. This version seems to be just a small print run repeat of "10000&nbsp;12/24".|
-|11,500&nbsp;12/25|[Front](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0071.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0072.jpg)|The first form to be divided into sections A (front), and B, C, D (back), with sections identified by a large boxed capital letter. Section A is the normal daily 12x31 form with a few minor changes. [A] Metadata fields moved to the left of the header and reduced in number. [A] right of the header used to point Observers to the back of the form. [A] "Year's Total" cell heading spread over two lines. [A] Signature section added to footer, and 'PTO'. Section B 'Monthly Summary' is a new section, with its own grid of monthly values. New section C 'Particulars of Station' has station metadata, some of which used to be on the front of the old form, but mostly is new information. [C] also has a space for recording 'exceptional rainfall for the year', replacing the 'Notes' area on the back of the previous form. New Section D provides detailed instructions for observers; the instructions themselves are very similar to those provided in the previous version of the form, but are presented in two columns. The HMSO and printer information is presented beneath section D, using less space than previously, followed by the Printing code. The price quoted is now '1d' rather than '2d'.
+|11,500&nbsp;12/25|[Front](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0071.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1925_Clackmannan_To_Shetland_Part1_p0072.jpg)|The first form to be divided into sections A (front), and B, C, D (back), with sections identified by a large boxed capital letter. Section A is the normal daily 12x31 form with a few minor changes. [A] Metadata fields moved to the left of the header and reduced in number. [A] right of the header used to point Observers to the back of the form. [A] "Year's Total" cell heading spread over two lines. [A] Signature section added to footer, and 'PTO'. Section B 'Monthly Summary' is a new section, with its own grid of monthly values. New section C 'Particulars of Station' has station metadata, some of which used to be on the front of the old form, but mostly is new information. [C] also has a space for recording 'exceptional rainfall for the year', replacing the 'Notes' area on the back of the previous form. New Section D provides detailed instructions for observers; the instructions themselves are very similar to those provided in the previous version of the form, but are presented in two columns. Edinburgh Met Office address change. The HMSO and printer information is presented beneath section D, using less space than previously, followed by the Printing code. The price quoted is now '1d' rather than '2d'.
 |13000&nbsp;9-26|[Front](page_images/DRain_1927_Clackmannan_To_Shetland_Part2_p0058.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1927_Clackmannan_To_Shetland_Part2_p0059.jpg)|[A] 'Air Ministry' banner no longer on its own line. [A] 'Register of Rainfall' title much larger. [A] Right side of the header now blank, text to point Observers to the back of the form is now in the footer area. [A] Vertical grid lines in 12x31 table are more prominent; horiztonal lines between days also more prominent, and now formed of closely spaced dots, with the dividers after days 10, 20 and 31 much wider and darker. [A] "Year's Total" cell heading back to being on a single line. [A] '(144WS)' appears at the left of the footer. [B] and [C] Minor layour changes to introductory wording. [B] The horizontal grid line separating June and July is now the same as the other grid lines, rather than being a thick black line. [C] Hour of observation field given its own line, 'by the clock' added and separate fields for 'in Winter' and 'in Summer'. [D] Instruction 2(a) adds a line to explain that 9 am GMT is 10 am during 'Summer Time Period'. [Back] 28 Abingdon Street removed from the list of HMSO addresses. [Back] Printer changed to Waterlow & Sons from previous Truscott & Son.|
 |13000&nbsp;9-27|[Front](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0017.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0018.jpg)|[A] Text to point observers to the back of the form moved from the footer to the header area, replacing the previous text about using Form 1091 for records taken in millimetres.  [A] '(144WS)' and '144W)' appear at the left of the footer. [B] Note about records taken in millimetres removed. [B] Typo in column heading - '0.1' instead of '.01'. [C] Introduction shortened by omission of bracketed clause about changes. [C] Latitude and Longitude fields removed. [C] Railway/Church direction field label expanded to 'Direction from gauge'. [C] 'If gauge has been moved' part moved to below the table of nearby objects. [C] Extra line asking for particulars if the gauge is a self-registering type. [D] Section 1 reworded to be about rules for measuring rather than gauge selection advice. [C] Instruction 2(a) split into two paragraphs. [D] Instruction 2(f) refers to 'number of days ...' rather than 'total number of days ...', and is expanded to cover .04 in. as well as .01 in.| HMSO addresses re-ordered, and Belfast added.
 |13,000&nbsp;2/28|[Front](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0041.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1928_Wigtown_To_Argyll_Part1_p0042.jpg)|[A] '40-9999' appears at the left of the footer. [B] Typo in column heading fixed, now says '.01 in.'. Printer changed to Truscott & Son from previous Waterlow & Sons.|
@@ -202,6 +202,13 @@ British Summer Time was first introduced in 1916 and [British Rainfall 1916](htt
 
 It's a bit surprising that the Daily Rainfall form only reacts to this a decade later.
 
+### Edinburgh Address I
+
+The Edinburgh Met Office address was updated in the "11,500&nbsp;12/25" version of the Daily Rainfall form to be 6, Drumsheugh Gardens  rather than the previous 10 Rothesay Place. The Met Office 1925-26 Annual
+Report (p57) explains the move:
+
+<img src="page_images/MOAR_1925-26.form_edinburgh.adj.jpg" style="width:400px">
+
 ### Example Millimetre-based double-sided form
 
 The example double-side millimetre-based form below is version "1000 11-27":
@@ -338,6 +345,9 @@ north-west London immediately afterwards. The Stonehouse location was Wycliffe C
 <img src="./page_images/10000_10_45.met_office_address.jpg" style="width:400px">
 </p>
 
+The Met Office Annual Report 1945-47 mentions that the Climatological Branch (including the British Rainfall Organization) was at Harrow without giving a date for the move there. 
+For two other departments, Instruments and the Library, the report gives August 1945 as the date of the move from Stonehouse to Harrow.
+
 #### Summer Time and Double Summer Time
 
 For several years in the 1940s, the UK operated on Double Summer Time - 2 hours ahead of GMT during the summer, and 1 hour ahead during the rest of the year. The Daily Rainfall form instructions for the period
@@ -382,6 +392,13 @@ and a line indicating ground level was added for the "10,000&nbsp;10/45" version
 </td>
 </tr>
 </table>
+
+### Edinburgh Address II
+
+The Edinburgh Met Office address was updated in the "2/50" version of the Daily Rainfall form to be 26 Palmerston Place rather than the previous 6, Drumsheugh Gardens. The Met Office 1950-51 Annual
+Report (p34-35) explains the move:
+
+<img src="page_images/MOAR_1950-51.form_edinburgh.adj.jpg" style="width:400px">
 
 ### Printing code Print-run size
 
@@ -556,13 +573,17 @@ So the 'b' in 'M.O.3b' presumably reflects the ordering of 'British Rainfall and
 ### Bracknell
 
 The Met Office started occupying its new headquarters buildings in Bracknell, Berkshire from February 1961. The move to Bracknell allowed the Met Office to bring its HQ staff 
-together in a single site (from London, Harrow, and Dunstable) for the first time since the end of WWII.
+together in a single site (from London, Harrow, and Dunstable) for the first time since the end of WWII. The Met Office Annual Report 1961 p vii says:
+
+<img src="page_images/MOAR_1961.bracknell.adj.jpg" style="width:400px">
 
 The "2/61" version of the Daily Rainfall form uses Bracknell for the first time (replacing Harrow) as the address to which completed forms were to be sent:
 
 <img src="page_images/2_61.bracknell.jpg" style="width:400px">
 
 The Met Office HQ remained in Bracknell until 2003, when it moved to its current location in Exeter.
+
+
 
 ### Northern Ireland
 
