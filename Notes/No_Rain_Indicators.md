@@ -39,7 +39,7 @@ In this old usage, the word *'cypher'* means a zero digit, so the instruction is
 
 > *The record will be clearer if days without measurable rain are indicated by drawing a short line.*
 
-<img src="no_rain_images/BR1908.no_rain_instruction.jpg" style="width:400px">
+<img src="no_rain_images/BR1908.no_rain_instruction.adj.jpg" style="width:400px">
 
 ### Daily Rainfall Sheet Section D 1926
 
@@ -51,7 +51,7 @@ In this old usage, the word *'cypher'* means a zero digit, so the instruction is
 
 > *When there has been no precipitation the entry in the register should be a dash &mdash; (not 0&middot;0).*
 
-<img src="no_rain_images/OH1926.no_rain_instruction.jpg" style="width:400px">
+<img src="no_rain_images/OH1926.no_rain_instruction.adj.jpg" style="width:400px">
 
 ### Daily Rainfall Sheet 1991
 
@@ -60,7 +60,7 @@ now with a little more discussion:
 
 > *It has been a long-standing convention that days of no rainfall are shown with a 'dash' rather than leave the space blank or with an amount of 0.0 &hellip;*
 
-<img src="no_rain_images/1991.no_rain_instruction.jpg" style="width:400px">
+<img src="no_rain_images/1991.no_rain_instruction.adj.jpg" style="width:400px">
 
 <hr/>
 
