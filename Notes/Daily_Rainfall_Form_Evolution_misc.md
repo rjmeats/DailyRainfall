@@ -90,4 +90,39 @@ Changes to the addresses shown on the form were as follows:
 
 ## Printers
 
+The first time the Daily Rainfall form names the printer of the forms is in the 1906 version. The map-maker and retailer [Edward Stanford](https://www.stanfords.co.uk/our-history) is named on forms from 1870-1908 and in a few more cases
+up to 1915, but is never identified as being the printer:
+* from 1870 to 1882 'Mr Stanford' is named as a source of additional copies of the form, in the vertical column of text on the left of the Form
+* from 1883 to 1908, and also 1912 and 1915, 'Edward Stanford' and a Charing Cross or Long Acre address appears in the footer of the form, but with no explicit role given
+* from 1906 to 1915, those versions of the form which show 'Edward Stanford' in the footer also identify the printer as [Waterlow and Sons Limited](https://en.wikipedia.org/wiki/Waterlow_and_Sons), London Wall
+
+British Rainfall annuals also showed 'Edward Stanford' and an address near the bottom of its title pages from 1861 to 1918, and identified the printer as 'G.Shield' and later as 'Shield and Spring' - initially 
+at 30, Lower Sloane Street and then at other nearby addresses. So G.Shield is a candidate for being the printer of the early versions of the Daily Rainfall form, but this is only speculation.
+
+After the British Rainfall Organization became part of the Met Office and Air Ministry, its forms and publications come under HMSO - there is no further mention of Edward Stanford:
+* the 1919 to 1923 versions of the form (still single-sided) do not name the printer, but include likely printer name abbreviations in the Printing code:
+  * "A.&E.W."  - possibly Waterlows again, but not sure what the other initials are
+  * "T.S." - probably Jas. Truscott & Son Ltd
+* the double-sided versions of the form generally identify the printer in full on the back near the bottom, using wording similar to 'Printed under the authority of HMSO by ...'
+* for 1942-1949 the printer was not named on the form, but the Printing code included an identifiable abbreviation "W.H.&S." - William Hobbs & Sons Ltd
+
+Summary of identified Printers
+
+|Period|Printers|Address|Notes|
+|:-----|:-------|:------|:----|
+|1870-1905|Not marked|||
+|1906-1918|Waterlow & Sons Ltd|London Wall|Not always shown|
+|1919-1921|A.&E.W||Waterlow again ??|
+|1922-1923|T.S.||Truscott & Son ??|
+|1924-1925|Jas. Truscott & Son Ltd|Suffolk Lane, Cannon Street, E.C.||
+|1926-1927|Waterlow & Sons Ltd|Birchin Lane, London E.C.3||
+|1928|Jas. Truscott & Son Ltd|Suffolk Lane, Cannon Street, E.C.||
+|1929-1934|John Corah & Son Ltd|Loughborough and London||
+|1935-1952|Wm. Hobbs & Sons Ltd.|Stone Street, Maidstone||
+|1953|McCorquodale|London, S.E.1||
+|1953-1957|Fosh & Cross Ltd|London||
+|1958-1960|The Gatwick Press, Ltd|||
+|1961|The Kenion Press Ltd|||
+
+
 
