@@ -630,13 +630,48 @@ show when the form was last changed.
 
 ### End of the scanned DRain Volume period
 
-The scanned DRain volumes in the Met Office Online Archive include Daily Rainfall forms up to the end of 1962 (1960 for Scotland). After that, it seems that 
-following smaller scale experiments in the preceding years, annual reporting of daily rainfall switched to monthly reporting, with observations digitised 
-onto punched cards. The Met Office's 1963 Annual Report says:
+The scanned DRain volumes in the Met Office Online Archive include Daily Rainfall forms up to the end of 1962 (1960 for Scotland). This marks the point where a desire to
+report daily rainfall promptly on a monthly basis became achievable as computerised methods came into use in the Met Office's Climatological Services division.
 
-<a href="page_images/MOAR_1963.monthly.adj.jpg">
-	<img src="page_images/MOAR_1963.monthly.adj.jpg" style="width:500px">
-</a>
+Since the 1930s, a subset of stations had been sending in their daily rainfall reports monthly rather than annually, allowing monthly rainfall aggregates and mapping to be 
+produced more rapidly (e.g. for use in the Met Office's Monthly Weather Report publication), making it easier to fix errors, and spreading out some of the end-of-year work 
+throughout the year.
+
+For example, British Rainfall 1935 (p xii) says:
+
+<img src="page_images/BR_1935.monthly_reporting.adj.jpg" style="width:500px">
+
+The next year, this approach was expanded to about 1000 stations reporting monthly; British Rainfall 1936 (p x) says:
+
+<img src="page_images/BR_1936.monthly_reporting.adj.jpg" style="width:500px">
+
+In the same edition, observers for the remaining stations were asked (p xi) to continue reporting annually, as the British Rainfall Organization would not have the capacity to
+handle the full ~5000 returns on a monthly basis.
+
+<img src="page_images/BR_1936.annual_reporting.adj.jpg" style="width:500px">
+
+In the late 1950s and early 1960s, the Climatological Division started to try out computerised processing of rainfall records using the 
+Met Office's [Ferranti Mercury 'Meteor' computer](https://artsandculture.google.com/asset/ferranti-mercury-computer-meteor-meteorological-office/HgEVF_VPfvO2nA?hl=en). Progress
+with this is outlined in Met Office Annual Reports of the time:
+
+1959-1960 Annual Report (p17): 
+
+<img src="page_images/MOAR_1959-60.computing.adj.jpg" style="width:500px">
+
+1961 Annual Report (p16): 
+
+<img src="page_images/MOAR_1961.computing.adj.jpg" style="width:500px">
+
+1962 Annual Report (p16): 
+
+<img src="page_images/MOAR_1962.computing.adj.jpg" style="width:500px">
+
+At this point, use of machine processing allowed the Climatological Servives division to handle all daily rainfall records as monthly returns, as reported 
+in the 1963 Annual Report:
+
+<img src="page_images/MOAR_1963.monthly.adj.jpg" style="width:500px">
+
+(Publication of British Rainfall editions were several years behind by the late 1950s, and remained so for some time, so they do not provide useful coverage of the above developments.)
 
 ### End of the DRain period form - "2/61"
 
