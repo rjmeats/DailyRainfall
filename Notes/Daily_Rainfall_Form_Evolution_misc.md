@@ -82,11 +82,13 @@ Changes to the addresses shown on the form were as follows:
 |1922|[Kingsway, London](https://maps.nls.uk/geo/explore/#zoom=17.0&lat=51.51374&lon=-0.11780&layers=173&b=osm&o=100&marker=51.513809,-0.117446)|Camden Square address replaced by Air Ministry HQ at Adastral House|
 |1924|London WC2|London address made vague, Kingsway part dropped|
 |1925|[6 Drumsheugh Gardens, Edinburgh](https://maps.nls.uk/geo/explore/#zoom=18.3&lat=55.95073&lon=-3.21405&layers=&b=osm&o=100&marker=55.950758,-3.213980)|Change to Edinburgh address|
-|1942|[Stonehouse, Glos](https://maps.nls.uk/geo/explore/#zoom=16.1&lat=51.74280&lon=-2.27845&layers=193&b=osm&o=100&marker=51.743190,-2.280856)|London address replaced by Met Office wartime address at Wycliffe College|
+|1942|[Stonehouse, Glos](https://maps.nls.uk/geo/explore/#zoom=16.1&lat=51.74280&lon=-2.27845&layers=193&b=osm&o=100&marker=51.743190,-2.280856)|London address replaced by the Met Office's wartime address at Wycliffe College|
 |1945|[Headstone Drive, Harrow, Middlesex](https://maps.nls.uk/geo/explore/#zoom=17.5&lat=51.59601&lon=-0.34464&layers=258&b=osm&o=100&marker=51.595752,-0.343859)|Move to Harrow from Wycliffe College after the war|
 |1950|[26 Palmerston Place, Edinburgh](https://maps.nls.uk/geo/explore/#zoom=17.5&lat=55.94817&lon=-3.21625&layers=&b=osm&o=100&marker=55.947907,-3.216732)|Change to Edinburgh address|
 |1960|[Tyrone House, Ormeau Avenue, Belfast](https://www.openstreetmap.org/way/1219767831#map=17/54.592307/-5.924367)|Met Office Belfast address added|
 |1961|[London Road, Bracknell, Berkshire](https://maps.nls.uk/geo/explore/#zoom=17.2&lat=51.41704&lon=-0.74325&layers=258&b=7&o=100&marker=51.416565,-0.743400)|Move to Bracknell from Harrow|
+
+See [Meteorological Magazine January 1986](https://digital.nmla.metoffice.gov.uk/IO_05540c5b-a4b4-457b-a074-414e759166c6/) for an account of Met Office war-time arrangements at Stonehouse.
 
 ## Printers
 
@@ -124,5 +126,171 @@ Summary of identified Printers
 |1958-1960|The Gatwick Press, Ltd|||
 |1961|The Kenion Press Ltd|||
 
+## Some references to the Rainfall Archives
 
+Shown below are a collection of mentions of the physical rainfall forms or their archives in Met Office documents (not an exhaustive search) over the DRain archive period. They show how the 
+forms moved around various office locations, starting from British Rainfall Organization's long term home at 62, Camden Square, and ending in the newly built Met Office archive building in Bracknell,
+or in Edinburgh, Belfast or Dublin.
+
+### 62, Camden Square ###
+
+* Minutes of Meteorological Committee meeting, 30th July 1919, from the document agreeing the transfer of the British Rainfall Organization to the Met Office:
+
+	<img src="page_images/MCMinutes_191907.rainfall_record.adj.jpg" style="width:500px">
+
+
+* Minutes of Meteorological Committee meeting, 5th November 1919, describing the assets being tranferred:
+
+	<img src="page_images/MCMinutes_191911.rainfall_record.adj.jpg" style="width:500px">
+
+	<img src="page_images/MCMinutes_191911.records_table.adj.jpg" style="width:500px">
+
+* Met Office Annual Report 1920-1921 (p51)
+
+	<img src="page_images/MOAR_1920-21.form_relocation.adj.jpg" style="width:500px">
+
+* British Rainfall 1921 p4, a photo of the garden of 62, Camden Square garden, showing the office referred to above
+
+	<img src="page_images/BR_1921.62_camden_sq_garden.jpg" style="width:500px">
+
+### South Kensington ###
+
+* Met Office Annual Report 1921-1922 p41-42
+
+	<img src="page_images/MOAR_1921-22.hq_relocation.adj.jpg" style="width:500px">
+	
+	<img src="page_images/MOAR_1921-22.records_relocation.adj.jpg" style="width:500px">
+
+* Met Office Annual Report 1922-1923 p41-42
+
+	<img src="page_images/MOAR_1922-23.permanent_files.adj.jpg" style="width:500px">
+
+### Edinburgh ###
+
+* Met Office Annual Report 1921-1922 p42
+
+	<img src="page_images/MOAR_1921-22.edinburgh.adj.jpg" style="width:500px">
+
+* British Rainfall 1921 p xi
+
+	<img src="page_images/BR_1921.edinburgh.adj.jpg" style="width:500px">
+
+* British Rainfall 1923 p vii
+
+	<img src="page_images/BR_1923.edinburgh.adj.jpg" style="width:500px">
+
+### Gwydyr House, Whitehall ###
+
+* Met Office Annual Report 1925-1926 p49
+
+	<img src="page_images/MOAR_1925-26.whitehall.adj.jpg" style="width:500px">
+
+	Presumably this move to [Gwydyr House](https://historicengland.org.uk/images-books/photos/item/DP017303) would have included the archive of Daily Rainfall forms.
+	
+### Wycliffe College ###
+
+During World War II, the Climatology Division of the Met Office relocated to Wycliffe College, Stonehouse, Gloucestershire. The 2024
+[Met Office Library factsheet 21](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_21-met-office-history-and-timeline_2024.pdf) on the 
+history of the Met Office says that the libary and archive was also sent there, but not until at least late 1940.
+
+### Harrow presumably ###
+
+After World War II, the Climatology Division moved to Air Ministry offices in Harrow, and presumably so did the Daily Rainfall archives.
+
+### Dublin ###
+
+The Irish Meteorological Service, now Met Éireann, was set up in December 1936, and at some point the relavant Daily Rainfall records (but not the 10-year rainfall volumes) were transferred 
+to its archives in Dublin. 
+
+[Ireland’s pre-1940 daily rainfall records](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.103) (2020)
+
+### Belfast ###
+
+The 1960 Met Office Annual report describes the setting up of a climatological office at Tyrone House in Belfast, holding the historical records, presumably including the Daily Rainfall archive
+for stations in Northern Ireland:
+
+<img src="page_images/MOAR_1960.northern_ireland.adj.jpg" style="width:500px">
+
+### Bracknell ###
+
+As part of the Met Office move to Bracknell in 1961, its archives that had become separated over various offices were brought together in a new dedicated facility in 
+[Eastern Road](https://maps.nls.uk/geo/explore/#zoom=17.6&lat=51.41443&lon=-0.73510&layers=258&b=7&o=100&marker=51.414346,-0.736325). The new archive became an
+official 'place of deposit' under the Public Records Act. Met Office Annual Reports from the early 1960s record progress with the Bracknell archive:
+
+* Met Office Annual Report 1961 p18
+
+	<img src="page_images/MOAR_1961.archives.adj.jpg" style="width:500px">
+
+* Met Office Annual Report 1962 p19
+
+	<img src="page_images/MOAR_1962.archives.adj.jpg" style="width:500px">
+
+* Met Office Annual Report 1963 p19
+
+	<img src="page_images/MOAR_1963.archives.adj.jpg" style="width:500px">
+
+* Met Office Annual Report 1964 p56
+
+	<img src="page_images/MOAR_1964.archives.adj.jpg" style="width:500px">
+
+The February 1963 edition of The Meteorological Magazine has a short article about the Bracknell archive, including a photo. 
+
+### Post-DRain period ###
+
+The 2023 [Met Office Library factsheet 12](https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_12-national-meteorological-archive_2023.pdf) 
+about the Archive describes further relocations after the initial move to Bracknell:
+* in October 1991 the Archive moved to the Stirling Centre in Bracknell
+* in March 2005 the Archive moved to Great Moor House in Exeter
+
+## The current Daily Rainfall archive situation ##
+
+These Met Office web pages detail the current locations of the National Meteorological Archive: 
+
+* [England and Wales](https://www.metoffice.gov.uk/research/library-and-archive/archive/information)
+* [Scotland and Northern Ireland](https://www.metoffice.gov.uk/research/library-and-archive/archive/archive-information---scotland-and-northern-ireland)
+
+### Physical records ###
+
+The physical Daily Rainfall forms are held in several archives:
+
+* Met Office Archives, Great Moor House, Exeter
+
+  Holds the archive for stations in England, Wales, Channel Islands, and the Isle of Man. Some photos of the records in the archive are 
+  available [here](https://www.zooniverse.org/projects/edh/rainfall-rescue/talk/3143/1358833?comment=5053519&page=343).
+
+* National Records of Scotland, 2 Princes Street, Edinburgh
+
+  Holds the archive for stations in Scotland.
+
+* [potentially] Public Record Office of Northern Ireland, 2 Titanic Boulevard, Belfast
+
+  The Daily Rainfall archive for stations in Northern Ireland was sent to Belfast around 1960 (see above). However, the current location of these records is apparently not known.
+  
+* Met Éireann, Glasnevin, Dublin
+
+  Holds the [archive](https://www.met.ie/cms/assets/uploads/2017/08/Daily-Rainfall-Registers.pdf) for stations which are now in the Republic of Ireland.
+
+### Digital images ###
+
+Many of the Daily Rainfall forms have now been scanned to produce digital images:
+
+* the Met Office 'DRain' volumes
+
+  In mid-2024, PDF files of scanned Daily Rainfall form images were made available on the Met Office's Online Archive:
+  
+  * [England, Wales, Channel Islands and the Isle of Man](https://digital.nmla.metoffice.gov.uk/SO_51194883-b9dd-4e27-93db-958f8fbea38b/) - pre-1860 to 1962 in 875 PDF files
+  * [Scotland](https://digital.nmla.metoffice.gov.uk/SO_68356e56-2bb7-478f-85b6-08a0ac1aabb5/) - 1922-1960 in 152 PDF files, with earlier records awaiting further funding
+  * the missing Northern Ireland records have not been scanned
+  
+* Met Éireann have scanned the Daily Rainfall images in their archives - see [Ireland’s pre-1940 daily rainfall records](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.103)
+
+### Digitised rainfall values ###
+
+Only a small proportion of the pre-1962 Daily Rainfall forms have been transcribed into digital form. Figure 1(b) of [this paper](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.78) 
+shows the amount of digitised daily rainfall data available per year as of 2019, Before 1960, the data from only a few hundred stations has been digitised, compared to about 
+4,500 after then (the point at which machine processing of daily rainfall records became standard, meaning all daily rainfall data was digitised by the Met Office very soon after receipt each month).
+
+[Note that the monthly rainfall digitisation situation shown on the same plot is now out-of-date - see the 2020 [Rainfall Rescue project](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.157).]
+
+Met Éireann have transcribed some of the Daily Rainfall forms in their archive - see [Ireland’s pre-1940 daily rainfall records](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.103)
 

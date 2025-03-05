@@ -21,7 +21,10 @@ of the DRain online archive contents.
 
 Changes to the form often tie in with events and discussions within the British Rainfall Organization and the Met Office, and sometimes the wider world. The notes include some 
 related material taken from [*British Rainfall annuals*](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_29627928-7fb1-43b2-b7ad-f63509127917), 
-[*Met Office Annual Reports*](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_e75e4cf3-9be6-47f9-9444-0c2debbcef83), and other sources available online.
+[*Met Office Annual Reports*](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_e75e4cf3-9be6-47f9-9444-0c2debbcef83), 
+[*Meteorological Committee Meeting Minutes*](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_4ef61033-663b-4457-8cee-d784ae877507), 
+[*Meteorological Magazine*](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_31c4215d-460a-4ce3-bdac-12c775f5c92d)
+and other sources available online.
 
 For detailed history of the British Rainfall Organization and the British Rainfall publication see for example these two items:
 * [A Short History of the British Rainfall Organization](https://www.rmets.org/sites/default/files/papers/hist05.pdf) by D.E.Pedgley in 2002 [PDF file]

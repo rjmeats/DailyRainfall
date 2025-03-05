@@ -599,11 +599,6 @@ and the Met Office's 1960 Annual Report (p19) has a bit more information, includ
 
 <img src="page_images/MOAR_1960.northern_ireland.adj.jpg" style="width:500px">
 
-The current day location of the Daily Rainfall records from Northern Ireland is unknown - they are not part of the Met Office DRain volumes.
-
-[Records from the Republic of Ireland were collected by the British Rainfall Organization and the Met Office until 1940, and are now held in Met Éireann's archives. See 
-[*Ireland’s pre-1940 daily rainfall records*](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.103).]
-
 ### Revision Dates
 
 The "4/60" and "2/61" versions of the Daily Rainfall form belatedly include a 'Revised Date' indicator on the front and back, just under the 'Form 1090' form type indicator, to
