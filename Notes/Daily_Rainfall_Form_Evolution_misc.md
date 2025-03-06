@@ -4,6 +4,18 @@ Some additional details and summaries relating to the [Evolution of the British 
 
 Year numbers shown below relate to the year given in the Printing codes on the first version of the Daily Rainfall form to show a particular feature.
 
+## Contents
+
+* [Number of form versions identified](#Number-of-form-versions-identified)
+* [Print-run size over time](#Print-run-size-over-time)
+* [Major form layout changes](#Major-form-layout-changes)
+* [Major organisational changes](#Major-organisational-changes)
+* [Addresses](#Addresses)
+* [Printers](#Printers)
+* [References to the Rainfall Archives](#References-to-the-Rainfall-Archives)
+* [The current Daily Rainfall Archive situation ](#The-current-Daily-Rainfall-Archive-situation)
+
+<a id="Number-of-form-versions-identified"></a>
 ## Number of form versions identified
 
 Examining samples of the DRain archive volumes has identified that almost 100 different 'inches' versions of the Daily Rainfall form were printed over the late 1860s-1962 period, 
@@ -17,6 +29,7 @@ as well as more than 20 millimetre versions of the form from 1919 onwards.
 
 There may be a few more versions to be discovered, for example no version for 1880 was found in the samples.
 
+<a id="Print-run-size-over-time"></a>
 ## Print-run size over time
 
 Nearly all Daily Rainfall forms have a 'Printing code' in a footer, which by inspection seem to contain a month/year of printing and 
@@ -32,6 +45,7 @@ Adding up these print-run sizes produces a total around 600,000 Daily Rainfall f
 that number contains forms from 1951-1962 (and a few very early ones), does not contain any Irish stations or records for Scotland before 1922, not all images are of Daily Rainfall forms, and some forms 
 appear twice, as separate front and back images. So very roughly, perhaps around half of the printed forms ended up being used, returned and stored in the Met Office archives.
 
+<a id="Major-form-layout-changes"></a>
 ## Major form layout changes
 
 **Overall form**:
@@ -57,6 +71,7 @@ appear twice, as separate front and back images. So very roughly, perhaps around
 |1920|Third 'Totals' line added, used for further rain days counts|
 |1933|'Spare' column added between 'December' and the second 'Date' columns|
 
+<a id="Major-organisational-changes"></a>
 ## Major organisational changes
 
 |Year|Notes|
@@ -66,6 +81,7 @@ appear twice, as separate front and back images. So very roughly, perhaps around
 |1919|British Rainfall Organization taken over by the Met Office, within the Air Ministry|
 |1957|British Rainfall Organization becomes part of the larger Met Office 'British Rainfall and Hydrology' department|
 
+<a id="Addresses"></a>
 ## Addresses
 
 Every version of the Daily Rainfall form has at least one address for the British Rainfall Organization and/or Met Office. In some cases the address was presented 
@@ -90,6 +106,7 @@ Changes to the addresses shown on the form were as follows:
 
 See [Meteorological Magazine January 1986](https://digital.nmla.metoffice.gov.uk/IO_05540c5b-a4b4-457b-a074-414e759166c6/) for an account of Met Office war-time arrangements at Stonehouse.
 
+<a id="Printers"></a>
 ## Printers
 
 The first time the Daily Rainfall form names the printer of the forms is in the 1906 version. The map-maker and retailer [Edward Stanford](https://www.stanfords.co.uk/our-history) is named on forms from 1870-1908 and in a few more cases
@@ -126,7 +143,8 @@ Summary of identified Printers
 |1958-1960|The Gatwick Press, Ltd|||
 |1961|The Kenion Press Ltd|||
 
-## Some references to the Rainfall Archives
+<a id="References-to-the-Rainfall-Archives"></a>
+## References to the Rainfall Archives
 
 Shown below are a collection of mentions of the physical rainfall forms or their archives in Met Office documents (not an exhaustive search) over the DRain archive period. They show how the 
 forms moved around various office locations, starting from British Rainfall Organization's long term home at 62, Camden Square, and ending in the newly built Met Office archive building in Bracknell,
@@ -242,7 +260,8 @@ about the Archive describes further relocations after the initial move to Brackn
 * in October 1991 the Archive moved to the Stirling Centre in Bracknell
 * in March 2005 the Archive moved to Great Moor House in Exeter
 
-## The current Daily Rainfall archive situation ##
+<a id="The-current-Daily-Rainfall-Archive-situation"></a>
+## The current Daily Rainfall Archive situation ##
 
 These Met Office web pages detail the current locations of the National Meteorological Archive: 
 
@@ -286,11 +305,11 @@ Many of the Daily Rainfall forms have now been scanned to produce digital images
 
 ### Digitised rainfall values ###
 
-Only a small proportion of the pre-1962 Daily Rainfall forms have been transcribed into digital form. Figure 1(b) of [this paper](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.78) 
-shows the amount of digitised daily rainfall data available per year as of 2019, Before 1960, the data from only a few hundred stations has been digitised, compared to about 
-4,500 after then (the point at which machine processing of daily rainfall records became standard, meaning all daily rainfall data was digitised by the Met Office very soon after receipt each month).
+Only a small proportion of the pre-1962 Daily Rainfall forms for the UK have been transcribed into digital form. Figure 1(b) of [this paper](https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.78) 
+shows the amount of digitised UK daily rainfall data available per year as of 2019, Before 1960, the data from only a few hundred stations has been digitised, compared to about 
+4,500 after then (the point at which machine processing of daily rainfall records became standard, meaning all daily rainfall data was routinely digitised by the Met Office very soon after receipt each month).
 
 [Note that the monthly rainfall digitisation situation shown on the same plot is now out-of-date - see the 2020 [Rainfall Rescue project](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.157).]
 
-Met Éireann have transcribed some of the Daily Rainfall forms in their archive - see [Ireland’s pre-1940 daily rainfall records](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.103)
+Met Éireann have transcribed some of the historical Daily Rainfall forms in their archive - see [Ireland’s pre-1940 daily rainfall records](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.103)
 
