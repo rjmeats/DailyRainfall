@@ -147,11 +147,17 @@ Summary of identified Printers
 ## References to the Rainfall Archives
 
 Shown below are a collection of mentions of the physical rainfall forms or their archives in Met Office documents (not an exhaustive search) over the DRain archive period. They show how the 
-forms moved around various office locations, starting from British Rainfall Organization's long term home at 62, Camden Square, and ending in the newly built Met Office archive building in Bracknell,
+forms moved around various office locations, starting from British Rainfall Organization's long-term home at 62, Camden Square, and ending in the newly built Met Office archive building in Bracknell,
 or in Edinburgh, Belfast or Dublin.
 
 ### 62, Camden Square ###
 
+* British Rainfall 1890, p8, where Symons identifies 1872 as the time when large-scale collection of daily rainfall records began
+	
+	<img src="page_images/BR_1890.1872_daily_collection.adj.jpg" style="width:500px">
+	
+	This coincided with the building of an office in the garden of 62, Camden Square (see British Rainfall 1871 and 1872), and the taking on of the first permanent assistant.
+	
 * Minutes of Meteorological Committee meeting, 30th July 1919, from the document agreeing the transfer of the British Rainfall Organization to the Met Office:
 
 	<img src="page_images/MCMinutes_191907.rainfall_record.adj.jpg" style="width:500px">
