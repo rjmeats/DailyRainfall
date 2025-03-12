@@ -304,4 +304,5 @@ The main British Rainfall Organization / Met Office rainfall forms had letter/nu
 |1921+|1090(in) 1091(mm) 1092(hrs)|1093(in) 1094(mm)|1096(in) 1097(mm)|
 |later|||1098(?) 1099(in) 1100(mm)|
 
+In 1925, the main Daily Rainfall form 1090 (1091 for mm) expanded to become double-sided; section B on the back was based on the 1x12 monthly form.
 
