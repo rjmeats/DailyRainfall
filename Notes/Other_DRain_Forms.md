@@ -13,6 +13,18 @@ This note provides examples of some of the 'other standard forms' cases above, d
 
 <hr/>
 
+## Contents
+
+* [Forms for daily rainfall reporting over a one month period](#Forms-for-daily-rainfall-reporting-over-a-one-month-period)
+* [Forms for monthly rainfall reporting over a one year period](#Forms-for-monthly-rainfall-reporting-over-a-one-year-period)
+* [Daily Rainfall Duration forms](#Daily-rainfall-duration-forms)
+* [Miscellaneous other rainfall-related forms](#Miscellaneous-other-rainfall-related-forms)
+* [Summary of Form Identifiers](#Summary-of-form-identifiers)
+
+
+<hr/>
+
+<a id="Forms-for-daily-rainfall-reporting-over-a-one-month-period"></a>
 ## Forms for daily rainfall reporting over a one month period
 
 Examples of postcard-size forms covering a single month, with 31 daily rows and aggregates for the month. (In practice, some of the examples have been used
@@ -104,6 +116,7 @@ Not located in 'DRain' examples, but Form 1092 is referenced in the Meteorologic
 
 <hr/>
 
+<a id="Forms-for-monthly-rainfall-reporting-over-a-one-year-period"></a>
 ## Forms for monthly rainfall reporting over a one year period
 
 Examples of small forms for recording monthly values for a year, with 12 monthly rows and aggregates for the year.
@@ -191,6 +204,7 @@ Not located in 'Drain' examples, but there are example 1860s forms versions:
 
 <hr/>
 
+<a id="Daily-rainfall-duration-forms"></a>
 ## Daily Rainfall Duration forms ###
 
 A few stations with automatic rainfall recorders reported daily rainfall duration (in hours) as well as the amount of rainfall. The British Rainfall
@@ -227,6 +241,9 @@ Organization provided a dedicated 12x31 form for this on green paper, similar to
 </table>
 
 
+<hr/>
+
+<a id="Miscellaneous-other-rainfall-related-forms"></a>
 ## Miscellaneous other rainfall-related forms
 
 ### Negretti and Zambra Daily Rainfall form
@@ -293,6 +310,9 @@ assigning it to the *previous* day, and ii) the observer has not filled in the s
 </table>
 
 
+<hr/>
+
+<a id="Summary-of-form-identifiers"></a>
 ## Summary of Form Identifiers
 
 The main British Rainfall Organization / Met Office rainfall forms had letter/number identifiers assigned to them from the early 1900s onwards.
