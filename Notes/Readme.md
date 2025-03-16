@@ -5,3 +5,4 @@ in the [Met Office Online Archive](https://digital.nmla.metoffice.gov.uk/):
 * [Gallery of Daily Rainfall Form Versions](Daily_Rainfall_Form_Gallery.md)
 
 * ['No rainfall' Indicators on Daily Rainfall Forms](No_Rain_Indicators.md)
+* [Snow Indicators on Daily Rainfall Forms](Snow_Indicators.md)
