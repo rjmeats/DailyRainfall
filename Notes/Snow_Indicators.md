@@ -17,7 +17,10 @@ The note also shows how the instructions for handling snow in relation to daily 
 	* [Examples of full word 'Snow'](#examples-of-full-word-snow)
 	* [Examples of other snow indicators](#examples-of-other-snow-indicators)
 * [Instructions for measuring snow as rainfall](#instructions-for-measuring-snow-as-rainfall)
-
+	* [Instructions on the Daily Rainfall form](#instructions-on-the-daily-rainfall-form)
+	* [Pamphlet and similar instructions](#pamphlet-and-similar-instructions)
+* [1950s Instructions](#1950s-instructions)
+* [Some snow articles in British Rainfall](#some-snow-articles-in-british-rainfall)
 
 
 <hr/>
@@ -224,6 +227,8 @@ a separate pamphlet, which included more detailed guidance on handling snow. In 
 
 From the mid-1920s, some instructions appeared on the Daily Rainfall form again, now on the back, but these did not cover snow aspects.
 
+<a id="instructions-on-the-daily-rainfall-form"></a>
+
 ### Instructions on the Daily Rainfall form
 
 The initial '136 Camden Square' version of the form said to melt the collected snow or to convert the average depth of snow to a rainfall amount by dividing by 12:
@@ -246,12 +251,16 @@ From 1879 onwards, the detailed snow and other instructions on the form were rep
 
 <img src="snow_images/DRain_1871-1880_Cambridgeshire_p6.instructions.jpg" style="width:800px">
 
+When the Daily Rainfall form became two-sided in 1924, the instructions on the back did not give any guidance on snow handling until 1955 (see later section).
+
+<a id="pamphlet-and-similar-instructions"></a>
+
 ### Pamphlet and similar instructions
 
 The Met Office Online Archive does not seem to contain any of the various 'Rules for Rainfall Observer' and similar pamphlets issued by the British Rainfall Organisation over time. However parts of
 them, including the rules, were sometimes printed in annual *British Rainfall* editions. And editions of *British Rainfall* before the first pamphlet (~1878) also listed similar rules.
 
-The extracts below show a few sample snapshots of the snow rules (often appearing as Rule XV):
+The extracts below show a few sample snapshots of the snow rules (often appearing as Rule XV and later as Rule 13):
 
 British Rainfall 1864 p12:
 
@@ -266,6 +275,47 @@ further note at the end of the snow rules to day that Snowdon gauges were the be
 
 <img src="snow_images/BR_1876.snow_instructions.adj.jpg" style="width:500px">
 
+The instructions pamphlet, including the snow section, was revised in the early 1900s, with the final snapshot being provided in British Rainfall 1908 p304:
 
+<img src="snow_images/BR_1908.snow_instructions.adj.jpg" style="width:500px">
 
+<hr/>
+<a id="1950s-instructions"></a>
 
+## 1950s Instructions
+
+The 1955 version of the Daily Rainfall form introduced a new instruction on the back relating to snow recording:
+
+<img src="snow_images/DRain_1959_Wigtown_To_Argyll_Part1_p198.instructions.jpg" style="width:500px">
+
+and also added a space for recording 'Notes on Snowfall'. 
+
+British Rainfall 1953 (published in 1955) says that the Met Office had taken over the 'Snow Survey of Great Britain' from the British
+Glaciological Society', which may be a reason for the appearance of these new snow instructions.
+
+A quick search of late 1950s Daily Rainfall forms didn't find much actual usage relating to these instructions, but here are examples:
+
+* provision of the requested 'a', 'b', 'c' values:
+
+	<img src="snow_images/DRain_1960_Clackmannan_To_Shetland_Part1_p17.abc.jpg" style="width:300px">
+
+* 'Notes on snowfall' filled in:
+
+	<img src="snow_images/DRain_1960_Wigtown_to_Argyll_Part1_p144.snow_notes.jpg" style="width:400px">
+
+<a id="some-snow-articles-in-british-rainfall"></a>
+
+## Some snow articles in British Rainfall
+
+Snow measurement was debated quite often in the early volumes of *British Rainfall*.
+
+* 'The Measurement of Snow' in British Rainfall 1888 references and reviews many early discussions and articles 
+* Colonel Ward's 'On the Measurement of Snow' in British Rainfall 1874, with updates in subsequent years, led to Symons recommending the use of
+the 'Snowdon' type rain gauge, with its funnel set down in the tube to allow snow to collect. Ward's report also highlighted how approximate the '12 inches of
+snow = 1 inch of rainfall' was, with the actual factor varying enormously depending on the density of the snow.
+
+Several articles describe in detail snowfall events. These don't directly relate to Daily Rainfall recording or measurement instructions, but a couple to mention are:
+
+* 'The Christmas Snow Storm of 1906' in British Rainfall 1906 describes how the British Rainfall Organization interruped its Christmas break to set up a detailed country-wide survey
+of the heavy snow which fell on 25th-26th December 1906. 
+* 'Snowfall in The British Isles during the half-century 1876-1925' in British Rainfall 1927 by L.C.W.Bonacina with decadal follow-ups in British Rainfall 1936, 1948 and 1955.
