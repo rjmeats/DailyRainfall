@@ -8,3 +8,4 @@ Notes on aspects of the DRain archive:
 * [Gallery of Daily Rainfall Form Versions](Notes/Daily_Rainfall_Form_Gallery.md)
 
 * ['No rainfall' Indicators on Daily Rainfall Forms](Notes/No_Rain_Indicators.md)
+* [Snow Indicators on Daily Rainfall Forms](Notes/Snow_Indicators.md)
