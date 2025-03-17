@@ -16,6 +16,7 @@ Year numbers shown below relate to the year given in the Printing codes on the f
 * [Printers](#Printers)
 * [References to the Rainfall Archives](#References-to-the-Rainfall-Archives)
 * [The current Daily Rainfall Archive situation ](#The-current-Daily-Rainfall-Archive-situation)
+* [Rules pamphlet](#Rules-pamphlet)
 
 <hr/>
 
@@ -337,4 +338,29 @@ shows the amount of digitised UK daily rainfall data available per year as of 20
 [Note that the monthly rainfall digitisation situation shown on the same plot is now out-of-date - see the 2020 [Rainfall Rescue project](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.157).]
 
 Met Éireann have transcribed some of the historical Daily Rainfall forms in their archive - see [Ireland’s pre-1940 daily rainfall records](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.103)
+
+
+<hr/>
+
+<a id="Rules-pamphlet"></a>
+## Rules pamphlet
+
+In British Rainfall 1878 (p9), Symons describes a pamphlet he has recently written and distributed to two or three thousand observers:
+
+<img src="page_images/BR_1878.pamphlet.adj.jpg" style="width:400px">
+
+
+With the arrival of this pamphlet, the daily Rainfall Form from 1879 onwards was changed so that detailed instructions were removed from the form, replaced by a reference to the pamphlet.
+
+<img src="page_images/DRain_1871-1880_Cambridgeshire_p0006.pamphlet.jpg" style="width:800px">
+
+The name of the pamphlet as reported on the form changed over time, becoming simply 'Rules for Rainfall Observers' about 25 years later as part of a revision noted in British Rainfall 1903 (p13):
+
+|Version|Pamphlet Title|
+|:------|:-------------|
+|K/3,000/12/79|Arrangements for the Systematic Observation and Record of the Rainfall of the British Isles|
+|K/3,000/12/83|Arrangements respecting the Systematic Observation and Record of the Rainfall of the British Isles|
+|K/3,000/12/00|Arrangements respecting the Systematic Observation and Record of the Rainfall|
+|K/4,000/11/02|The British Rainfall Organization - Rules for Rainfall Observers|
+|K/5000/10/03|Rules for Rainfall Observers|
 
