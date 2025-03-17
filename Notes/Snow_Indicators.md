@@ -316,6 +316,6 @@ snow = 1 inch of rainfall' was, with the actual factor varying enormously depend
 
 Several articles describe in detail snowfall events. These don't directly relate to Daily Rainfall recording or measurement instructions, but a couple to mention are:
 
-* 'The Christmas Snow Storm of 1906' in British Rainfall 1906 describes how the British Rainfall Organization interruped its Christmas break to set up a detailed country-wide survey
+* 'The Christmas Snow Storm of 1906' in British Rainfall 1906 describes how the British Rainfall Organization interrupted its Christmas break to set up a detailed country-wide survey
 of the heavy snow which fell on 25th-26th December 1906. 
 * 'Snowfall in The British Isles during the half-century 1876-1925' in British Rainfall 1927 by L.C.W.Bonacina with decadal follow-ups in British Rainfall 1936, 1948 and 1955.
