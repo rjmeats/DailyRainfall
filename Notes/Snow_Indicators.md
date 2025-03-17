@@ -211,10 +211,61 @@ Other symbol with explanatory footnote
 </td>
 </tr>
 </table>
+
+
+
 <hr/>
 
 <a id="instructions-for-measuring-snow-as-rainfall"></a>
 ## Instructions for measuring snow as rainfall
 
-... tbc ...
+The Daily Rainfall form had brief instructions for how to convert snowfall into a rainfall amount up to 1878. After that, instructions were moved from the form into
+a separate pamphlet, which included more detailed guidance on handling snow. In parallel with this, snow-handling was discussed in various early editions of *British Rainfall*
+
+From the mid-1920s, some instructions appeared on the Daily Rainfall form again, now on the back, but these did not cover snow aspects.
+
+### Instructions on the Daily Rainfall form
+
+The initial '136 Camden Square' version of the form said to melt the collected snow or to convert the average depth of snow to a rainfall amount by dividing by 12:
+
+<img src="snow_images/DRain_1861-1870_Leicestershire_p6.instructions.jpg" style="width:800px">
+
+The 1872 version of the form introduced an easier-to-calculate example of the '12 inches of snow = 1 inch of rain' approximation:
+
+<img src="snow_images/DRain_1871-1880_Cambridgeshire_p20.instructions.jpg" style="width:800px">
+
+The 1875 form suggested using a known amount of warm water to melt the snow:
+
+<img src="snow_images/DRain_1871-1880_Cambridgeshire_p67.instructions.jpg" style="width:800px">
+
+The 1876 form went back to the previous wording:
+
+<img src="snow_images/DRain_1871-1880_Cambridgeshire_p100.instructions.jpg" style="width:800px">
+
+From 1879 onwards, the detailed snow and other instructions on the form were replaced by a reference to a pamphlet:
+
+<img src="snow_images/DRain_1871-1880_Cambridgeshire_p6.instructions.jpg" style="width:800px">
+
+### Pamphlet and similar instructions
+
+The Met Office Online Archive does not seem to contain any of the various 'Rules for Rainfall Observer' and similar pamphlets issued by the British Rainfall Organisation over time. However parts of
+them, including the rules, were sometimes printed in annual *British Rainfall* editions. And editions of *British Rainfall* before the first pamphlet (~1878) also listed similar rules.
+
+The extracts below show a few sample snapshots of the snow rules (often appearing as Rule XV):
+
+British Rainfall 1864 p12:
+
+<img src="snow_images/BR_1864.snow_instructions.adj.jpg" style="width:500px">
+
+British Rainfall 1871 p162:
+
+<img src="snow_images/BR_1871.snow_instructions.adj.jpg" style="width:500px">
+
+British Rainfall 1875 added a warning to the rule section (3) that the 'divide snow depth by 12' approach was very approximate, and only to be used as a last resort. British Rainfall 1876 added a 
+further note at the end of the snow rules to day that Snowdon gauges were the best to use for snow. The text used in British Rainfall 1876 for Rule XV is that used in the original version of the pamphlet:
+
+<img src="snow_images/BR_1876.snow_instructions.adj.jpg" style="width:500px">
+
+
+
 
