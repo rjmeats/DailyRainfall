@@ -4,6 +4,8 @@ Some additional details and summaries relating to the [Evolution of the British 
 
 Year numbers shown below relate to the year given in the Printing codes on the first version of the Daily Rainfall form to show a particular feature.
 
+<hr/>
+
 ## Contents
 
 * [Number of form versions identified](#Number-of-form-versions-identified)
@@ -14,6 +16,8 @@ Year numbers shown below relate to the year given in the Printing codes on the f
 * [Printers](#Printers)
 * [References to the Rainfall Archives](#References-to-the-Rainfall-Archives)
 * [The current Daily Rainfall Archive situation ](#The-current-Daily-Rainfall-Archive-situation)
+
+<hr/>
 
 <a id="Number-of-form-versions-identified"></a>
 ## Number of form versions identified
@@ -28,6 +32,8 @@ as well as more than 20 millimetre versions of the form from 1919 onwards.
 |**Total**|95|24|119|
 
 There may be a few more versions to be discovered, for example no version for 1880 was found in the samples.
+
+<hr/>
 
 <a id="Print-run-size-over-time"></a>
 ## Print-run size over time
@@ -44,6 +50,8 @@ If the values extracted from the Printing code really are print-run sizes, it lo
 Adding up these print-run sizes produces a total around 600,000 Daily Rainfall forms printed up to 1950. This compares to about 360,000 images in the combined DRain volumes, although
 that number contains forms from 1951-1962 (and a few very early ones), does not contain any Irish stations or records for Scotland before 1922, not all images are of Daily Rainfall forms, and some forms 
 appear twice, as separate front and back images. So very roughly, perhaps around half of the printed forms ended up being used, returned and stored in the Met Office archives.
+
+<hr/>
 
 <a id="Major-form-layout-changes"></a>
 ## Major form layout changes
@@ -71,6 +79,8 @@ appear twice, as separate front and back images. So very roughly, perhaps around
 |1920|Third 'Totals' line added, used for further rain days counts|
 |1933|'Spare' column added between 'December' and the second 'Date' columns|
 
+<hr/>
+
 <a id="Major-organisational-changes"></a>
 ## Major organisational changes
 
@@ -78,8 +88,11 @@ appear twice, as separate front and back images. So very roughly, perhaps around
 |:----------|:----|
 |1868/69|First version, George Symons' British Rainfall Organization|
 |1900|H Sowerby Wallis and Hugh Robert Mill take over the running of the British Rainfall Organization|
+|1910|Assets of the British Rainfall Organization transferred by Hugh Robert Mill to a Trust| 
 |1919|British Rainfall Organization taken over by the Met Office, within the Air Ministry|
 |1957|British Rainfall Organization becomes part of the larger Met Office 'British Rainfall and Hydrology' department|
+
+<hr/>
 
 <a id="Addresses"></a>
 ## Addresses
@@ -105,6 +118,8 @@ Changes to the addresses shown on the form were as follows:
 |1961|[London Road, Bracknell, Berkshire](https://maps.nls.uk/geo/explore/#zoom=17.2&lat=51.41704&lon=-0.74325&layers=258&b=7&o=100&marker=51.416565,-0.743400)|Move to Bracknell from Harrow|
 
 See [Meteorological Magazine January 1986](https://digital.nmla.metoffice.gov.uk/IO_05540c5b-a4b4-457b-a074-414e759166c6/) for an account of Met Office war-time arrangements at Stonehouse.
+
+<hr/>
 
 <a id="Printers"></a>
 ## Printers
@@ -142,6 +157,8 @@ Summary of identified Printers
 |1953-1957|Fosh & Cross Ltd|London||
 |1958-1960|The Gatwick Press, Ltd|||
 |1961|The Kenion Press Ltd|||
+
+<hr/>
 
 <a id="References-to-the-Rainfall-Archives"></a>
 ## References to the Rainfall Archives
@@ -265,6 +282,8 @@ The 2023 [Met Office Library factsheet 12](https://www.metoffice.gov.uk/binaries
 about the Archive describes further relocations after the initial move to Bracknell:
 * in October 1991 the Archive moved to the Stirling Centre in Bracknell
 * in March 2005 the Archive moved to Great Moor House in Exeter
+
+<hr/>
 
 <a id="The-current-Daily-Rainfall-Archive-situation"></a>
 ## The current Daily Rainfall Archive situation ##
