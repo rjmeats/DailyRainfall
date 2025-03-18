@@ -197,18 +197,24 @@ At the same time, a sentence was added to instruction 2(a) to clarify that '9 a.
 
 <img src="page_images/13000_9_26.hour_of_observation_instruction.jpg" style="width:400px">
 
-British Summer Time was first introduced in 1916 and [British Rainfall 1916](https://digital.nmla.metoffice.gov.uk/IO_7a18d373-0737-4d68-a77b-ecbc2255d311/) p11 discusses the confusion this caused: 
+British Summer Time was first introduced on May 21st 1916, just as British Rainfall 1915 was being finalised, and apparently at short notice. Hugh Robert Mill resorted to publishing letters in
+daily and local papers to try to inform observers of the need to perform their daily rainfall measurements at 10 am clock time rather than 9 am while Summer Time applied. This section of British
+Rainfall 1915 (p9-10) explains the situation and concerns:
+
+<img src="page_images/BR_1915.summer_time.adj.jpg" style="width:500px">
+
+The following year, [British Rainfall 1916](https://digital.nmla.metoffice.gov.uk/IO_7a18d373-0737-4d68-a77b-ecbc2255d311/) p11 discusses the confusion this caused: 
 
 <img src="page_images/BR_1916.summer_time.adj.jpg" style="width:500px">
 
-It's a bit surprising that the Daily Rainfall form only reacts to this a decade later.
+It's a bit surprising that the Daily Rainfall form only reacts to this change a decade later.
 
 ### Edinburgh Address I
 
 The Edinburgh Met Office address was updated in the "11,500&nbsp;12/25" version of the Daily Rainfall form to be 6, Drumsheugh Gardens  rather than the previous 10 Rothesay Place. The Met Office 1925-26 Annual
 Report (p57) explains the move:
 
-<img src="page_images/MOAR_1925-26.form_edinburgh.adj.jpg" style="width:400px">
+<img src="page_images/MOAR_1925-26.form_edinburgh.adj.jpg" style="width:500px">
 
 ### Example Millimetre-based double-sided form
 
