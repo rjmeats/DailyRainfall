@@ -68,6 +68,8 @@ which is significantly earlier than the Printing code year; in these cases, the 
 
 The accompanying [Gallery of Daily Rainfall Forms](Daily_Rainfall_Form_Gallery.md) displays an example of each Daily Rainfall form version discovered in the sample volumes, presented in time order.
 
+There are also [PDF versions of the Gallery](Daily_Rainfall_Form_Gallery_pdfs.md).
+
 ## Completeness
 
 There are over 1000 DRain volumes in the Met Office Online Archive, comprising over 360,000 scanned images, most of which are Daily Rainfall forms. These notes have been compiled by sampling a few
