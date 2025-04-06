@@ -308,3 +308,5 @@ When instructions were added to the back of the Daily Rainfall form in the 1920s
 
 
 </details>
+
+... to be continued ...
