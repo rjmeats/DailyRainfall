@@ -197,7 +197,7 @@ of the Daily Rainfall form.
 
 British Rainfall 1900 p122-123:
 
-<img src="wrong_day_images/BR_1900.rainfall_day_non_conformance.part1.adj.jpg" style="width:500px">
+<img src="wrong_day_images/BR_1900.rainfall_day_non_conformance.part1.adj.jpg" style="width:500px"><br/>
 <img src="wrong_day_images/BR_1900.rainfall_day_non_conformance.part2.adj.jpg" style="width:500px">
 
 British Rainfall 1901 p10:
@@ -255,7 +255,7 @@ impact/confusion that the Daylight Saving Bill would have.]
 British Rainfall 1908 (p11-12) describes the problems caused by 'Wrong day' records relating to heavy rain on 31st August 1908 that was mis-attributed to 1st September. As a 
 result, Hugh Robert Mill decided to modify the Daily Rainfall form (Form 'A'):
 
-<img src="wrong_day_images/BR_1908.rainfall_day_non_conformance.part1.adj.jpg" style="width:500px">
+<img src="wrong_day_images/BR_1908.rainfall_day_non_conformance.part1.adj.jpg" style="width:500px"><br/>
 <img src="wrong_day_images/BR_1908.rainfall_day_non_conformance.part2.adj.jpg" style="width:500px">
 
 The modifications to the top of the Daily Rainfall form . A low-key change had been introduced to the 1906 version of the form to remind observers of the 
