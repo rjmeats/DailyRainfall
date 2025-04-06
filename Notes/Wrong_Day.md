@@ -151,7 +151,7 @@ British Rainfall 1891 p8 had a similar message:
 
 British Rainfall 1894 p8-9:
 
-<img src="wrong_day_images/BR_1894.rainfall_day_non_conformance.part1.adj.jpg" style="width:500px">
+<img src="wrong_day_images/BR_1894.rainfall_day_non_conformance.part1.adj.jpg" style="width:500px"><br/>
 <img src="wrong_day_images/BR_1894.rainfall_day_non_conformance.part2.adj.jpg" style="width:500px">
 
 British Rainfall 1895 p117:
