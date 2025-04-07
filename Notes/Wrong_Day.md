@@ -1,7 +1,7 @@
 # Daily Rainfall forms and 'Wrong Day' reporting
 
-This note looks at aspects of the 'Wrong Day' scenario, where an observer doesn't follow the normal convention for assigning daily rainfall measurements to a particular
-day on the Daily Rainfall form. It is based on articles and instructions in [British Rainfall annuals](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_29627928-7fb1-43b2-b7ad-f63509127917)
+This note looks at aspects of the 'Wrong Day' situation, where an observer did not follow the normal convention for assigning daily rainfall measurements to a particular
+day on the Daily Rainfall form. The note is based on articles and instructions in [British Rainfall annuals](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_29627928-7fb1-43b2-b7ad-f63509127917)
 and samples from a few of the ['DRain' PDF volumes](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_9903efdf-7f99-4cae-a723-8b3f426eea20) scanned rainfall sheets in the Met Office Online Archive. 
 
 ## Contents
@@ -11,6 +11,7 @@ and samples from a few of the ['DRain' PDF volumes](https://digital.nmla.metoffi
   * [Establishing the 'Rainfall day' conventions](#establishing-the-rainfall-day-conventions)
   * [Rule IX non-conformance I - the Symons era](#rule-ix-non-conformance-i-the-symons-era)
   * [Rule IX non-conformance II - Mill's Campaign](#rule-ix-non-conformance-ii-mills-campaign)
+* [Converting 'Wrong day' to 'Rainfall day'](#converting-wrong-day-to-rainfall-day)
 
 
 <hr/>
@@ -39,7 +40,7 @@ Completed 'Wrong day' forms often have adjustments applied to them in red ink, f
 
 <a href="wrong_day_images/DRain_1929_Clackmannan_To_Shetland_Part2_p0073.jpg"><img src="wrong_day_images/DRain_1929_Clackmannan_To_Shetland_Part2_p0073.thumbnail.jpg" style="width:250px"></a>
 
-This note looks at a few aspects of the 'Wrong day' phenomenon, including:
+This note looks at a few aspects of 'Wrong day', including:
 
 * ???? 
 
@@ -306,7 +307,64 @@ When instructions were added to the back of the Daily Rainfall form in the 1920s
 
 <img src="wrong_day_images/13000-9-26.rainfall_day.jpg" style="width:400px">
 
-
 </details>
 
-... to be continued ...
+<hr/>
+
+<div style="page-break-after: always;"></div>
+
+<a id="converting-wrong-day-to-rainfall-day"></a>
+## Converting 'Wrong day' to 'Rainfall day'
+
+The diagram below summarises the relationship between the numbering of the normal calendar day, the standard rainfall day and rainfall recorded using 'wrong day':
+
+<img src="wrong_day_images/rainfall_day.diagram.jpg" style="width:800px">
+
+* for rainfall purposes, the day runs for 24 hours from 9 a.m. to  9 a.m.
+* the standard rainfall day is numbered after the calendar day on which the rainfall day starts
+* whereas for 'wrong day' recording, the day is numbered after the calendar day on which the rainfall day ends
+
+**Examples**
+
+Daily recording:
+
+* for the standard rainfall day, rainfall which fell between 9 a.m. on April 1st and 9 a.m. on April 2nd is recorded against April 1st
+* but rainfall for this same period is recorded against April 2nd when 'wrong day' reporting is being applied
+  * .. and the rainfall assigned to April 1st is then the rain which fell between 9 a.m. on the March 31st and 9 a.m. on the April 1st
+
+Similarly, for monthly recording:
+
+* the standard April rainfall month covers rain which falls between 9 a.m. on April 1st and 9 a.m. on May 1st
+* but the 'wrong day' April rainfall month covers rain which falls between 9 a.m. on the March 31st and 9 a.m. on April 30th
+
+and for annual rainfall recording:
+
+* the standard rainfall year covers rain which falls between 9 a.m. on January 1st and 9 a.m. on the January 1st of the following year 
+* but the 'wrong day' rainfall year covers rain which falls between 9 a.m. on December 31st of the previous year and 9 a.m. on December 31st
+
+**Example Conversions**
+
+Where a Daily Rainfall form has been systematically filled in with daily rainfall values using 'wrong day' reporting, daily, monthly and annual values
+can be converted to standard rainfall day periods as follows:
+
+* for daily rainfall, assign the 'Wrong day' daily figure to the preceding day
+
+* for monthly rainfall, standard monthly rainfall is calculated from:
+
+   ['Wrong day' monthly rainfall] - ['Wrong day' figure for 1st of the month] + ['Wrong day' figure for the 1st of the following month]
+
+* for annual rainfall, standard annual rainfall is calculated from:
+
+   ['Wrong day' annual rainfall] - ['Wrong day' figure for January 1st] + ['Wrong day' figure for January 1st of the following year]
+
+**January 1st of the following year**
+
+The 'Wrong day' rainfall for January 1st of the following year is needed for converting December and annual rainfall from 'Wrong day' to standard reporting, but the
+January 1st figure belongs to next year's Daily Rainfall form. Because of this, the 'Jan. 1 following' box was added to the top of the Daily Rainfall form in 1909,
+allowing the conversion to be made promptly. 
+
+<img src="wrong_day_images/6000-V-09.rainfall_day.jan1.jpg" style="width:800px">
+
+The British Rainfall Organization also had a [prepared letter](page_images/DRain_1911-1920_RainNos_Nottinghamshire_p0329.jpg) to send to observers asking for the January 1st reading where necessary:
+
+
