@@ -316,55 +316,72 @@ When instructions were added to the back of the Daily Rainfall form in the 1920s
 <a id="converting-wrong-day-to-rainfall-day"></a>
 ## Converting 'Wrong day' to 'Rainfall day'
 
-The diagram below summarises the relationship between the numbering of the normal calendar day, the standard rainfall day and rainfall recorded using 'wrong day':
-
-<img src="wrong_day_images/rainfall_day.diagram.jpg" style="width:800px">
+A summary of the normal calendar day, the standard rainfall day and rainfall recorded using 'wrong day':
 
 * for rainfall purposes, the day runs for 24 hours from 9 a.m. to  9 a.m.
 * the standard rainfall day is numbered after the calendar day on which the rainfall day starts
 * whereas for 'wrong day' recording, the day is numbered after the calendar day on which the rainfall day ends
 
-**Examples**
+<img src="wrong_day_images/rainfall_day.diagram.jpg" style="width:800px">
 
-Daily recording:
+### Examples
 
-* for the standard rainfall day, rainfall which fell between 9 a.m. on April 1st and 9 a.m. on April 2nd is recorded against April 1st
-* but rainfall for this same period is recorded against April 2nd when 'wrong day' reporting is being applied
-  * .. and the rainfall assigned to April 1st is then the rain which fell between 9 a.m. on the March 31st and 9 a.m. on the April 1st
+Daily recording, e.g. for rainfall falling between 9 a.m. on April 1st and 9 a.m. on April 2nd::
 
-Similarly, for monthly recording:
+* for the standard rainfall day, this rainfall is recorded against April 1st
+* but when 'wrong day' reporting is being applied, this rainfall is recorded against April ***2nd***
+  * .. and the rainfall assigned to April 1st then being the rain between 9 a.m. on March 31st and 9 a.m. on April 1st
+
+Monthly rainfall recording: e.g. for April:
 
 * the standard April rainfall month covers rain which falls between 9 a.m. on April 1st and 9 a.m. on May 1st
-* but the 'wrong day' April rainfall month covers rain which falls between 9 a.m. on the March 31st and 9 a.m. on April 30th
+* but the 'wrong day' April rainfall month covers rain which falls between 9 a.m. on March 31st and 9 a.m. on April 30th
 
-and for annual rainfall recording:
+Annual rainfall recording:
 
-* the standard rainfall year covers rain which falls between 9 a.m. on January 1st and 9 a.m. on the January 1st of the following year 
+* the standard rainfall year covers rain which falls between 9 a.m. on January 1st and 9 a.m. on January 1st of the following year 
 * but the 'wrong day' rainfall year covers rain which falls between 9 a.m. on December 31st of the previous year and 9 a.m. on December 31st
 
-**Example Conversions**
+### Converting 'Wrong day' rainfall for a period to standard periods
 
-Where a Daily Rainfall form has been systematically filled in with daily rainfall values using 'wrong day' reporting, daily, monthly and annual values
-can be converted to standard rainfall day periods as follows:
+Where a Daily Rainfall form has been systematically filled in with daily rainfall values using 'wrong day' reporting, the wrong-day (WD) figures can be converted to 
+standard daily, monthly and annual values as follows:
 
-* for daily rainfall, assign the 'Wrong day' daily figure to the preceding day
+* for daily rainfall, the 'calculation' is just:
+
+  *Assign the 'Wrong day' daily figure to the preceding day*
+  
+  For example:
+  
+  * WD April 2nd rainfall is assigned to April 1st
+  * WD January 1st rainfall is assigned to December 31st of the preceding year
 
 * for monthly rainfall, standard monthly rainfall is calculated from:
 
-   ['Wrong day' monthly rainfall] - ['Wrong day' figure for 1st of the month] + ['Wrong day' figure for the 1st of the following month]
+  <img src="wrong_day_images/rainfall_day.monthly.diagram.jpg" style="width:800px">
+
+  *[WD monthly rainfall] - [rainfall for WD 1st of the month] + [rainfall for WD 1st of the following month]*
+   
+  For example:
+   
+  * standard April rainfall = WD April rainfall - WD April 1st rainfall + WD May 1st rainfall
+  * standard December rainfall = WD December rainfall - WD December 1st rainfall + WD January 1st next year rainfall
 
 * for annual rainfall, standard annual rainfall is calculated from:
 
-   ['Wrong day' annual rainfall] - ['Wrong day' figure for January 1st] + ['Wrong day' figure for January 1st of the following year]
+  *[WD annual rainfall] - [rainfall for WD January 1st] + [rainfall for WD January 1st of the following year]*
 
-**January 1st of the following year**
+### January 1st of the following year on the Daily Rainfall form
 
 The 'Wrong day' rainfall for January 1st of the following year is needed for converting December and annual rainfall from 'Wrong day' to standard reporting, but the
-January 1st figure belongs to next year's Daily Rainfall form. Because of this, the 'Jan. 1 following' box was added to the top of the Daily Rainfall form in 1909,
-allowing the conversion to be made promptly. 
+January 1st figure belongs to next year's Daily Rainfall form. Because of this, from 1909 the 'Jan. 1 following' box was added to the top of the Daily Rainfall form,
+allowing the conversions to be made promptly when the form was received.
 
 <img src="wrong_day_images/6000-V-09.rainfall_day.jan1.jpg" style="width:800px">
 
-The British Rainfall Organization also had a [prepared letter](page_images/DRain_1911-1920_RainNos_Nottinghamshire_p0329.jpg) to send to observers asking for the January 1st reading where necessary:
+The British Rainfall Organization also had a [prepared letter](page_images/DRain_1911-1920_RainNos_Nottinghamshire_p0329.jpg) to send to observers asking for the January 1st reading where necessary.
 
 
+<hr/>
+
+... tbc ...
