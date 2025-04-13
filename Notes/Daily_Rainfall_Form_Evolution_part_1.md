@@ -333,19 +333,17 @@ From version K/4,000/11/02 onwards, the Note refers to an updated '*Rules for Ra
 
 ### Avoiding 'Wrong day' errors
 
+[A [separate note](Wrong_Day.md) covers the topic of 'Wrong day' reporting in more detail.]
+
 In the 1860s, the British Rainfall Organization standardised its 'recording day' to be 9 am to 9 am, with the rainfall being attributed to the first of the two calendar days involved. 
 
-* this was covered in the 'Condensed Instructions' which formed part of the early Daily Rainfall forms:
+This was covered in the 'Condensed Instructions' which formed part of the early Daily Rainfall forms:
 
-	<img src="page_images/1869.preceding_day.jpg" style="width:800px">
+<img src="page_images/1869.preceding_day.jpg" style="width:800px">
 	
-* the Condensed Instructions evolved into the separate *Arrangements for the Systematic Observation and Record of the Rainfall of the British Isles* pamphlet referenced from version K/3,000/12/79, including this text:
-
-	<img src="page_images/BR_1880.recording_day.adj.jpg" style="width:400px">
-
-* the *Rules for Rainfall Observers* document introduced from version K/4,000/11/02 stated the recording day as:
-
-	<img src="page_images/BR_1903.recording_day.adj.jpg" style="width:400px">
+and after that that in the instructions pamphlet which the forms referred:
+ 
+<img src="page_images/BR_1880.recording_day.adj.jpg" style="width:400px">
 
 In the early 1900s, Hugh Robert Mill realised that some observers were not following the recording day convention, and were recording the rainfall against the 'wrong' day. 
 

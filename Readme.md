@@ -9,3 +9,4 @@ Notes on aspects of the DRain archive:
 
 * ['No rainfall' Indicators on Daily Rainfall Forms](Notes/No_Rain_Indicators.md)
 * [Snow Indicators on Daily Rainfall Forms](Notes/Snow_Indicators.md)
+* [Daily Rainfall forms and 'Wrong Day' reporting](Notes/Wrong_Day.md)
