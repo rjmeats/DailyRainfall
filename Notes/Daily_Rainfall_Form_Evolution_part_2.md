@@ -335,6 +335,7 @@ the Instructions on the back of the form to say that 'The columns are so spaced 
 |10,000&nbsp;8/48|[Front](page_images/DRain_1948_Clackmannan_To_Shetland_Part1_p0001.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1948_Clackmannan_To_Shetland_Part1_p0002.jpg)|No changes.|
 |10,000&nbsp;9/49|[Front](page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0142.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0143.jpg)|[A and B] Partial year number pre-printed as '19' instead of '194'.|[Back] HMSO line has no year number.|
 |2/50|[Front](page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0146.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1950_Clackmannan_To_Shetland_Part1_p0147.jpg)|[A and B] Partial year number pre-printed as '195' instead of '19'. [A and B] Capitalisation removed from some words in metadata labels: Funnel/Gauge/Ground/Sea Level/Top. [B] '&c.' changed to 'etc.'. [D] Instruction 1) 'in the case of Scottish stations' inserted, Edinburgh address changed to 26 Palmerston Place. [D] Instruction 3(b)(B) is all in the right-hand column rather than split between columns. [D] Instruction 3(c) 'a' inserted before 'graduation'. [D] Instruction 4) on typewriter formatting has been removed. [Back] HMSO section expanded to a list of HMSO addresses. [Back] Printers details restored. [Back] Print-run size removed from Printing code in footer.|
+|1,375&nbsp;5/50&nbsp;[mm]|[Front](page_images/DRain_1950_Wigtown_To_Argyll_Part1_p0099.jpg)&nbsp;&middot;&nbsp;[Back](page_images/DRain_1950_Wigtown_To_Argyll_Part1_p0100.jpg)|Millimetre version only - extra 'Office Use Only' row added to the Totals area|
 
 ### Wartime changes
 
@@ -419,6 +420,15 @@ However, the Printing code for all subsequent versions of the form has no explic
 <img src="page_images/2_50.printing_code.jpg" style="width:300px">
 
 From this point on, form version numbers assigned here are just based on the month/year, so "2/50" for the example above.
+
+### 'Official Use Only' row for millimetre forms
+
+From version "1,375 5/50 [mm]" of the millimetre variant of the Daily Rainfall form, an addition row was present at the bottom of the Totals area. This was labelled 'Office Use Only' and provided a dedicated row
+in which the inches equivalent of the millimetre-based monthly totals could be added.
+
+<img src="page_images/1375_5_50.office_use_only.jpg" style="width:600px">
+
+As the example shows, in practice the row was not always used as intended.
 
 ### End of the 1940s form - "2/50"
 
