@@ -584,7 +584,7 @@ The form variants for the two measurement units were identical except for a few 
 
 However metadata fields (e.g. the diameter of the rain gauge funnel) on both used inches/feet, not metric units, on both variants of the form.
 
-\[British Rainfall volumes used both inches and millimetres in their table of annual rainfall for each station for the period 1914-1925, reverting backto just inches from 1926.\]
+\[British Rainfall volumes used both inches and millimetres in their table of annual rainfall for each station for the period 1914-1925, reverting back to just inches from 1926.\]
 
 ### Organisation names in the page banner
 
