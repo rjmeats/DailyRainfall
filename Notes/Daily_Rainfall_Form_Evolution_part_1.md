@@ -161,7 +161,6 @@ back of British Rainfall 1880. (The Met Office Online Archive doesn't currently 
 |Version|Notes|
 |:------|:----|
 |[K/3,000/12/79](page_images/DRain_1871-1880_Cambridgeshire_p0006.jpg)|Final form from the 1870s, for reference.|
-|???? 12/80|[May or may not exist - no form yet located with a late 1880 Printing code]|
 |[K/3,000/12/81](page_images/DRain_1881-1890_Cambridgeshire_p0066.jpg)||
 |[K/3,000/12/82](page_images/DRain_1881-1890_Cambridgeshire_p0003.jpg)||
 |[K/3,000/12/83](page_images/DRain_1881-1890_Cambridgeshire_p0004.jpg)|Vertical text on the left of the form removed; Stanford's name and address and the price of the form moved to the footer. 'Date' columns narrower; 'Total from Jan. 1' row label split over two lines. The 'Note' about the full instructions pamphlet has been re-worded, with a slight change to the pamphlet name. 'Height of Receiver' changed to 'Height of top' in the metadata section.|
@@ -290,7 +289,7 @@ The first reference to 'British Rainfall Organization' on the Daily Rainfall for
 
 <img src="page_images/K_4000_11_02.bro.jpg" style="width:700px">
 
-George Symons never seems to have used the term 'British Rainfall Organization' - the first usage may be by H Sowerby Wallis in Symon's obituary in the March 1900 Meteorological Magazine: 
+George Symons never seems to have used the term 'British Rainfall Organization' - the first usage may be by H. Sowerby Wallis in Symon's obituary in the March 1900 Meteorological Magazine: 
 
 <img src="page_images/MM_1900_03.bro.adj.jpg" style="width:400px">
 
@@ -298,7 +297,7 @@ British Rainfall 1899 (published in August 1900) also uses the term in its obitu
 
 ### Retirement of H. Sowerby Wallis
 
-H Sowerby Wallis retired in 1903, leaving Hugh Robert Mill to run the British Rainfall Organization alone.
+H. Sowerby Wallis retired in 1903, leaving Hugh Robert Mill to run the British Rainfall Organization alone.
 
 K/4,000/11/02 is the last to refer to Sowerby Wallis:
 

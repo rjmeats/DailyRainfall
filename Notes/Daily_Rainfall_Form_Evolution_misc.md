@@ -32,7 +32,7 @@ as well as more than 20 millimetre versions of the form from 1919 onwards.
 |**Double-sided**|35|19|54|
 |**Total**|95|24|119|
 
-There may be a few more versions to be discovered, for example no version for 1880 was found in the samples.
+There may be a few more versions to be discovered.
 
 <hr/>
 
@@ -48,8 +48,8 @@ until 1950, a print-run size. Extracting the year and print-run size and plottin
 
 If the values extracted from the Printing code really are print-run sizes, it looks like there was a lot of stockpiling of forms in the years just before the Second World War.
 
-Adding up these print-run sizes produces a total around 600,000 Daily Rainfall forms printed up to 1950. This compares to about 360,000 images in the combined DRain volumes, although
-that number contains forms from 1951-1962 (and a few very early ones), does not contain any Irish stations or records for Scotland before 1922, not all images are of Daily Rainfall forms, and some forms 
+Adding up these print-run sizes produces a total around 600,000 Daily Rainfall forms printed up to 1950. This compares to about 388,000 images in the combined DRain volumes, although
+that number contains forms from 1951-1962 (and a few very early ones), does not contain any Irish stations, not all images are of Daily Rainfall forms, and some forms 
 appear twice, as separate front and back images. So very roughly, perhaps around half of the printed forms ended up being used, returned and stored in the Met Office archives.
 
 <hr/>
@@ -88,7 +88,7 @@ appear twice, as separate front and back images. So very roughly, perhaps around
 |Year|Notes|
 |:----------|:----|
 |1868/69|First version, George Symons' British Rainfall Organization|
-|1900|H Sowerby Wallis and Hugh Robert Mill take over the running of the British Rainfall Organization|
+|1900|H. Sowerby Wallis and Hugh Robert Mill take over the running of the British Rainfall Organization|
 |1910|Assets of the British Rainfall Organization transferred by Hugh Robert Mill to a Trust| 
 |1919|British Rainfall Organization taken over by the Met Office, within the Air Ministry|
 |1957|British Rainfall Organization becomes part of the larger Met Office 'British Rainfall and Hydrology' department|
@@ -321,13 +321,15 @@ Many of the Daily Rainfall forms have now been scanned to produce digital images
 
 * the Met Office 'DRain' volumes
 
-  In mid-2024, PDF files of scanned Daily Rainfall form images were made available on the Met Office's Online Archive:
-  
-  * [England, Wales, Channel Islands and the Isle of Man](https://digital.nmla.metoffice.gov.uk/SO_51194883-b9dd-4e27-93db-958f8fbea38b/) - pre-1860 to 1962 in 875 PDF files
-  * [Scotland](https://digital.nmla.metoffice.gov.uk/SO_68356e56-2bb7-478f-85b6-08a0ac1aabb5/) - 1922-1960 in 152 PDF files, with earlier records awaiting further funding
-  * the missing Northern Ireland records have not been scanned
+  PDF files of scanned Daily Rainfall form images were made available on the Met Office's Online Archive in 2024 and 2025.
+
+  * mid-2024: [England, Wales, Channel Islands and the Isle of Man](https://digital.nmla.metoffice.gov.uk/SO_51194883-b9dd-4e27-93db-958f8fbea38b/) - pre-1860 to 1962 in 875 PDF files
+  * mid-2024: [Scotland](https://digital.nmla.metoffice.gov.uk/SO_68356e56-2bb7-478f-85b6-08a0ac1aabb5/) - 1922-1960 in 152 PDF files
+  * mid-2025: Scotland - 1864-1921 in 57 volumes, with 1870 not yet available online
   
 * Met Éireann have scanned the Daily Rainfall images in their archives - see [Ireland’s pre-1940 daily rainfall records](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.103)
+
+The missing Northern Ireland records have not been scanned.
 
 ### Digitised rainfall values ###
 

@@ -47,7 +47,7 @@ every version of the form as the basis for a version identifier. Although no ref
 inspection they can be seen to always contain a month and year value, and up to 1950 there was also a neighbouring round number that seems to be a print-run size. 
 
 For early forms, the entire Printing code is used as the version identifier. After the British Rainfall Organization became part of the Met Office - within the
-Air Ministry as so subject to HMSO's procedures - Printing codes became much longer and more cryptic, and so a version identifier just based on the month/year/print-run parts has been
+Air Ministry and so subject to HMSO's procedures - Printing codes became much longer and more cryptic, and so a version identifier just based on the month/year/print-run parts has been
 extracted.
 
 Example early Printing code "K-1000/12/70" from December 1870, used directly as the version identifier: 
@@ -72,6 +72,6 @@ There are also [PDF versions of the Gallery](Daily_Rainfall_Form_Gallery_pdfs.md
 
 ## Completeness
 
-There are over 1000 DRain volumes in the Met Office Online Archive, comprising over 360,000 scanned images, most of which are Daily Rainfall forms. These notes have been compiled by sampling a few
-volumes for each decade; there is potential for a few more form versions to be found in the other volumes.
+There are nearly 1100 DRain volumes in the Met Office Online Archive, comprising nearly 390,000 scanned images, most of which are Daily Rainfall forms. These notes have been compiled by sampling a few
+volumes for each decade; there is potential for a few form versions not covered in these notes to be found in the other volumes.
 
