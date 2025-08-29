@@ -134,7 +134,7 @@ up to 1915, but is never identified as being the printer:
 British Rainfall annuals also showed 'Edward Stanford' and an address near the bottom of its title pages from 1861 to 1918, and identified the printer as 'G.Shield' and later as 'Shield and Spring' - initially 
 at 30, Lower Sloane Street and then at other nearby addresses. So G.Shield is a candidate for being the printer of the early versions of the Daily Rainfall form, but this is only speculation. [In the [February 1905 edition
 of Meteorological Magazine](https://digital.nmla.metoffice.gov.uk/IO_deebfc86-9d4e-4808-9eba-bc24c2cb4e9c) on p2, there are some reminiscences provided by G.W.C.Shield on working with George Symons, 
-but this does not mention forms.]
+but there is no mention of forms.]
 
 After the British Rainfall Organization became part of the Met Office and Air Ministry, its forms and publications come under HMSO - there is no further mention of Edward Stanford:
 * the 1919 to 1923 versions of the form (still single-sided) do not name the printer, but include likely printer name abbreviations in the Printing code:
