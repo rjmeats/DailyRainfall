@@ -368,3 +368,6 @@ The name of the pamphlet as reported on the form changed over time, becoming sim
 |K/4,000/11/02|The British Rainfall Organization - Rules for Rainfall Observers|
 |K/5000/10/03|Rules for Rainfall Observers|
 
+The introduction to the Meteorological Magazine combined volume for 1903 discusses the reworking of the Rules pamphlet:
+
+<img src="page_images/MM_1903.rules_update.adj.jpg" style="width:400px">
