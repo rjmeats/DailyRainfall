@@ -370,4 +370,4 @@ The name of the pamphlet as reported on the form changed over time, becoming sim
 
 The introduction to the Meteorological Magazine combined volume for 1903 discusses the reworking of the Rules pamphlet:
 
-<img src="page_images/MM_1903.rules_update.adj.jpg" style="width:400px">
+<img src="page_images/MM_1903.rules_update.adj.jpg" style="width:500px">
