@@ -3,7 +3,7 @@
 Most of the images in the [DRain volumes](https://digital.nmla.metoffice.gov.uk/index.php?name=SO_9903efdf-7f99-4cae-a723-8b3f426eea20) are of British Rainfall / Met Office 
 Daily Rainfall forms covering a full year. These standard 12x31 forms are described in detail [here](Daily_Rainfall_Form_Evolution.md).
 
-The DRain volumes also contain small amounts of some other items, including: 
+The DRain volumes also contain small quantities of some other items, including: 
 * contents sheets at the start of many volumes
 * handwritten notes produced by observers
 * other standard forms used for recording rainfall or relating to rainfall records
@@ -25,9 +25,9 @@ This note provides examples of some of the 'other standard forms' cases above, d
 <hr/>
 
 <a id="Forms-for-daily-rainfall-reporting-over-a-one-month-period"></a>
-## Forms for daily rainfall reporting over a one month period
+## British Rainfall forms for daily rainfall reporting over a one month period
 
-Examples of postcard-size forms covering a single month, with 31 daily rows and aggregates for the month. (In practice, some of the examples have been used
+Examples of postcard-size British Rainfall forms covering a single month, with 31 daily rows and aggregates for the month. (In practice, some of the examples have been used
 to report daily rainfall for two months rather than one, by using the 'Remarks' column as a second values column.) 
 
 ### Form C
