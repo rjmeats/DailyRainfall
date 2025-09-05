@@ -29,23 +29,37 @@ the volumes too, for example:
 * table of contents pages
 * annual daily rainfall forms used to report non-daily rainfall (e.g. weekly, monthly)
 
-These sample inspections also show some differences in the organisation and contents of the 'Scotland' volumes compared to the 'England & Wales' volumes.
+These sample inspections also show some differences in the organisation and contents of the 'Scotland' volumes compared to the 'England & Wales' volumes, as outlined in general terms below.
 
 ## 'England & Wales' volumes
 
-* this sub-division also includes the Isle of Man and the Channel Islands
-* each volume covers a decade or more, and so can contain multiple annual forms for a particular station
-* volumes usually begin with a contents list showing the stations/years present in the volume
-* .. followed by the detailed records ordered by station name (station number from the 1930s) and then year
-* the first annual form for a station within a volume usually has a small label attached to it naming the station and listing its years
-* .. this form is imaged twice on consecutive pages, once with the label displayed, and then again with the label raised or detached
-* .. as a result, up to 10% of the annual form images are duplicates, other than in the label position
-* volumes up to the 1920s are county-based, from the 1930s onwards they are based on British Rainfall station number ranges 
-* records go up to 1962
+(This Met Office sub-division also includes records from the Isle of Man and the Channel Islands.)
+
+* each volume covers a decade (more for the pre-1860 and 1950-1962 volumes), and so can contain multiple annual forms from a particular station
+* volumes up to the 1920s are county-based, from the 1930s onwards they are based on British Rainfall station number ranges
+* the first page(s) in a volume usually show a contents list of the stations/years present in the volume
+* detailed records follow the contents list, ordered by station name (or number) and then year 
+* the first annual form for each station within a volume usually has a small label attached to it, naming the station and listing its years, as a sort of chapter heading
+	* this form is imaged twice on consecutive pages, first with the label displayed, and then again with the label raised or detached
+	* as a result, up to 10% of the annual form images in the volume are essentially duplicates, other than in the label position
+* records go up to 1962 rather than 1960
 
 ## 'Scotland' volumes
 
-* volumes contain records for a single year
+* volumes contain records for a particular single year rather than for a decade
+* there is a single 'all counties' volume per year up until 1921, covering the whole of Scotland
+* from 1922 to 1924 there are two volumes per year
+* from 1925 onwards there are 4 volumes per year, two covering Wigtown to Argyll, two covering Clackmannan to Shetland
+* the county ordering within a volume is the same as used for the Scottish counties within British Rainfall
+* in the volumes up to 1903, about 80% of the pages are for *monthly* forms of daily rainfall rather than annual forms
+	* from 1904 onwards, the monthly forms are no longer included in the volumes(and the page count of the volumes drops) 
+	* the monthly forms are often damaged or stained
+	* there may or may not be an annual form containing the combined monthly form values for a particular station for the year
+* normally there are no labels attached to the forms, and so forms are not double-imaged
+* from the 1920s, images quite often show the rear side of the annual form, which contains monthly rainfall figures for a year (and some metadata) rather than daily figures
+* there are a few volumes not covered by the above:
+	* 1925 and 1926 each have an additional volume of records just from lighthouses
+  
 
 
 ## Ireland
