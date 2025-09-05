@@ -2,7 +2,8 @@ Contains items relating to the [Daily Rainfall 'DRain' volumes](https://digital.
 in the [Met Office Online Archive](https://digital.nmla.metoffice.gov.uk/). The DRain volumes are PDF files contain scanned images of daily rainfall records 
 collected by the British Rainfall Organization up to the early 1960s. The PDF volumes were produced by the Met Office in 2024 and 2025.
 
-[High-level notes on the DRain Volumes Archive](Volume_Info.md)
+* [high-level notes on the DRain Volumes Archive](Volume_Info.md)
+* [spreadsheet listing the volumes in the DRain archive](DRain_Volumes.xlsx)
 
 Notes on detailed aspects of the DRain archive contents:
 
