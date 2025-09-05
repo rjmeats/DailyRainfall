@@ -18,6 +18,36 @@ Summary of PDF volume counts:
 |Scotland|209|77,426|
 |Total|1084|388,150|
 
-
 This spreadsheet lists all the volumes in the DRain archive: [DRain_Volumes.xlsx](DRain_Volumes.xlsx). 
 
+Impressions from inspecting sample DRain volumes are that in the main they consist of annual daily rainfall forms for a particular station, but there are various other forms and items in
+the volumes too, for example:
+
+* daily rainfall forms covering a single month
+* monthly rainfall forms for a year
+* notes and letters
+* table of contents pages
+* annual daily rainfall forms used to report non-daily rainfall (e.g. weekly, monthly)
+
+These sample inspections also show some differences in the organisation and contents of the 'Scotland' volumes compared to the 'England & Wales' volumes.
+
+## 'England & Wales' volumes
+
+* this sub-division also includes the Isle of Man and the Channel Islands
+* each volume covers a decade or more, and so can contain multiple annual forms for a particular station
+* volumes usually begin with a contents list showing the stations/years present in the volume
+* .. followed by the detailed records ordered by station name (station number from the 1930s) and then year
+* the first annual form for a station within a volume usually has a small label attached to it naming the station and listing its years
+* .. this form is imaged twice on consecutive pages, once with the label displayed, and then again with the label raised or detached
+* .. as a result, up to 10% of the annual form images are duplicates, other than in the label position
+* volumes up to the 1920s are county-based, from the 1930s onwards they are based on British Rainfall station number ranges 
+* records go up to 1962
+
+## 'Scotland' volumes
+
+* volumes contain records for a single year
+
+
+## Ireland
+
+There are no volumes of daily rainfall records for any part of Ireland in the DRain archive.
