@@ -20,8 +20,8 @@ Summary of PDF volume counts:
 
 This spreadsheet lists all the volumes in the DRain archive: [DRain_Volumes.xlsx](DRain_Volumes.xlsx). 
 
-Impressions from inspecting sample DRain volumes are that in the main they consist of annual daily rainfall forms for a particular station, but there are various other forms and items in
-the volumes too, for example:
+Impressions from inspecting sample DRain volumes are that in the main they consist of annual daily rainfall forms for a particular station, usually on the standard British Rainfall form of the time,
+but there are various other forms and items in the volumes too, for example:
 
 * daily rainfall forms covering a single month
 * monthly rainfall forms for a year
@@ -52,15 +52,16 @@ These sample inspections also show some differences in the organisation and cont
 * from 1925 onwards there are 4 volumes per year, two covering Wigtown to Argyll, two covering Clackmannan to Shetland
 * the county ordering within a volume is the same as used for the Scottish counties within British Rainfall
 * in the volumes up to 1903, about 80% of the pages are for *monthly* forms of daily rainfall rather than annual forms
-	* from 1904 onwards, the monthly forms are no longer included in the volumes(and the page count of the volumes drops) 
-	* the monthly forms are often damaged or stained
-	* there may or may not be an annual form containing the combined monthly form values for a particular station for the year
+    * the monthly forms have fields for daily and monthly remarks, which are often populated
+	* the monthly forms are sometimes damaged or badly stained
+	* from 1904 onwards, the monthly forms are no longer included in the volumes (and the page count of the volumes drops accordingly) 
+	* the volume may or may not contain an annual form containing the combined monthly form values for a particular station for the year
 * normally there are no labels attached to the forms, and so forms are not double-imaged
 * from the 1920s, images quite often show the rear side of the annual form, which contains monthly rainfall figures for a year (and some metadata) rather than daily figures
 * there are a few volumes not covered by the above:
 	* 1925 and 1926 each have an additional volume of records just from lighthouses
-  
-
+	* the DRain_1911_1915_All_Counties covers 5 years and contains monthly records for additional (?) stations reporting to the Met Office (rather than British Rainfall, then still a separate organisation)
+* volumes cover the years 1864 to 1960, apart from 1868 which has no records (and 1870, not yet available in the archive)
 
 ## Ireland
 
