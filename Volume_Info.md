@@ -14,9 +14,9 @@ Summary of PDF volume counts:
 
 |Division|Volume count|Combined pages|
 |:-------|------------|--------------|
-|England & Wales|875|310,724|
+|England & Wales|877|310,724|
 |Scotland|209|77,426|
-|Total|1084|388,150|
+|Total|1086|388,150|
 
 This spreadsheet lists all the volumes in the DRain archive: [DRain_Volumes.xlsx](DRain_Volumes.xlsx). 
 
