@@ -330,6 +330,7 @@ Many of the Daily Rainfall forms have now been scanned to produce digital images
   * mid-2025: Scotland - 1864-1921 in 57 volumes, with 1870 not yet available online
   * September 2025: 3 of the England and Wales volumes for 1891 were re-arranged into 5 volumes to correctly split them into counties, taking the total to 877 PDF files for the combined England, Wales, Channel Islands and 
   the Isle of Man volumes
+  * September 2025: the 1870 volume for Scotland became available online
   
 * Met Éireann have scanned the Daily Rainfall images in their archives - see [Ireland’s pre-1940 daily rainfall records](https://rmets.onlinelibrary.wiley.com/doi/10.1002/gdj3.103)
 
